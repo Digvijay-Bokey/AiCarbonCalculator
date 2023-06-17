@@ -5,7 +5,7 @@ from sklearn import datasets
 import matplotlib.pyplot as plt
 
 # 0) Prepare data
-X_numpy, y_numpy = datasets.make_regression(n_samples=100, n_features=1, noise=20, random_state=4)
+X_numpy, y_numpy = datasets.make_regression(n_samples=10000000, n_features=1, noise=20, random_state=4)
 
 # cast to float Tensor
 X = torch.from_numpy(X_numpy.astype(np.float32))
