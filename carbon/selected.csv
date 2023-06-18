@@ -1,0 +1,2356 @@
+REGIONC,DIVISION,state_name,BA_climate,TYPEHUQ,YEARMADERANGE,WALLTYPE,SWIMPOOL,RECBATH,FUELTUB,RANGEFUEL,OUTGRILLFUEL,DWASHUSE,DRYRFUEL,EQUIPM,FUELHEAT,FUELH2O,MONEYPY,CARBFTP
+WEST,Mountain South,New Mexico,Mixed-Dry,5,3,1,-2,1,-2,5,-2,1,-2,2,1,1,11,9
+SOUTH,East South Central,Mississippi,Mixed-Humid,5,7,3,-2,1,-2,5,23,0,5,4,5,5,8,15
+WEST,Mountain South,Arizona,Hot-Dry,5,5,4,-2,1,5,5,-2,0,-2,4,5,5,9,14
+WEST,Pacific,California,Hot-Dry,3,3,4,1,0,-2,1,-2,0,5,5,5,5,9,10
+WEST,Mountain South,New Mexico,Mixed-Dry,2,6,4,0,1,-2,5,-2,7,5,2,1,1,16,12
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,1,0,-2,5,2,7,5,8,7,5,15,9
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,1,1,5,-2,2,1,5,-2,-2,5,13,14
+WEST,Pacific,California,Hot-Dry,2,1,3,1,0,-2,13,1,1,5,3,1,1,15,6
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,2,1,1,0,-2,-2,-2,3,5,3,1,1,11,5
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,5,5,2,-2,5,3,1,1,15,12
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,1,1,2,1,1,3,1,1,7,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,1,0,1,-2,5,2,1,5,3,1,1,13,9
+MIDWEST,East North Central,Michigan,Cold,2,4,3,0,1,5,5,2,3,5,3,2,5,13,9
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,3,3,1,1,5,13,2,4,5,3,1,5,16,8
+WEST,Pacific,California,Hot-Dry,2,1,4,1,0,-2,1,1,5,1,3,1,1,16,7
+NORTHEAST,New England,Massachusetts,Cold,2,2,3,1,1,5,13,2,4,5,3,1,1,15,7
+SOUTH,West South Central,Texas,Mixed-Humid,2,4,1,1,0,-2,1,1,2,5,3,1,1,16,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,2,3,1,0,-2,5,2,-2,1,2,1,1,9,7
+SOUTH,South Atlantic,Georgia,Hot-Humid,1,9,3,1,0,-2,5,2,7,5,3,5,5,13,13
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,9,3,1,0,-2,5,2,2,5,5,5,5,14,14
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,1,2,3,1,3,1,1,16,12
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,13,2,1,5,3,1,1,16,13
+MIDWEST,East North Central,Ohio,Cold,2,7,3,0,1,-2,1,-2,5,5,3,1,1,14,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,3,0,1,-2,5,-2,4,5,3,1,1,14,12
+WEST,Pacific,Alaska,Very-Cold,3,5,3,0,1,-2,-2,-2,10,1,3,1,1,14,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,7,1,1,0,-2,-2,2,1,5,3,1,1,15,10
+MIDWEST,East North Central,Illinois,Cold,2,5,3,1,1,5,5,2,7,5,3,1,1,15,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,4,3,1,0,-2,5,2,-2,5,2,3,5,14,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,1,0,-2,-2,23,1,5,3,1,5,16,9
+WEST,Mountain North,Colorado,Cold,2,2,1,0,1,-2,-2,1,1,5,3,1,1,15,5
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,4,1,1,0,-2,5,2,3,5,3,1,1,16,7
+NORTHEAST,New England,Massachusetts,Cold,2,1,3,0,1,-2,1,2,7,1,2,1,1,16,6
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,1,2,5,2,-2,-2,3,5,5,13,7
+SOUTH,West South Central,Texas,Hot-Humid,2,6,3,0,1,2,2,-2,5,5,3,2,2,14,11
+MIDWEST,East North Central,Ohio,Cold,2,5,3,1,0,-2,1,2,3,5,3,1,5,14,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,1,5,2,2,5,5,3,3,3,16,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,4,1,0,-2,5,2,3,5,4,5,5,14,10
+MIDWEST,East North Central,Indiana,Cold,2,2,1,0,1,5,5,2,0,5,3,2,2,15,5
+WEST,Pacific,Washington,Marine,2,1,2,1,0,-2,-2,2,6,5,4,5,5,14,5
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,1,1,-2,23,7,5,3,1,1,16,8
+NORTHEAST,New England,Maine,Cold,2,4,3,1,0,-2,2,2,7,5,2,3,3,13,9
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,-2,23,0,5,3,1,5,14,10
+WEST,Pacific,Alaska,Very-Cold,2,5,2,0,1,1,1,2,5,1,3,1,1,14,9
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,5,2,0,1,-2,-2,2,3,5,4,5,5,14,9
+SOUTH,West South Central,Texas,Hot-Dry,2,7,2,1,0,-2,1,23,0,5,7,1,1,6,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,7,0,1,-2,5,2,1,5,3,2,5,14,12
+WEST,Pacific,California,Hot-Dry,2,2,4,1,1,1,1,1,0,1,3,1,5,14,8
+NORTHEAST,New England,New Hampshire,Cold,2,1,3,0,1,-2,2,1,7,5,8,7,5,16,6
+WEST,Mountain South,Arizona,Hot-Dry,5,3,1,-2,1,5,5,-2,1,-2,3,1,1,10,9
+MIDWEST,East North Central,Wisconsin,Cold,2,6,3,0,1,-2,13,2,7,5,3,1,1,11,11
+SOUTH,East South Central,Alabama,Hot-Humid,2,8,6,0,1,-2,2,-2,-2,5,4,5,5,6,16
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,5,23,5,5,3,1,1,16,10
+MIDWEST,East North Central,Ohio,Cold,2,2,5,1,0,-2,13,2,3,5,3,1,1,16,9
+NORTHEAST,New England,New Hampshire,Cold,2,6,3,1,0,-2,-2,-2,4,5,2,3,3,15,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,6,2,1,0,-2,1,2,2,5,3,1,1,11,10
+NORTHEAST,New England,New Hampshire,Cold,2,6,3,1,0,-2,-2,2,5,5,2,2,2,16,11
+WEST,Pacific,California,Hot-Dry,2,3,4,0,1,5,13,2,0,1,3,1,1,16,9
+MIDWEST,West North Central,South Dakota,Cold,2,6,3,0,1,5,5,2,-2,5,3,2,2,15,11
+NORTHEAST,New England,New Hampshire,Cold,2,4,3,1,1,5,5,2,0,5,2,3,5,14,9
+WEST,Pacific,Washington,Marine,2,4,3,0,1,1,5,2,3,5,3,1,1,14,9
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,0,-2,-2,23,5,5,3,1,1,16,9
+MIDWEST,East North Central,Ohio,Cold,3,7,3,0,1,-2,-2,1,6,-2,3,1,5,16,13
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,8,3,0,1,-2,5,-2,0,5,4,5,5,10,13
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,2,0,1,-2,-2,2,8,5,4,5,5,15,9
+WEST,Mountain North,Idaho,Cold,2,6,2,0,1,5,5,2,4,5,3,1,1,13,10
+NORTHEAST,New England,Massachusetts,Cold,2,4,2,1,1,5,5,2,7,5,13,5,5,16,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,3,0,1,1,5,23,0,5,3,1,1,12,12
+MIDWEST,East North Central,Illinois,Cold,2,7,3,0,1,-2,1,2,5,1,3,1,1,16,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,1,1,1,1,-2,1,2,5,3,1,1,13,9
+SOUTH,West South Central,Louisiana,Hot-Humid,2,4,1,1,0,-2,5,2,4,5,3,1,1,12,7
+WEST,Pacific,California,Hot-Dry,3,3,4,1,0,-2,5,-2,-2,-2,5,5,5,14,10
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,6,3,1,0,-2,5,23,-2,5,8,7,5,8,11
+WEST,Mountain North,Montana,Cold,2,4,2,0,1,5,13,2,7,5,8,7,5,16,8
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,1,2,0,1,3,1,1,15,10
+NORTHEAST,New England,Rhode Island,Cold,2,6,3,0,1,5,1,2,1,5,2,1,1,15,11
+MIDWEST,West North Central,Iowa,Cold,2,4,2,0,1,5,5,1,3,1,3,1,1,16,8
+WEST,Mountain South,New Mexico,Mixed-Dry,2,7,4,0,1,5,1,2,3,5,3,1,5,15,13
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,0,1,5,2,2,2,5,3,2,2,14,11
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,1,1,-2,2,5,5,3,1,5,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,5,2,3,5,4,5,5,16,15
+WEST,Pacific,California,Hot-Dry,2,6,4,1,0,-2,13,23,2,5,3,1,1,11,12
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,1,5,1,0,-2,1,2,1,5,3,1,5,16,8
+WEST,Pacific,Oregon,Marine,2,2,2,0,1,5,1,2,6,5,3,1,5,4,6
+SOUTH,West South Central,Texas,Mixed-Dry,2,5,1,1,0,-2,5,2,0,5,3,5,5,13,8
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,-2,2,0,5,3,1,1,12,10
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,4,2,0,1,-2,2,2,-2,5,4,5,5,4,8
+MIDWEST,East North Central,Indiana,Cold,2,3,3,1,0,-2,1,2,7,1,3,1,1,13,8
+NORTHEAST,New England,Maine,Cold,2,6,2,1,1,5,-2,2,7,5,3,3,3,16,10
+SOUTH,West South Central,Texas,Hot-Dry,2,6,4,0,1,-2,1,2,2,5,3,1,1,13,12
+SOUTH,East South Central,Alabama,Mixed-Humid,2,5,3,1,0,-2,5,2,5,5,7,1,5,16,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,2,1,1,1,5,13,1,5,5,3,1,1,16,5
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,4,6,0,1,5,-2,2,5,5,3,1,5,15,12
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,8,3,1,0,-2,5,2,3,5,3,1,5,16,13
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,-2,1,1,1,4,5,1,16,12
+NORTHEAST,New England,New Hampshire,Cold,2,4,5,1,1,5,5,2,1,5,7,3,5,14,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,4,1,0,1,5,2,2,2,5,4,5,5,16,7
+WEST,Mountain North,Colorado,Cold,5,6,3,-2,1,5,5,2,3,5,2,1,1,7,14
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,2,1,0,1,-2,5,2,0,5,10,5,5,8,5
+SOUTH,East South Central,Alabama,Mixed-Humid,3,6,3,0,1,1,5,1,3,5,3,1,1,15,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,2,0,1,5,5,2,2,5,3,1,1,13,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,2,0,1,-2,5,2,2,5,4,5,5,14,8
+WEST,Pacific,California,Hot-Dry,2,5,3,1,1,-2,-2,23,7,1,3,1,1,16,10
+WEST,Mountain North,Colorado,Cold,2,7,4,0,1,1,-2,1,5,1,3,1,5,15,13
+WEST,Mountain North,Idaho,Cold,1,4,3,0,1,5,5,2,1,5,3,5,5,1,8
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,0,-2,1,1,14,1,3,1,1,12,13
+WEST,Pacific,California,Hot-Dry,2,6,4,1,0,-2,1,2,7,5,3,1,1,15,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,7,3,0,1,5,5,23,2,5,4,5,5,13,12
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,5,23,2,1,4,5,1,15,13
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,5,1,1,0,-2,13,23,0,5,3,1,5,15,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,3,3,1,0,-2,5,2,5,5,4,5,5,15,8
+NORTHEAST,New England,Rhode Island,Cold,2,4,3,1,0,-2,5,2,7,5,13,5,5,10,9
+NORTHEAST,Middle Atlantic,New Jersey,Cold,3,5,3,0,1,-2,5,1,5,1,3,1,1,14,11
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,8,2,0,1,-2,5,2,-2,5,5,5,5,5,12
+WEST,Pacific,Washington,Marine,2,9,3,0,1,5,5,2,7,5,13,5,5,15,14
+MIDWEST,East North Central,Michigan,Cold,2,2,1,0,1,-2,5,-2,2,1,3,1,5,15,5
+WEST,Pacific,Alaska,Very-Cold,2,6,2,0,1,-2,5,2,1,1,2,1,1,6,10
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,3,1,0,-2,-2,23,6,5,3,5,5,16,12
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,1,0,-2,5,23,6,5,3,1,1,16,10
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,4,1,1,0,-2,5,2,2,5,4,5,2,13,7
+WEST,Pacific,Oregon,Cold,2,2,2,0,1,5,5,2,5,5,3,1,5,15,6
+MIDWEST,East North Central,Indiana,Cold,2,5,2,1,0,-2,-2,2,3,5,3,1,1,16,9
+MIDWEST,West North Central,Minnesota,Cold,2,4,3,0,1,-2,-2,2,2,5,3,1,1,15,9
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,1,1,-2,1,2,5,3,1,1,16,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,2,1,5,3,5,5,12,16
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,3,0,1,5,5,2,1,5,4,5,5,5,9
+MIDWEST,East North Central,Michigan,Cold,2,1,3,1,1,5,-2,-2,6,1,3,1,1,16,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,1,7,0,1,5,5,23,1,5,-2,-2,5,7,10
+NORTHEAST,New England,Rhode Island,Cold,2,3,5,1,0,-2,5,2,7,5,3,3,3,12,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,3,1,0,1,-2,5,-2,0,5,3,1,1,14,6
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,9,3,0,1,-2,-2,23,5,2,4,5,2,16,14
+WEST,Pacific,California,Marine,4,9,2,-2,1,5,5,-2,0,-2,3,1,1,12,15
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,0,-2,-2,2,0,5,4,5,5,13,12
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,4,1,1,0,-2,-2,2,2,1,3,1,1,9,7
+NORTHEAST,New England,Rhode Island,Cold,2,7,3,1,0,-2,5,23,6,5,2,3,3,11,12
+WEST,Mountain South,New Mexico,Hot-Dry,2,6,1,1,0,-2,1,2,2,5,3,1,1,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,3,2,1,0,-2,5,23,0,5,4,5,5,11,7
+WEST,Mountain North,Idaho,Cold,2,7,4,0,1,5,13,2,5,5,3,1,1,16,13
+WEST,Pacific,Oregon,Cold,2,7,3,0,1,5,-2,-2,2,5,3,5,5,14,12
+WEST,Pacific,Washington,Cold,2,7,4,0,1,5,-2,2,5,5,4,5,5,16,13
+WEST,Pacific,California,Marine,2,2,4,1,0,-2,1,1,1,5,3,1,1,14,8
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,5,-2,0,5,3,5,5,13,13
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,1,1,-2,-2,7,5,3,1,1,16,8
+WEST,Mountain South,New Mexico,Cold,2,5,2,0,1,1,-2,2,0,1,3,1,1,12,9
+MIDWEST,West North Central,Minnesota,Very-Cold,2,5,2,0,1,-2,5,2,2,1,3,1,1,16,9
+WEST,Mountain South,Nevada,Cold,2,5,2,0,1,5,-2,23,3,5,3,2,2,16,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,1,2,1,0,-2,2,2,-2,5,3,3,5,12,5
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,2,2,1,0,-2,5,23,1,5,10,5,5,7,6
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,3,1,0,1,-2,5,23,7,5,4,5,5,13,6
+WEST,Mountain North,Montana,Cold,3,5,3,1,0,-2,5,2,3,5,3,1,1,15,11
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,0,1,5,1,1,0,5,3,1,5,9,13
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,3,1,0,-2,1,2,3,1,3,1,1,14,6
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,3,0,1,1,-2,2,5,5,3,1,1,16,12
+MIDWEST,East North Central,Illinois,Cold,2,4,3,1,1,5,5,2,1,2,3,2,5,16,9
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,5,3,1,0,-2,-2,-2,0,5,4,5,5,7,10
+SOUTH,East South Central,Alabama,Mixed-Humid,2,1,3,0,1,5,1,-2,3,5,4,5,5,15,6
+WEST,Pacific,California,Marine,2,2,2,0,1,1,-2,2,7,5,3,1,1,16,6
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,3,3,1,0,-2,1,1,1,1,3,1,1,11,8
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,3,1,0,-2,5,2,4,5,3,5,5,15,12
+NORTHEAST,New England,Connecticut,Cold,2,2,3,1,0,-2,5,2,-2,5,3,2,5,15,7
+MIDWEST,East North Central,Ohio,Cold,2,2,3,1,1,-2,5,-2,3,5,3,1,5,6,7
+WEST,Pacific,California,Hot-Dry,2,5,99,1,1,1,1,1,7,1,3,1,1,16,106
+SOUTH,South Atlantic,Florida,Hot-Humid,4,7,7,-2,1,5,5,-2,7,5,13,5,5,16,18
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,0,1,-2,-2,2,3,5,3,3,3,16,12
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,1,0,-2,1,2,1,5,3,1,1,14,14
+MIDWEST,West North Central,North Dakota,Very-Cold,5,8,6,-2,1,-2,5,-2,0,5,3,5,5,1,19
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,3,1,0,-2,5,2,5,5,3,5,5,8,12
+WEST,Mountain North,Idaho,Cold,3,3,2,0,1,5,5,2,3,5,3,5,5,14,8
+MIDWEST,East North Central,Michigan,Cold,2,1,3,1,0,-2,-2,2,4,5,3,1,1,14,6
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,5,2,1,0,-2,5,2,0,5,3,1,5,12,9
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,3,1,0,-2,5,2,4,5,5,5,5,13,12
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,1,1,1,5,-2,23,3,5,4,5,5,15,10
+WEST,Mountain North,Wyoming,Cold,2,3,2,0,1,5,1,2,5,5,3,1,1,7,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,1,3,0,1,-2,-2,23,6,5,3,1,1,15,6
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,1,6,1,0,-2,1,2,7,5,3,1,5,12,9
+MIDWEST,East North Central,Ohio,Cold,2,7,3,1,0,-2,-2,2,6,5,3,1,1,15,12
+WEST,Pacific,California,Marine,2,7,4,1,0,-2,-2,2,1,1,3,1,1,14,13
+NORTHEAST,New England,Vermont,Cold,2,5,3,0,1,5,2,2,5,5,3,2,2,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,3,1,1,0,-2,5,23,3,5,3,1,1,14,6
+WEST,Pacific,California,Hot-Dry,2,5,4,1,1,-2,13,23,1,1,3,1,1,13,11
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,8,6,1,1,2,-2,2,5,5,4,5,5,16,16
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,4,3,1,0,-2,5,23,5,5,3,5,5,14,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,4,3,1,-2,1,-2,1,-2,-2,-2,3,1,1,13,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,0,1,5,5,2,4,5,4,5,2,15,12
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,1,-2,2,1,3,1,1,16,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,3,0,1,5,1,2,7,5,3,1,1,15,12
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,6,3,0,1,-2,1,1,15,5,3,1,1,15,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,2,3,1,0,-2,1,2,7,1,99,1,1,8,7
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,7,3,1,1,-2,-2,2,10,5,3,1,5,14,12
+MIDWEST,East North Central,Indiana,Cold,2,5,3,0,1,5,1,2,2,1,3,1,1,15,10
+WEST,Pacific,California,Hot-Dry,2,3,4,0,1,1,-2,-2,1,1,3,1,1,13,9
+SOUTH,South Atlantic,Florida,Hot-Humid,5,4,7,-2,1,-2,5,-2,1,-2,-2,-2,5,12,16
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,0,1,5,1,2,9,1,3,1,1,15,11
+MIDWEST,East North Central,Ohio,Mixed-Humid,2,2,1,0,1,-2,1,-2,0,5,3,1,5,16,5
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,5,2,1,0,-2,-2,2,5,5,3,2,2,9,9
+SOUTH,West South Central,Texas,Hot-Humid,2,8,1,1,0,-2,-2,2,2,1,4,5,5,16,11
+WEST,Mountain North,Wyoming,Cold,1,5,3,0,1,-2,5,23,-2,5,8,7,2,14,9
+SOUTH,West South Central,Texas,Hot-Humid,2,8,1,1,1,1,1,-2,7,1,3,1,1,16,11
+WEST,Pacific,Hawaii,Hot-Humid,2,5,2,1,1,-2,-2,2,2,5,-2,-2,8,15,9
+NORTHEAST,New England,Connecticut,Cold,2,1,3,1,0,-2,-2,2,7,5,3,3,1,15,6
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,3,3,4,0,1,-2,1,23,-2,1,2,1,1,15,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,0,1,5,5,2,6,5,3,5,5,13,11
+NORTHEAST,New England,Massachusetts,Cold,2,1,3,1,0,-2,1,2,3,5,2,1,1,16,6
+NORTHEAST,New England,Massachusetts,Cold,2,4,3,0,1,5,1,23,7,5,2,1,1,15,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,1,1,5,5,23,1,1,3,1,1,16,12
+MIDWEST,West North Central,Minnesota,Very-Cold,2,6,3,0,1,-2,2,-2,7,5,3,2,2,15,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,3,1,0,-2,5,23,7,5,13,5,5,13,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,1,1,0,-2,5,2,3,5,4,5,5,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,3,1,0,-2,1,23,1,1,3,1,1,15,6
+MIDWEST,West North Central,South Dakota,Cold,3,9,3,0,1,5,5,1,5,5,3,1,1,14,15
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,0,1,-2,5,2,0,5,3,1,1,11,10
+SOUTH,South Atlantic,Florida,Hot-Humid,1,6,3,0,1,5,5,-2,-2,5,4,5,5,1,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,1,1,5,5,23,4,1,2,1,1,15,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,1,0,-2,5,1,5,5,3,1,5,11,9
+WEST,Mountain North,Wyoming,Cold,2,2,3,0,1,5,5,1,2,1,3,1,1,15,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,0,1,1,5,2,1,5,2,1,1,14,12
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,6,1,1,5,1,1,4,5,3,1,5,16,15
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,3,1,0,-2,5,2,7,5,8,7,5,13,10
+WEST,Pacific,California,Hot-Dry,2,2,4,0,1,-2,-2,23,-2,1,3,1,1,15,8
+WEST,Pacific,California,Hot-Dry,5,6,5,-2,1,-2,5,23,0,-2,10,5,5,14,16
+WEST,Pacific,California,Marine,2,4,2,1,1,5,2,2,-2,2,13,5,2,13,8
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,1,1,0,1,5,1,23,2,5,2,1,1,16,4
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,0,1,-2,5,2,2,5,3,1,1,11,10
+WEST,Mountain North,Colorado,Cold,2,6,4,1,0,-2,5,2,4,5,3,1,1,16,12
+WEST,Mountain North,Montana,Cold,2,6,3,0,1,5,5,2,7,5,3,1,1,15,11
+MIDWEST,East North Central,Michigan,Cold,2,6,2,0,1,5,-2,1,3,1,3,1,1,16,10
+SOUTH,East South Central,Mississippi,Hot-Humid,2,6,1,0,1,-2,1,2,3,5,3,1,1,10,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,8,3,0,1,-2,1,-2,4,5,3,1,1,16,13
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,6,3,1,0,-2,5,23,20,5,3,5,5,15,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,1,1,-2,5,23,4,5,3,3,3,14,6
+SOUTH,South Atlantic,North Carolina,Hot-Humid,2,8,3,0,1,5,5,2,4,5,4,5,5,13,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,0,-2,1,1,5,1,3,1,5,16,8
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,1,1,0,-2,-2,-2,6,5,4,5,1,16,8
+SOUTH,South Atlantic,Maryland,Mixed-Humid,3,7,1,0,1,-2,5,-2,2,5,3,1,5,14,11
+WEST,Mountain South,Nevada,Hot-Dry,2,4,4,1,1,1,-2,2,0,5,3,1,1,13,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,7,1,1,5,5,2,4,5,3,5,5,15,17
+NORTHEAST,New England,New Hampshire,Cold,2,2,3,0,1,5,5,2,3,5,3,3,5,15,7
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,4,1,1,0,-2,5,2,2,5,4,5,1,15,7
+WEST,Mountain South,Arizona,Hot-Dry,2,9,4,1,0,-2,-2,2,3,5,3,1,1,13,15
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,8,4,1,1,1,1,1,7,5,4,5,1,16,14
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,1,-2,2,2,1,3,5,1,16,12
+WEST,Pacific,California,Marine,2,5,4,1,1,5,5,1,1,5,3,1,1,16,11
+WEST,Pacific,Oregon,Marine,2,4,2,0,1,5,5,23,3,5,4,5,5,9,8
+NORTHEAST,New England,Connecticut,Cold,2,7,3,1,0,-2,5,1,3,1,3,1,1,16,12
+WEST,Pacific,California,Marine,3,7,3,1,0,-2,5,23,2,5,3,1,1,12,13
+MIDWEST,East North Central,Michigan,Cold,2,7,3,1,0,-2,1,23,4,1,3,1,1,13,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,3,3,1,0,-2,1,1,7,5,3,1,1,16,8
+MIDWEST,East North Central,Wisconsin,Cold,2,4,2,1,0,-2,5,2,-2,5,3,1,5,12,8
+SOUTH,West South Central,Texas,Hot-Humid,2,7,4,1,1,1,-2,2,7,1,3,1,1,16,13
+SOUTH,West South Central,Louisiana,Hot-Humid,2,6,1,1,0,-2,5,23,7,5,4,5,5,13,9
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,1,0,-2,5,-2,7,5,3,1,1,12,12
+NORTHEAST,New England,Massachusetts,Cold,2,2,3,1,0,-2,5,2,0,1,3,1,1,13,7
+WEST,Mountain North,Montana,Cold,2,9,3,0,1,2,2,2,7,2,3,2,2,14,14
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,0,-2,1,23,-2,5,3,1,1,10,8
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,5,3,1,0,-2,1,2,5,5,3,1,1,15,10
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,-2,1,2,7,1,-2,-2,1,15,13
+SOUTH,West South Central,Texas,Mixed-Humid,2,7,1,1,0,-2,5,23,7,5,3,1,1,16,10
+SOUTH,South Atlantic,West Virginia,Cold,2,5,3,1,0,-2,5,2,0,5,8,7,5,2,10
+SOUTH,East South Central,Alabama,Mixed-Humid,3,5,3,1,0,-2,5,-2,2,5,3,5,5,11,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,1,3,0,1,5,1,23,5,5,3,1,1,16,6
+NORTHEAST,New England,Connecticut,Cold,2,6,1,1,0,-2,-2,2,3,5,3,1,1,16,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,5,4,7,-2,1,5,1,-2,-2,-2,3,1,1,3,16
+SOUTH,West South Central,Texas,Hot-Humid,2,4,3,0,1,-2,5,23,1,5,5,5,5,12,9
+WEST,Mountain South,Nevada,Hot-Dry,3,7,4,1,0,-2,1,-2,0,1,3,1,1,11,14
+MIDWEST,West North Central,Minnesota,Cold,2,1,3,0,1,-2,1,23,4,1,3,1,1,15,6
+MIDWEST,West North Central,Minnesota,Cold,2,2,2,0,1,5,5,2,5,5,3,1,5,15,6
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,0,1,-2,5,-2,1,5,3,1,1,16,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,1,0,-2,5,2,1,5,3,5,5,16,10
+WEST,Pacific,Washington,Marine,2,5,2,0,1,5,-2,-2,2,5,3,1,1,13,9
+WEST,Mountain North,Montana,Cold,2,3,1,0,1,5,5,2,3,5,3,1,1,16,6
+SOUTH,West South Central,Louisiana,Hot-Humid,2,2,7,1,0,-2,1,1,2,5,3,1,1,13,11
+WEST,Mountain North,Utah,Cold,2,8,1,1,0,-2,1,2,3,5,3,1,1,11,11
+SOUTH,East South Central,Alabama,Mixed-Humid,1,6,3,0,1,5,5,23,0,5,4,5,5,7,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,3,0,1,-2,1,-2,1,5,3,1,1,15,12
+MIDWEST,East North Central,Ohio,Cold,2,4,1,0,1,5,5,2,4,5,3,2,5,15,7
+SOUTH,West South Central,Louisiana,Hot-Humid,2,8,3,1,0,-2,2,2,5,5,4,5,2,16,13
+MIDWEST,East North Central,Indiana,Mixed-Humid,3,4,6,1,0,-2,1,-2,0,-2,3,1,1,14,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,1,0,-2,1,2,14,5,7,1,5,16,12
+NORTHEAST,New England,Massachusetts,Cold,2,3,3,1,0,-2,5,2,2,5,8,7,5,13,8
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,2,3,0,1,1,1,2,7,5,2,3,1,16,7
+WEST,Pacific,Washington,Marine,2,4,2,0,1,5,1,-2,1,1,3,1,1,14,8
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,0,1,5,5,2,0,5,4,5,5,12,11
+NORTHEAST,New England,Vermont,Cold,2,2,2,0,1,-2,-2,-2,0,5,3,3,5,16,6
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,2,3,1,0,-2,1,23,0,5,3,1,1,7,7
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,8,3,0,1,-2,5,2,3,5,3,1,1,15,13
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,5,1,2,5,7,1,5,16,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,1,0,-2,2,2,7,2,3,2,2,14,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,1,99,5,2,3,5,3,5,5,16,12
+MIDWEST,West North Central,Iowa,Cold,3,4,2,0,1,5,5,23,6,5,3,1,1,15,9
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,-2,-2,2,2,1,3,1,1,16,12
+MIDWEST,East North Central,Wisconsin,Cold,2,5,3,1,0,-2,5,2,3,5,3,1,1,15,10
+MIDWEST,West North Central,North Dakota,Very-Cold,2,9,3,0,1,5,2,2,5,5,7,2,5,16,14
+WEST,Pacific,Washington,Marine,2,7,3,0,1,-2,5,23,0,5,5,5,5,10,12
+WEST,Mountain North,Wyoming,Cold,2,3,3,0,1,5,5,23,3,5,3,1,1,14,8
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,0,-2,-2,2,2,5,3,1,1,15,9
+MIDWEST,East North Central,Illinois,Cold,2,7,3,0,1,5,1,23,9,5,3,1,1,16,12
+MIDWEST,West North Central,Nebraska,Cold,2,7,3,1,1,5,5,-2,8,5,3,1,1,15,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,1,0,-2,1,2,0,1,3,1,1,12,6
+WEST,Pacific,Hawaii,Hot-Humid,2,3,7,1,1,5,-2,2,2,5,-2,-2,5,16,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,9,2,0,1,5,-2,2,0,5,4,5,5,14,13
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,3,3,1,1,5,1,2,20,1,3,1,1,15,8
+NORTHEAST,New England,Massachusetts,Cold,2,2,2,1,0,-2,5,2,7,5,5,5,5,16,6
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,0,-2,5,2,0,5,3,1,1,14,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,0,1,5,5,23,2,5,3,5,5,10,16
+WEST,Pacific,California,Marine,2,8,4,0,1,5,13,23,4,5,8,7,2,14,14
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,3,1,1,-2,-2,2,1,5,4,5,5,14,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,8,3,1,0,-2,1,2,0,5,7,1,5,11,13
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,1,1,0,1,5,1,2,0,5,3,1,1,16,4
+MIDWEST,West North Central,Nebraska,Cold,3,6,3,0,1,5,5,-2,1,5,4,5,5,6,12
+MIDWEST,West North Central,Missouri,Mixed-Humid,3,6,1,0,1,-2,5,2,0,5,3,1,1,9,10
+WEST,Pacific,Hawaii,Hot-Humid,2,4,2,1,0,-2,-2,1,1,5,-2,-2,5,6,8
+WEST,Mountain North,Montana,Cold,2,3,2,0,1,5,1,2,4,5,3,1,1,15,7
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,-2,2,0,1,3,1,1,15,10
+WEST,Pacific,Hawaii,Hot-Humid,2,4,3,0,1,-2,5,23,-2,2,-2,-2,8,10,9
+WEST,Mountain North,Colorado,Cold,2,5,1,1,0,-2,5,-2,10,5,3,2,2,12,8
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,3,3,1,0,-2,5,23,6,2,3,3,2,16,8
+MIDWEST,East North Central,Indiana,Cold,2,4,1,0,1,5,5,2,-2,5,4,5,5,13,7
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,4,2,1,1,5,-2,2,7,5,3,3,3,15,8
+MIDWEST,West North Central,South Dakota,Cold,2,4,2,0,1,5,5,2,4,5,3,5,5,8,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,1,23,7,5,3,1,1,15,13
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,5,2,2,5,3,5,5,16,13
+SOUTH,East South Central,Mississippi,Mixed-Humid,3,7,1,0,1,1,5,23,-2,5,3,1,1,7,11
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,5,-2,6,5,2,3,3,15,7
+WEST,Mountain North,Idaho,Cold,2,5,2,0,1,5,5,2,7,5,5,5,5,16,9
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,1,0,-2,5,2,2,5,3,1,1,15,12
+MIDWEST,West North Central,Nebraska,Cold,2,3,1,1,0,-2,5,-2,-2,-2,3,1,1,16,6
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,1,0,-2,1,2,3,5,3,1,1,15,14
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,7,3,0,1,1,5,2,3,1,3,1,5,15,12
+WEST,Mountain North,Utah,Cold,2,4,4,0,1,5,5,2,-2,5,2,1,1,12,10
+NORTHEAST,New England,Connecticut,Cold,2,1,3,1,0,-2,5,-2,2,5,3,3,5,16,6
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,3,1,0,-2,5,2,2,5,4,5,5,16,11
+WEST,Pacific,Hawaii,Hot-Humid,2,4,2,0,1,5,5,2,3,5,-2,-2,5,15,8
+NORTHEAST,New England,Vermont,Cold,2,4,2,1,0,-2,2,-2,3,5,2,3,2,11,8
+MIDWEST,East North Central,Michigan,Cold,5,6,1,-2,1,-2,-2,-2,2,5,3,1,1,14,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,2,0,1,5,5,2,0,5,4,5,5,16,11
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,3,1,0,-2,5,2,7,5,4,5,5,15,9
+MIDWEST,East North Central,Wisconsin,Cold,2,1,6,1,0,-2,5,2,-2,5,3,1,1,15,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,3,1,0,-2,1,23,7,5,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,-2,2,3,5,3,5,5,15,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,9,1,1,0,-2,1,2,12,1,3,1,1,16,12
+WEST,Pacific,California,Marine,2,5,4,0,1,-2,5,23,6,1,3,1,1,15,11
+SOUTH,West South Central,Texas,Hot-Humid,1,5,3,1,0,-2,5,23,-2,5,3,5,5,10,9
+WEST,Pacific,Washington,Marine,2,7,2,0,1,5,-2,2,7,5,13,5,2,14,11
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,-2,1,-2,1,5,3,1,1,7,13
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,6,3,1,0,-2,2,2,10,2,3,2,5,16,11
+MIDWEST,East North Central,Indiana,Cold,2,6,3,0,1,-2,1,2,3,1,4,5,1,16,11
+NORTHEAST,New England,Massachusetts,Cold,2,4,3,1,0,-2,1,2,5,1,2,1,5,15,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,3,1,0,-2,5,2,3,5,3,5,5,15,9
+SOUTH,East South Central,Mississippi,Hot-Humid,2,7,1,0,1,5,5,23,0,5,3,5,1,14,10
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,2,2,0,1,1,5,23,0,5,3,1,1,12,6
+NORTHEAST,New England,New Hampshire,Cold,2,4,3,1,0,-2,5,2,2,5,3,3,3,14,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,0,-2,-2,2,-2,5,3,3,5,14,8
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,0,-2,2,2,3,2,3,5,2,15,10
+MIDWEST,East North Central,Illinois,Cold,3,6,3,0,1,5,1,-2,3,1,3,1,1,7,12
+WEST,Pacific,Oregon,Cold,2,4,3,0,1,5,2,2,1,5,8,7,5,13,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,3,5,1,1,0,-2,5,23,0,5,3,5,5,2,9
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,1,1,-2,2,2,6,2,8,7,3,15,10
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,23,3,1,3,1,1,12,12
+WEST,Pacific,Oregon,Marine,2,4,2,0,1,5,-2,23,-2,5,4,5,5,6,8
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,1,2,0,1,3,1,1,8,9
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,0,1,5,5,2,3,5,2,3,3,14,7
+MIDWEST,West North Central,South Dakota,Cold,2,4,3,0,1,5,1,2,1,5,3,1,5,13,9
+NORTHEAST,New England,Maine,Cold,2,7,3,0,1,5,5,2,2,5,3,3,3,16,12
+WEST,Mountain North,Idaho,Cold,2,3,2,0,1,-2,-2,2,7,5,3,1,1,14,7
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,-2,23,2,1,3,1,1,15,10
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,7,1,0,1,-2,5,-2,0,5,3,1,1,11,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,1,0,-2,1,2,2,5,5,5,1,16,12
+SOUTH,East South Central,Alabama,Mixed-Humid,2,5,1,1,0,-2,5,23,4,5,4,5,5,12,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,2,1,0,-2,5,2,1,5,4,5,5,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,5,7,3,-2,1,5,-2,-2,5,5,-2,-2,5,14,15
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,0,-2,5,2,0,5,3,5,5,11,14
+SOUTH,West South Central,Louisiana,Hot-Humid,2,4,1,1,0,-2,-2,1,4,5,4,5,5,16,7
+SOUTH,West South Central,Louisiana,Hot-Humid,2,5,1,1,0,-2,5,2,3,5,3,5,5,15,8
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,8,3,0,1,5,1,1,7,5,3,1,1,16,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,7,1,0,-2,5,2,0,5,-2,-2,5,14,12
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,1,0,1,5,-2,2,6,5,3,1,5,16,10
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,2,1,1,0,-2,1,2,0,5,3,1,5,16,5
+MIDWEST,West North Central,Minnesota,Cold,2,7,3,0,1,1,-2,-2,0,5,3,1,1,8,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,1,1,0,-2,13,2,4,5,4,5,5,15,8
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,5,5,2,2,5,3,5,5,15,13
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,4,1,1,0,-2,5,2,2,5,8,7,5,12,7
+SOUTH,West South Central,Louisiana,Hot-Humid,2,5,3,1,0,-2,5,23,7,5,5,5,5,14,10
+NORTHEAST,Middle Atlantic,New Jersey,Cold,5,5,2,-2,1,1,1,-2,-2,-2,-2,-2,1,3,12
+SOUTH,West South Central,Louisiana,Hot-Humid,4,7,2,-2,1,-2,1,-2,0,5,3,1,5,15,13
+MIDWEST,West North Central,North Dakota,Very-Cold,2,1,4,0,1,5,5,2,3,5,3,1,5,15,7
+SOUTH,West South Central,Louisiana,Hot-Humid,2,7,1,1,1,2,5,2,14,5,4,5,5,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,1,5,1,1,4,5,3,1,1,15,13
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,1,1,0,-2,5,2,5,5,3,5,5,12,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,3,3,1,0,-2,-2,2,3,5,3,1,1,15,8
+WEST,Mountain North,Idaho,Cold,2,6,4,0,1,5,5,23,2,5,4,5,5,13,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,1,0,1,-2,2,23,3,5,13,5,5,8,7
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,1,1,1,0,-2,1,1,4,1,3,1,1,16,4
+WEST,Mountain North,Wyoming,Cold,2,5,3,0,1,5,5,2,4,5,3,1,1,16,10
+WEST,Mountain South,Nevada,Hot-Dry,2,5,2,1,1,1,1,2,0,1,3,1,1,13,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,2,1,1,-2,2,2,3,5,4,5,2,16,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,1,0,-2,5,23,3,5,4,5,5,16,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,1,1,1,5,-2,2,4,5,4,5,5,15,10
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,3,1,1,0,-2,5,23,0,-2,5,5,5,7,6
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,4,2,0,1,-2,1,1,10,5,3,1,1,15,8
+MIDWEST,West North Central,South Dakota,Cold,2,4,1,1,1,5,5,2,2,5,3,2,2,12,7
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,3,4,2,0,1,5,-2,2,2,5,4,5,5,16,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,3,1,0,-2,1,-2,0,5,3,1,1,6,11
+NORTHEAST,New England,Connecticut,Cold,2,5,2,0,1,5,-2,2,5,1,2,1,5,15,9
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,8,1,1,0,-2,5,2,3,5,3,5,5,14,11
+SOUTH,South Atlantic,Florida,Hot-Humid,3,4,7,1,0,-2,5,-2,3,-2,-2,-2,5,12,14
+WEST,Mountain North,Utah,Cold,5,8,3,-2,1,5,5,2,1,5,7,1,2,10,16
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,9,3,0,1,5,-2,2,2,5,3,1,1,16,14
+MIDWEST,East North Central,Michigan,Cold,2,2,1,1,0,-2,1,2,1,5,3,1,1,11,5
+WEST,Mountain South,Nevada,Hot-Dry,2,5,4,1,0,-2,13,2,-2,5,3,1,1,14,11
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,8,7,1,0,-2,1,1,4,-2,3,1,1,15,17
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,0,1,5,5,2,2,5,2,1,1,13,9
+WEST,Pacific,Oregon,Marine,2,4,2,0,1,5,1,2,6,5,3,1,5,15,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,5,5,2,5,5,-2,-2,5,16,15
+WEST,Mountain North,Montana,Cold,1,7,3,0,1,1,5,-2,5,5,3,1,1,6,11
+NORTHEAST,New England,Rhode Island,Cold,2,5,2,1,1,5,2,2,3,5,8,7,5,14,9
+WEST,Pacific,Washington,Cold,2,7,3,0,1,1,1,2,-2,1,3,1,1,11,12
+WEST,Pacific,Alaska,Very-Cold,2,6,3,0,1,5,13,2,3,-2,3,1,1,16,11
+WEST,Mountain North,Wyoming,Cold,2,4,3,0,1,1,1,-2,-2,5,3,1,1,10,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,1,1,0,-2,-2,2,5,5,4,5,5,15,10
+WEST,Pacific,California,Hot-Dry,2,6,4,1,0,-2,-2,2,5,1,3,1,1,14,12
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,1,1,1,0,-2,2,2,3,5,3,3,3,16,4
+SOUTH,East South Central,Alabama,Mixed-Humid,4,8,1,-2,1,-2,13,23,-2,-2,3,5,1,4,13
+MIDWEST,East North Central,Indiana,Cold,5,4,1,-2,1,1,-2,-2,1,5,3,1,1,4,10
+SOUTH,South Atlantic,Delaware,Mixed-Humid,1,8,3,1,0,-2,2,2,6,5,4,5,5,6,12
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,4,6,0,1,5,5,-2,1,5,4,5,5,7,12
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,1,1,1,23,3,1,3,1,1,15,13
+WEST,Mountain North,Idaho,Cold,2,4,2,1,1,5,5,23,7,5,3,1,1,15,8
+MIDWEST,East North Central,Ohio,Cold,2,5,1,0,1,5,5,2,-2,5,8,7,5,11,8
+WEST,Pacific,California,Hot-Dry,2,1,4,0,1,5,1,2,3,1,3,1,1,15,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,2,1,0,1,2,2,2,0,2,3,2,2,8,5
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,1,1,5,5,23,1,5,4,5,2,13,11
+WEST,Pacific,Washington,Marine,2,6,3,0,1,5,2,2,10,5,4,5,5,16,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,8,3,0,1,5,5,-2,0,5,3,5,5,13,13
+WEST,Pacific,Washington,Marine,2,2,2,0,1,5,5,23,4,5,4,5,5,15,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,7,1,1,1,-2,1,1,1,3,1,1,15,18
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,1,3,1,0,-2,1,23,-2,5,3,3,1,11,6
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,7,1,1,0,-2,5,23,1,5,4,5,5,16,10
+NORTHEAST,New England,Massachusetts,Cold,2,7,5,0,1,1,-2,1,7,1,2,1,1,16,14
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,3,2,1,0,-2,-2,2,4,1,3,1,1,16,7
+WEST,Mountain South,New Mexico,Cold,2,4,4,0,1,5,5,2,3,5,3,1,1,15,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,1,1,1,1,-2,23,7,1,3,1,1,16,10
+NORTHEAST,New England,New Hampshire,Cold,2,6,2,1,1,-2,5,2,4,5,2,3,3,16,10
+WEST,Pacific,Washington,Marine,2,2,4,0,1,-2,1,2,3,1,3,1,1,8,8
+WEST,Pacific,California,Hot-Dry,2,2,4,1,0,-2,5,-2,5,1,3,1,1,9,8
+MIDWEST,East North Central,Ohio,Cold,2,6,3,1,0,-2,5,2,7,5,3,1,1,15,11
+SOUTH,West South Central,Texas,Mixed-Dry,1,6,2,0,1,5,5,2,7,5,4,5,5,12,9
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,-2,5,2,2,5,4,5,5,16,12
+MIDWEST,West North Central,Minnesota,Cold,2,5,3,0,1,5,5,2,2,5,3,2,5,15,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,2,4,1,0,-2,5,2,4,5,3,5,5,16,8
+SOUTH,South Atlantic,South Carolina,Hot-Humid,5,7,4,-2,1,-2,5,-2,0,5,4,5,5,6,16
+SOUTH,West South Central,Louisiana,Hot-Humid,2,5,3,1,0,-2,-2,2,7,1,3,1,5,16,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,3,1,0,-2,5,2,-2,5,3,5,5,12,10
+SOUTH,East South Central,Mississippi,Mixed-Humid,1,5,2,1,0,-2,5,-2,-2,5,5,5,5,4,8
+SOUTH,South Atlantic,Virginia,Mixed-Humid,3,6,1,1,0,-2,5,2,3,5,10,5,5,15,10
+NORTHEAST,New England,Connecticut,Cold,2,7,3,1,1,5,-2,1,6,5,3,1,1,16,12
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,1,2,7,1,3,1,1,16,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,4,3,0,1,5,5,2,2,5,3,1,1,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,4,1,1,5,5,2,4,5,3,5,5,16,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,2,1,0,-2,5,2,5,5,99,2,5,13,10
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,6,1,1,0,-2,5,2,3,5,4,5,5,14,9
+WEST,Pacific,Washington,Marine,5,3,7,-2,1,5,5,-2,1,-2,4,5,5,14,15
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,4,3,1,0,-2,1,1,7,1,3,1,1,14,9
+MIDWEST,East North Central,Illinois,Cold,2,2,1,0,1,5,1,23,4,5,3,1,5,15,5
+NORTHEAST,New England,Maine,Cold,2,7,3,0,1,3,5,2,5,5,2,3,3,14,12
+WEST,Pacific,California,Marine,2,7,3,0,1,2,2,2,3,2,3,2,2,16,12
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,4,1,1,0,-2,5,23,2,5,3,1,1,7,7
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,3,1,0,-2,5,2,10,5,4,5,5,14,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,8,1,0,1,5,1,1,5,5,3,1,1,16,11
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,3,3,0,1,5,5,-2,0,5,3,1,1,12,8
+MIDWEST,East North Central,Ohio,Cold,2,7,3,0,1,-2,-2,-2,0,5,3,1,1,16,12
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,2,3,1,0,-2,5,2,12,5,4,5,5,14,7
+MIDWEST,West North Central,Minnesota,Cold,2,7,1,1,1,5,-2,23,7,5,3,1,1,16,10
+MIDWEST,West North Central,South Dakota,Cold,2,7,3,0,1,5,5,2,4,5,3,1,1,15,12
+MIDWEST,East North Central,Michigan,Cold,2,3,1,1,0,-2,5,23,0,1,3,1,1,13,6
+NORTHEAST,New England,Maine,Cold,2,6,3,1,0,-2,5,2,2,5,13,5,5,12,11
+SOUTH,South Atlantic,West Virginia,Cold,2,3,3,0,1,5,-2,1,4,5,2,1,5,15,8
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,4,1,1,0,-2,5,2,4,5,3,1,5,12,7
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,1,1,0,-2,13,2,7,5,4,5,5,15,8
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,1,3,1,0,-2,-2,2,5,5,3,2,2,16,6
+MIDWEST,East North Central,Ohio,Cold,2,5,1,1,0,-2,5,-2,4,5,3,5,5,14,8
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,1,1,0,-2,-2,2,2,5,3,1,1,16,8
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,0,1,-2,5,2,1,1,3,1,1,14,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,2,0,1,-2,5,-2,0,-2,4,5,5,10,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,2,1,0,-2,5,2,7,5,4,5,5,16,9
+NORTHEAST,New England,Massachusetts,Cold,4,4,3,-2,1,-2,5,-2,-2,5,4,5,5,1,11
+WEST,Pacific,Alaska,Very-Cold,2,6,3,0,1,5,2,2,1,1,99,1,3,7,11
+MIDWEST,East North Central,Wisconsin,Cold,2,1,3,0,1,5,5,2,5,1,3,1,1,16,6
+NORTHEAST,New England,Maine,Cold,2,1,2,0,1,5,5,2,-2,5,8,7,5,13,5
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,4,3,1,1,5,5,-2,1,5,3,1,1,11,9
+WEST,Pacific,Washington,Marine,2,6,4,0,1,1,-2,2,4,1,3,1,1,16,12
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,0,1,1,1,2,1,1,3,1,1,16,13
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,0,1,5,-2,1,4,5,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,2,1,0,-2,1,2,0,5,3,1,1,16,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,-2,4,5,-2,-2,5,16,13
+SOUTH,West South Central,Oklahoma,Mixed-Humid,3,2,6,1,0,-2,-2,-2,2,5,3,1,1,14,11
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,1,0,-2,5,2,6,5,4,5,5,16,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,1,1,5,-2,2,12,5,3,1,1,16,10
+WEST,Pacific,Oregon,Marine,2,4,2,0,1,1,1,2,5,5,3,1,1,4,8
+NORTHEAST,New England,Massachusetts,Cold,2,5,3,1,0,-2,5,2,1,5,3,3,3,15,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,1,5,5,23,2,5,4,5,5,12,13
+WEST,Pacific,Hawaii,Hot-Humid,2,5,2,0,1,5,5,2,-2,5,-2,-2,5,15,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,2,3,1,0,-2,5,23,3,5,4,5,5,14,7
+NORTHEAST,New England,Vermont,Cold,2,1,3,0,1,5,2,2,3,5,8,7,2,16,6
+MIDWEST,East North Central,Ohio,Cold,2,3,1,1,0,-2,1,2,0,5,3,1,1,13,6
+WEST,Mountain North,Utah,Cold,2,3,1,0,1,5,-2,2,3,5,4,5,1,15,6
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,1,1,2,3,1,3,1,1,16,10
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,0,1,-2,5,23,1,5,3,1,1,14,10
+MIDWEST,East North Central,Ohio,Cold,2,2,3,0,1,5,5,2,-2,5,3,1,1,15,7
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,3,1,0,-2,5,2,1,5,3,5,5,15,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,0,1,1,5,-2,3,5,3,1,1,14,11
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,5,1,-2,0,1,3,1,1,16,10
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,0,1,3,5,2,5,5,3,3,3,16,12
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,3,0,1,5,5,23,2,5,3,5,5,16,12
+MIDWEST,East North Central,Wisconsin,Cold,2,2,3,1,0,-2,5,2,0,5,3,1,1,15,7
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,1,0,-2,1,2,6,1,2,1,1,14,7
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,-2,1,7,5,3,1,1,16,10
+MIDWEST,East North Central,Wisconsin,Cold,4,5,6,-2,1,5,5,23,0,-2,5,5,5,9,15
+SOUTH,West South Central,Texas,Hot-Humid,1,8,3,0,1,-2,5,-2,-2,5,3,5,5,3,12
+NORTHEAST,New England,Maine,Cold,1,4,3,1,0,-2,5,2,-2,5,8,7,5,9,8
+MIDWEST,East North Central,Michigan,Cold,3,3,1,1,0,-2,5,-2,0,5,3,1,1,9,7
+WEST,Mountain North,Montana,Cold,2,7,2,0,1,-2,-2,1,3,5,2,1,1,15,11
+MIDWEST,West North Central,Iowa,Cold,2,7,3,0,1,-2,5,2,3,5,3,1,1,13,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,1,1,0,-2,-2,-2,0,5,3,5,5,15,7
+MIDWEST,East North Central,Illinois,Cold,2,5,3,1,0,-2,1,2,6,1,3,1,1,13,10
+WEST,Pacific,Washington,Marine,2,7,5,0,1,2,5,-2,1,5,3,2,2,11,14
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,-2,2,2,5,4,5,5,13,12
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,0,1,5,2,2,0,5,3,5,5,12,13
+MIDWEST,East North Central,Ohio,Mixed-Humid,2,2,1,0,1,2,5,23,-2,5,3,2,2,16,5
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,4,0,1,-2,5,2,5,5,4,5,5,13,10
+SOUTH,West South Central,Texas,Hot-Humid,2,4,2,0,1,5,5,2,1,5,3,5,5,16,8
+WEST,Pacific,Hawaii,Hot-Humid,2,4,2,0,1,5,5,2,3,5,99,2,5,15,8
+WEST,Pacific,California,Hot-Dry,2,6,4,0,1,5,13,23,3,5,3,1,1,16,12
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,2,2,0,1,2,-2,23,-2,-2,3,2,5,2,6
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,1,3,1,0,-2,1,2,-2,5,2,1,1,16,6
+WEST,Mountain North,Colorado,Cold,2,6,2,0,1,5,5,2,3,5,3,1,1,15,10
+WEST,Pacific,California,Hot-Dry,3,4,4,0,1,5,1,1,7,1,3,1,1,16,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,8,1,0,1,5,1,23,5,5,3,5,5,13,11
+MIDWEST,East North Central,Indiana,Cold,2,3,1,0,1,5,5,23,7,5,3,5,5,15,6
+WEST,Pacific,Washington,Marine,5,8,3,-2,1,1,1,1,2,1,10,5,2,3,16
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,4,2,0,1,3,5,2,3,5,3,3,3,14,8
+NORTHEAST,New England,Maine,Cold,2,5,2,0,1,5,5,2,4,2,2,2,2,15,9
+WEST,Mountain North,Utah,Cold,2,9,4,0,1,5,1,23,5,1,2,1,1,16,15
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,0,1,5,2,2,6,5,3,3,3,16,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,7,1,0,-2,13,2,4,5,-2,-2,5,15,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,3,8,3,1,0,-2,1,-2,0,5,3,5,1,11,14
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,5,6,2,-2,1,5,5,-2,0,5,3,5,5,2,13
+WEST,Mountain South,New Mexico,Cold,2,7,4,0,1,-2,1,2,0,5,2,1,1,14,13
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,3,7,3,0,1,-2,5,2,3,5,4,5,5,14,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,4,3,1,0,-2,1,2,3,1,2,1,1,14,9
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,0,-2,-2,1,7,5,3,1,1,14,13
+SOUTH,West South Central,Texas,Hot-Humid,2,5,99,1,0,-2,5,-2,1,5,4,5,5,9,106
+WEST,Pacific,Oregon,Marine,2,4,3,0,1,1,13,2,12,5,3,1,1,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,9,3,1,0,-2,-2,2,1,5,3,1,5,16,14
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,0,1,1,5,23,2,5,3,1,1,14,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,1,0,-2,5,2,3,1,3,1,1,15,10
+NORTHEAST,New England,Massachusetts,Cold,2,9,2,1,0,-2,-2,2,7,5,3,2,2,16,13
+SOUTH,West South Central,Louisiana,Hot-Humid,2,7,1,0,1,5,5,23,7,5,4,5,5,4,10
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,0,1,5,5,2,2,5,3,3,5,16,9
+WEST,Mountain North,Idaho,Cold,2,3,1,1,0,-2,-2,2,2,5,4,5,1,16,6
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,0,1,5,-2,1,2,1,3,1,1,15,13
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,4,2,1,0,-2,1,2,4,1,2,1,1,14,8
+NORTHEAST,New England,Vermont,Cold,2,6,3,0,1,5,5,2,10,5,8,7,3,16,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,4,0,1,1,5,1,1,5,3,1,1,9,12
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,3,0,1,-2,5,2,0,5,3,1,1,13,12
+MIDWEST,West North Central,Iowa,Cold,1,4,3,0,1,1,1,2,-2,5,3,1,1,12,8
+MIDWEST,East North Central,Illinois,Cold,5,6,1,-2,1,-2,-2,-2,5,5,3,1,1,9,12
+MIDWEST,East North Central,Michigan,Cold,2,4,3,1,0,-2,5,23,2,5,3,1,1,15,9
+MIDWEST,West North Central,Minnesota,Cold,2,7,4,0,1,-2,1,2,3,1,3,1,1,14,13
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,0,-2,1,2,4,5,3,1,1,14,9
+NORTHEAST,New England,Maine,Cold,2,1,2,1,0,-2,5,2,-2,5,8,7,5,13,5
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,-2,1,7,5,3,1,1,16,12
+SOUTH,South Atlantic,West Virginia,Cold,3,7,7,1,1,-2,5,2,7,-2,3,2,5,14,17
+SOUTH,West South Central,Louisiana,Mixed-Humid,2,1,1,1,0,-2,5,23,2,5,3,5,5,9,4
+WEST,Mountain North,Colorado,Cold,2,7,6,0,1,5,1,2,3,5,3,1,1,15,15
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,4,0,1,5,5,2,3,5,3,1,1,16,12
+NORTHEAST,New England,Massachusetts,Cold,2,4,3,0,1,-2,5,2,14,5,2,3,3,11,9
+MIDWEST,West North Central,Minnesota,Cold,2,5,3,1,0,-2,-2,2,4,1,3,1,1,16,10
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,4,1,1,0,-2,5,2,7,5,3,5,5,15,7
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,5,7,1,0,-2,5,2,3,5,4,5,5,14,14
+WEST,Mountain South,Arizona,Hot-Dry,2,7,7,1,0,-2,-2,1,1,5,3,1,1,15,16
+WEST,Mountain North,Colorado,Cold,2,7,3,0,1,5,5,2,2,5,3,1,1,9,12
+MIDWEST,West North Central,Iowa,Cold,2,2,3,1,0,-2,-2,-2,4,1,3,1,1,16,7
+SOUTH,South Atlantic,Maryland,Mixed-Humid,3,1,1,0,1,5,1,-2,3,5,3,1,5,16,5
+MIDWEST,East North Central,Ohio,Cold,2,1,3,1,0,-2,5,2,5,5,3,2,5,12,6
+NORTHEAST,New England,Massachusetts,Cold,2,4,2,1,0,-2,5,2,-2,-2,-2,-2,3,1,8
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,0,1,5,-2,23,3,5,3,1,1,13,13
+WEST,Pacific,Alaska,Very-Cold,2,7,3,0,1,-2,1,2,4,1,3,1,1,15,12
+MIDWEST,East North Central,Ohio,Cold,2,5,3,0,1,5,-2,2,7,1,3,1,1,8,10
+WEST,Mountain North,Utah,Cold,2,5,3,1,0,-2,1,2,1,1,3,1,1,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,1,1,0,-2,5,2,0,5,3,3,5,8,7
+SOUTH,South Atlantic,Florida,Hot-Humid,3,7,2,0,1,-2,5,2,3,5,4,5,5,2,12
+WEST,Mountain South,Arizona,Hot-Dry,3,6,4,0,1,1,-2,1,4,1,3,1,1,16,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,6,3,1,1,-2,-2,1,3,1,2,1,1,16,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,1,1,0,1,1,1,23,0,5,3,1,1,14,4
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,3,0,1,1,1,23,0,5,3,1,1,11,10
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,4,3,1,0,-2,5,23,5,5,3,2,2,14,9
+SOUTH,West South Central,Louisiana,Hot-Humid,2,8,1,0,1,-2,1,-2,1,1,3,1,1,10,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,1,5,-2,2,3,5,3,5,5,16,13
+MIDWEST,East North Central,Illinois,Cold,2,1,3,1,0,-2,5,2,1,1,3,1,1,12,6
+SOUTH,South Atlantic,Maryland,Mixed-Humid,5,7,1,-2,1,-2,1,-2,3,5,3,1,5,16,13
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,1,1,5,13,1,4,1,3,1,1,16,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,1,1,5,1,23,3,1,3,1,1,16,9
+WEST,Pacific,Washington,Marine,2,7,3,0,1,5,5,2,2,5,4,5,5,13,12
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,1,0,1,5,-2,2,2,5,3,1,1,14,10
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,5,-2,23,1,1,3,1,1,15,11
+WEST,Mountain North,Utah,Cold,2,6,2,0,1,1,1,2,1,1,3,1,1,7,10
+MIDWEST,East North Central,Wisconsin,Cold,2,7,3,0,1,1,5,-2,0,5,3,1,1,15,12
+MIDWEST,East North Central,Illinois,Cold,2,5,3,0,1,5,1,2,3,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,99,0,1,5,1,2,9,5,7,1,5,12,105
+NORTHEAST,New England,Maine,Cold,2,6,3,1,1,-2,2,2,3,5,99,7,7,13,11
+WEST,Mountain North,Idaho,Cold,2,7,3,0,1,5,1,1,4,1,3,1,1,13,12
+MIDWEST,West North Central,Minnesota,Very-Cold,2,7,2,0,1,-2,2,2,0,5,3,7,5,4,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,0,1,5,-2,23,10,5,4,5,99,14,12
+WEST,Mountain South,New Mexico,Cold,2,3,4,0,1,-2,-2,2,2,1,8,7,1,14,9
+SOUTH,East South Central,Mississippi,Hot-Humid,2,5,2,1,0,-2,5,2,1,5,4,5,5,13,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,9,3,0,1,-2,1,2,5,1,3,1,1,16,14
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,2,7,0,1,5,1,2,10,5,3,1,1,14,11
+NORTHEAST,New England,Massachusetts,Cold,2,7,2,1,0,-2,5,2,1,5,3,3,5,14,11
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,5,-2,0,5,3,5,5,15,10
+WEST,Pacific,Washington,Marine,2,4,3,0,1,-2,5,2,5,5,4,5,5,16,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,5,2,1,0,-2,2,2,7,2,3,3,3,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,7,1,3,1,1,15,12
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,3,1,1,0,-2,-2,2,3,5,3,1,1,16,6
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,2,0,1,-2,5,-2,5,5,3,1,1,12,9
+MIDWEST,East North Central,Ohio,Cold,2,4,3,0,1,-2,5,2,1,5,3,2,5,13,9
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,-2,1,23,0,5,3,1,1,16,12
+MIDWEST,East North Central,Wisconsin,Cold,2,1,2,1,1,5,1,2,2,5,3,1,1,16,5
+MIDWEST,West North Central,South Dakota,Cold,2,7,3,0,1,-2,5,2,3,5,3,1,1,16,12
+MIDWEST,West North Central,North Dakota,Very-Cold,2,7,3,0,1,5,5,2,7,5,3,1,1,11,12
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,3,0,1,-2,5,2,0,5,2,5,5,7,12
+MIDWEST,East North Central,Ohio,Cold,3,1,3,1,1,5,5,-2,1,5,3,1,1,8,7
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,-2,1,2,0,1,3,1,1,14,12
+MIDWEST,East North Central,Michigan,Cold,2,2,3,0,1,-2,5,2,2,1,3,1,5,16,7
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,2,1,0,-2,5,2,5,5,4,5,5,14,9
+MIDWEST,West North Central,North Dakota,Cold,2,7,3,0,1,5,1,2,3,5,3,1,1,15,12
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,0,1,-2,1,23,3,5,3,1,1,9,10
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,0,1,1,1,23,6,5,3,1,1,16,12
+MIDWEST,East North Central,Wisconsin,Cold,2,6,2,0,1,3,2,2,0,5,4,5,5,16,10
+WEST,Pacific,California,Marine,2,3,2,1,0,-2,-2,2,1,5,3,1,5,10,7
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,1,0,-2,5,2,0,5,2,2,2,12,12
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,1,-2,2,0,5,3,1,1,9,11
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,-2,2,7,5,3,1,5,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,5,2,1,5,3,1,1,13,13
+MIDWEST,West North Central,Minnesota,Cold,2,3,3,0,1,5,5,2,7,5,2,2,2,14,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,0,-2,5,-2,5,1,-2,-2,1,15,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,1,0,-2,5,2,8,5,3,1,1,16,10
+SOUTH,West South Central,Louisiana,Hot-Humid,2,5,1,1,0,-2,-2,23,4,5,3,5,5,13,8
+MIDWEST,East North Central,Ohio,Cold,2,1,3,1,0,-2,13,2,5,1,3,1,1,12,6
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,0,1,5,-2,2,1,5,3,1,1,16,9
+SOUTH,East South Central,Alabama,Hot-Humid,2,8,1,0,1,-2,5,2,2,5,3,1,1,16,11
+WEST,Pacific,Oregon,Marine,2,8,3,0,1,5,5,2,7,5,3,1,1,15,13
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,4,0,1,-2,5,-2,5,5,3,1,1,10,10
+MIDWEST,West North Central,South Dakota,Cold,2,9,2,0,1,5,5,2,3,5,2,5,5,15,13
+MIDWEST,East North Central,Indiana,Cold,2,5,3,1,0,-2,1,2,4,1,3,1,1,13,10
+MIDWEST,West North Central,Minnesota,Very-Cold,2,7,2,0,1,5,5,2,7,5,2,5,5,16,11
+WEST,Mountain North,Utah,Cold,2,1,3,1,0,-2,5,-2,5,5,3,1,1,13,6
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,5,3,0,1,-2,1,2,3,1,3,1,1,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,9,3,1,0,-2,1,2,3,1,3,1,1,16,14
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,3,3,0,1,-2,-2,2,1,1,3,1,1,15,8
+NORTHEAST,New England,Vermont,Cold,2,6,2,1,1,2,5,2,8,5,3,3,3,16,10
+WEST,Pacific,California,Hot-Dry,2,7,4,1,1,5,-2,2,4,5,3,5,1,16,13
+NORTHEAST,New England,Vermont,Cold,2,7,3,1,1,2,5,1,2,5,3,3,8,16,12
+MIDWEST,East North Central,Michigan,Cold,2,2,3,0,1,5,5,1,5,5,3,1,5,16,7
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,3,0,1,5,5,2,2,5,4,5,5,10,12
+WEST,Pacific,California,Marine,2,5,2,0,1,5,-2,23,4,5,2,5,5,15,9
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,6,3,1,0,-2,5,2,4,5,4,5,5,13,11
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,3,1,1,0,1,1,1,23,7,1,2,1,1,13,5
+WEST,Pacific,California,Marine,2,5,2,0,1,5,1,2,0,1,3,1,1,14,9
+WEST,Pacific,California,Hot-Dry,3,6,4,0,1,5,1,1,4,5,3,1,1,14,13
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,3,0,1,1,-2,1,7,5,3,1,1,16,10
+NORTHEAST,New England,Rhode Island,Cold,3,2,3,0,1,1,1,-2,2,-2,2,1,1,11,8
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,0,1,5,5,2,10,5,3,1,1,15,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,3,6,1,0,-2,5,2,3,5,3,3,5,16,11
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,0,1,5,5,2,0,5,4,5,5,14,9
+MIDWEST,East North Central,Indiana,Mixed-Humid,1,8,3,1,0,-2,5,-2,7,5,3,5,5,9,12
+WEST,Pacific,Alaska,Very-Cold,2,7,5,0,1,-2,1,-2,7,1,3,1,1,14,14
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,13,1,2,1,3,1,1,15,13
+WEST,Mountain South,New Mexico,Cold,2,8,4,0,1,5,1,23,5,5,3,1,1,14,14
+WEST,Mountain North,Idaho,Cold,2,1,1,0,1,5,5,-2,4,5,2,1,1,14,4
+MIDWEST,East North Central,Illinois,Cold,2,4,3,1,0,-2,1,23,7,5,3,1,1,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,3,5,3,1,0,-2,5,-2,0,-2,4,5,5,1,11
+NORTHEAST,New England,New Hampshire,Cold,2,7,3,1,1,1,5,2,3,5,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,1,1,0,-2,1,23,7,5,3,1,5,7,7
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,1,0,1,5,-2,2,-2,5,4,5,5,12,7
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,5,3,1,0,-2,1,23,3,1,3,1,1,16,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,3,0,1,-2,5,-2,14,5,3,1,1,13,11
+WEST,Mountain South,New Mexico,Mixed-Dry,2,3,2,0,1,5,1,2,-2,5,3,1,1,8,7
+SOUTH,East South Central,Alabama,Mixed-Humid,2,6,1,1,0,-2,5,1,4,5,3,1,1,15,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,0,-2,-2,2,5,5,4,5,5,16,14
+WEST,Pacific,California,Marine,1,7,2,0,1,5,1,2,2,5,-2,-2,3,12,10
+WEST,Mountain South,New Mexico,Mixed-Dry,2,4,4,1,0,-2,5,-2,5,5,3,1,1,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,3,1,0,-2,2,2,4,5,2,99,5,10,9
+WEST,Pacific,Alaska,Very-Cold,2,5,3,0,1,5,1,23,7,5,3,1,5,15,10
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,8,1,0,1,5,1,-2,1,5,3,1,1,12,11
+WEST,Pacific,Washington,Cold,2,3,2,0,1,5,13,1,3,5,3,1,1,14,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,2,4,1,0,-2,5,2,1,5,3,5,5,16,8
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,6,3,1,0,-2,2,2,5,2,3,2,5,15,11
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,5,-2,2,2,1,3,1,1,14,13
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,3,0,1,-2,5,2,3,5,3,1,1,14,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,7,1,0,-2,5,2,0,5,4,5,5,12,12
+WEST,Mountain North,Montana,Cold,2,6,3,0,1,5,5,2,4,5,3,2,2,16,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,3,1,0,-2,5,2,-2,5,3,1,1,13,6
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,7,3,1,0,-2,13,-2,1,1,3,1,1,16,12
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,5,-2,1,7,5,3,1,1,16,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,0,-2,5,2,4,5,4,5,5,14,12
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,1,1,-2,-2,2,7,5,3,3,3,16,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,2,2,-2,5,3,3,3,8,7
+NORTHEAST,New England,Rhode Island,Cold,2,4,5,0,1,5,5,2,5,5,3,1,1,15,11
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,1,1,1,-2,-2,2,5,3,1,1,14,12
+MIDWEST,East North Central,Illinois,Cold,2,4,3,0,1,-2,5,2,3,5,5,5,5,11,9
+SOUTH,West South Central,Louisiana,Hot-Humid,2,3,3,0,1,5,13,-2,0,5,10,5,5,11,8
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,5,3,1,0,-2,-2,2,4,5,3,1,1,13,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,9,3,1,0,-2,-2,2,1,5,3,1,1,16,14
+NORTHEAST,New England,Maine,Cold,2,5,3,1,1,-2,5,2,4,5,3,3,3,15,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,2,1,1,99,5,2,0,5,3,5,5,6,9
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,3,1,1,0,-2,5,2,5,5,4,5,5,12,6
+WEST,Pacific,California,Marine,2,6,2,0,1,5,1,23,2,5,3,1,1,15,10
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,4,3,1,0,-2,1,2,7,1,3,1,1,16,9
+MIDWEST,West North Central,South Dakota,Cold,2,7,3,0,1,-2,5,2,2,5,3,1,1,16,12
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,-2,-2,7,5,5,5,5,13,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,1,0,-2,2,2,6,5,3,2,5,16,12
+NORTHEAST,New England,Connecticut,Cold,2,4,1,1,1,5,2,2,5,5,3,3,3,16,7
+MIDWEST,West North Central,Minnesota,Cold,2,7,3,0,1,2,-2,2,7,5,3,2,2,16,12
+NORTHEAST,New England,Connecticut,Cold,2,1,3,1,1,-2,1,2,1,5,2,3,3,6,6
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,3,1,0,-2,5,23,3,5,4,5,5,13,11
+WEST,Pacific,California,Hot-Dry,2,6,4,1,0,-2,1,1,2,1,3,1,1,14,12
+SOUTH,West South Central,Louisiana,Hot-Humid,2,1,1,1,0,-2,-2,-2,2,1,3,1,1,14,4
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,0,1,5,1,2,6,5,3,1,5,16,11
+MIDWEST,West North Central,Minnesota,Very-Cold,2,3,3,0,1,5,5,2,1,5,4,5,5,14,8
+MIDWEST,West North Central,Nebraska,Cold,2,6,3,0,1,1,5,23,4,5,3,1,1,15,11
+WEST,Pacific,Oregon,Marine,2,5,2,0,1,5,-2,2,2,5,4,5,5,12,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,1,1,1,-2,5,-2,0,1,3,1,5,1,5
+WEST,Pacific,Alaska,Very-Cold,2,6,3,0,1,1,1,1,3,1,3,1,1,15,11
+MIDWEST,East North Central,Illinois,Cold,2,1,3,1,0,-2,1,23,0,1,3,1,1,14,6
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,1,1,0,-2,-2,-2,3,5,3,2,2,16,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,2,0,1,-2,5,-2,5,5,4,5,5,15,8
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,0,1,-2,-2,2,4,2,2,3,3,16,12
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,1,2,1,5,3,1,1,13,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,5,1,0,-2,1,-2,5,1,3,1,3,5,14
+WEST,Pacific,Alaska,Very-Cold,3,6,3,0,1,-2,1,-2,1,5,2,1,1,9,12
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,-2,-2,3,5,4,5,5,5,10
+SOUTH,West South Central,Texas,Hot-Humid,2,3,1,1,0,-2,5,2,0,5,3,5,5,16,6
+NORTHEAST,New England,Connecticut,Cold,2,6,3,1,0,-2,5,2,3,5,3,3,3,14,11
+SOUTH,East South Central,Alabama,Mixed-Humid,2,4,3,0,1,5,5,23,3,5,3,1,5,15,9
+SOUTH,West South Central,Texas,Hot-Humid,2,8,6,0,1,5,13,23,3,5,3,1,5,14,16
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,1,5,5,2,2,5,4,5,5,12,14
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,2,0,1,-2,5,-2,3,5,4,5,5,14,9
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,0,1,5,-2,23,5,5,4,5,5,12,10
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,2,3,0,1,-2,5,23,-2,5,3,1,5,6,7
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,6,1,0,1,-2,2,-2,1,5,4,5,5,16,9
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,1,1,2,-2,2,2,5,3,3,3,16,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,2,1,1,0,-2,5,1,0,5,3,1,1,10,5
+WEST,Pacific,California,Hot-Dry,1,4,4,0,1,-2,-2,1,2,1,3,1,1,8,9
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,5,2,0,5,4,5,5,10,13
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,0,1,5,5,2,3,5,3,99,5,13,11
+WEST,Pacific,California,Hot-Dry,3,7,4,1,0,-2,-2,2,3,1,3,1,1,15,14
+WEST,Pacific,Washington,Cold,2,4,2,1,0,-2,5,2,2,5,3,5,5,12,8
+WEST,Mountain North,Idaho,Cold,2,1,1,0,1,5,5,2,3,5,13,5,5,14,4
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,0,-2,2,2,5,5,3,5,5,14,13
+SOUTH,West South Central,Texas,Hot-Humid,2,6,2,1,0,-2,2,23,-2,5,10,5,5,16,10
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,0,1,1,1,23,7,1,3,1,1,11,9
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,3,1,1,0,-2,5,23,-2,5,3,1,1,12,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,1,2,-2,2,2,5,3,5,5,16,12
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,5,1,1,4,5,4,5,1,6,11
+NORTHEAST,New England,Vermont,Cold,2,1,2,0,1,5,2,2,7,5,3,3,3,14,5
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,4,1,1,5,-2,23,1,5,3,5,5,11,9
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,-2,-2,-2,4,1,3,1,1,16,13
+MIDWEST,East North Central,Indiana,Cold,2,2,3,1,1,5,2,2,5,2,3,2,2,16,7
+MIDWEST,West North Central,South Dakota,Cold,2,4,3,0,1,5,5,23,2,5,3,1,1,15,9
+MIDWEST,East North Central,Indiana,Cold,2,1,2,1,0,-2,5,23,4,1,4,5,1,9,5
+SOUTH,West South Central,Louisiana,Hot-Humid,2,3,1,1,0,-2,1,23,2,5,7,1,1,15,6
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,1,1,1,1,2,2,5,3,5,5,16,12
+WEST,Mountain North,Idaho,Cold,2,9,3,0,1,5,1,-2,1,5,3,1,1,14,14
+WEST,Mountain North,Idaho,Cold,5,8,3,-2,1,5,5,-2,2,5,5,5,5,7,16
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,0,1,5,5,-2,7,5,3,5,5,13,10
+WEST,Pacific,California,Hot-Dry,2,5,4,1,0,-2,1,-2,-2,1,3,5,1,9,11
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,4,2,1,0,-2,1,1,3,5,7,1,1,16,8
+MIDWEST,West North Central,Iowa,Cold,2,6,3,1,1,5,1,23,7,1,3,1,1,15,11
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,9,1,0,1,5,5,-2,4,5,3,5,5,12,12
+NORTHEAST,New England,Maine,Cold,2,2,2,1,0,-2,5,-2,3,5,3,1,1,15,6
+MIDWEST,West North Central,Missouri,Mixed-Humid,1,6,3,0,1,1,1,-2,-2,5,3,1,1,6,10
+WEST,Pacific,California,Hot-Dry,2,2,4,1,1,5,-2,23,2,1,3,1,1,15,8
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,1,0,-2,-2,1,0,5,3,1,1,11,11
+MIDWEST,East North Central,Ohio,Cold,2,1,3,1,0,-2,5,-2,2,5,3,1,1,9,6
+SOUTH,East South Central,Alabama,Hot-Humid,2,1,1,1,0,-2,1,2,2,5,3,1,1,11,4
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,1,3,1,0,-2,5,2,1,5,8,7,3,15,6
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,3,3,1,0,-2,5,2,4,5,3,3,5,11,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,3,1,0,-2,5,-2,1,5,3,5,5,15,10
+WEST,Pacific,Washington,Marine,2,2,2,0,1,5,5,2,1,5,8,7,5,9,6
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,0,1,5,13,23,0,1,2,1,1,16,7
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,1,23,5,1,3,1,1,14,10
+SOUTH,West South Central,Texas,Hot-Humid,5,8,3,-2,1,-2,1,-2,1,1,13,5,5,15,16
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,8,1,1,0,-2,2,2,5,5,4,5,5,16,11
+MIDWEST,East North Central,Illinois,Cold,2,6,3,1,0,-2,5,23,0,1,3,1,5,15,11
+NORTHEAST,Middle Atlantic,New York,Cold,4,1,1,-2,1,5,1,23,7,1,3,1,1,16,6
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,3,1,1,0,-2,5,2,8,5,3,2,2,13,6
+NORTHEAST,New England,Massachusetts,Cold,2,4,2,1,1,-2,2,2,2,2,2,3,3,16,8
+SOUTH,East South Central,Alabama,Mixed-Humid,2,8,5,1,1,5,5,23,5,5,4,5,5,11,15
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,2,1,0,-2,5,2,4,5,3,1,1,15,9
+NORTHEAST,New England,Massachusetts,Cold,4,1,5,-2,1,5,1,2,8,1,2,1,1,15,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,1,2,7,5,3,1,1,15,13
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,4,1,1,0,-2,2,1,1,5,3,2,5,14,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,2,0,1,5,5,2,7,5,4,5,5,16,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,0,1,1,5,2,2,5,3,1,1,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,0,1,5,5,2,3,5,4,5,5,14,11
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,5,23,1,5,4,5,5,11,11
+WEST,Mountain South,New Mexico,Hot-Dry,2,8,4,0,1,1,-2,23,7,5,3,1,1,11,14
+WEST,Pacific,Hawaii,Hot-Humid,2,2,2,1,1,2,-2,2,1,5,-2,-2,2,13,6
+SOUTH,West South Central,Louisiana,Hot-Humid,1,7,3,0,1,5,-2,-2,0,5,5,5,5,9,11
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,3,0,1,5,1,2,3,5,3,1,1,15,12
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,5,1,1,0,-2,5,2,4,5,8,7,5,12,8
+WEST,Mountain North,Idaho,Cold,2,7,3,1,0,-2,1,-2,-2,5,3,1,1,11,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,1,1,0,-2,5,2,-2,-2,3,5,5,8,7
+NORTHEAST,New England,Connecticut,Cold,2,6,2,1,0,-2,-2,2,3,5,3,3,3,15,10
+MIDWEST,East North Central,Michigan,Cold,2,6,3,0,1,5,1,2,3,5,3,1,1,12,11
+WEST,Pacific,California,Hot-Dry,2,5,4,1,1,-2,5,2,2,1,3,1,1,13,11
+SOUTH,West South Central,Arkansas,Hot-Humid,2,4,2,0,1,-2,1,2,-2,5,3,1,5,13,8
+WEST,Pacific,Washington,Marine,2,4,2,0,1,5,5,2,4,5,3,5,5,15,8
+NORTHEAST,New England,Maine,Cold,2,1,2,1,1,5,5,2,-2,5,8,7,3,13,5
+WEST,Mountain North,Montana,Cold,2,6,3,0,1,5,-2,2,5,5,8,7,2,13,11
+MIDWEST,East North Central,Wisconsin,Cold,2,2,3,1,0,-2,1,2,0,1,3,1,1,15,7
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,3,2,1,1,1,-2,1,5,5,3,1,1,16,7
+NORTHEAST,New England,Vermont,Cold,2,1,3,1,0,-2,5,2,2,5,2,3,3,12,6
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,-2,1,0,1,3,1,1,16,12
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,5,3,1,0,-2,2,23,7,5,3,2,2,14,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,3,7,1,0,1,5,5,-2,2,5,3,5,5,11,11
+WEST,Pacific,California,Marine,2,4,2,0,1,5,5,-2,3,1,3,1,1,14,8
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,5,2,23,1,5,3,5,5,16,10
+WEST,Pacific,California,Hot-Dry,2,5,4,1,0,-2,2,2,4,5,8,7,2,15,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,1,1,0,-2,5,2,1,5,10,5,5,13,10
+NORTHEAST,New England,New Hampshire,Cold,2,5,3,1,0,-2,-2,2,1,5,3,3,5,15,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,-2,2,7,5,3,1,1,16,13
+NORTHEAST,New England,New Hampshire,Cold,5,4,1,-2,1,1,1,-2,-2,-2,3,1,1,14,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,3,0,1,-2,1,1,1,1,4,5,1,14,11
+WEST,Pacific,Oregon,Marine,1,6,3,0,1,5,5,2,2,5,8,7,5,11,10
+NORTHEAST,New England,Maine,Cold,2,7,3,0,1,3,-2,2,4,5,3,3,5,15,12
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,5,2,7,1,3,5,5,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,4,1,0,-2,5,2,1,5,-2,-2,5,12,15
+WEST,Pacific,Washington,Cold,1,6,2,0,1,5,2,2,4,5,3,2,2,11,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,1,0,-2,5,2,7,5,4,5,5,15,11
+WEST,Mountain North,Utah,Cold,2,4,1,1,1,5,1,23,7,5,3,1,1,16,7
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,2,3,0,1,5,5,2,7,5,3,1,5,10,7
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,2,5,3,1,1,15,12
+WEST,Pacific,California,Hot-Dry,2,2,7,0,1,1,1,23,-2,1,3,1,1,12,11
+WEST,Mountain North,Montana,Cold,2,5,2,0,1,5,1,2,2,5,3,1,1,15,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,-2,1,5,4,5,5,13,13
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,3,3,1,0,-2,1,1,4,1,3,1,1,16,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,2,3,5,4,5,5,12,13
+NORTHEAST,New England,Connecticut,Cold,2,7,2,0,1,-2,-2,2,4,5,3,3,3,16,11
+NORTHEAST,New England,Massachusetts,Cold,2,5,3,0,1,5,5,2,3,5,3,3,3,16,10
+WEST,Mountain South,New Mexico,Mixed-Dry,2,3,4,0,1,1,1,2,2,5,3,1,1,14,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,2,1,0,-2,5,1,1,5,4,5,5,6,8
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,7,3,0,1,5,5,2,5,5,4,5,5,15,12
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,5,3,0,1,-2,1,2,1,5,2,1,1,8,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,1,0,-2,-2,-2,0,5,7,2,5,12,9
+SOUTH,West South Central,Texas,Hot-Humid,2,8,1,1,1,1,-2,1,7,1,3,5,5,16,11
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,3,0,1,-2,5,-2,3,5,3,5,5,8,9
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,0,-2,1,1,4,5,3,1,5,16,10
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,1,0,-2,-2,2,7,1,2,1,1,15,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,4,3,1,0,-2,5,2,3,5,2,1,1,15,9
+NORTHEAST,New England,Vermont,Cold,2,5,2,1,0,-2,2,2,10,2,7,2,2,16,9
+WEST,Mountain North,Wyoming,Cold,2,6,1,0,1,5,5,-2,2,5,3,1,1,16,9
+WEST,Pacific,Washington,Marine,2,2,3,1,0,-2,-2,2,4,5,8,7,5,10,7
+WEST,Pacific,California,Hot-Dry,2,7,3,1,0,-2,-2,23,3,2,3,2,2,15,12
+WEST,Pacific,Washington,Marine,4,5,2,-2,1,5,5,-2,3,-2,10,5,5,12,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,1,1,0,-2,-2,2,3,1,3,5,1,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,1,1,0,-2,-2,2,7,5,4,5,5,13,9
+WEST,Mountain North,Colorado,Cold,2,6,3,1,1,-2,5,1,4,5,3,1,1,16,11
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,7,3,0,1,-2,-2,-2,1,1,3,1,1,13,12
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,1,-2,-2,2,2,5,4,5,5,10,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,3,0,1,5,5,2,6,5,5,5,5,15,9
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,5,2,0,5,4,5,5,15,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,3,1,0,-2,5,2,2,5,4,5,5,14,11
+WEST,Pacific,California,Hot-Dry,2,2,4,1,0,-2,-2,1,5,1,3,1,1,15,8
+WEST,Pacific,Hawaii,Hot-Humid,2,4,2,0,1,5,-2,-2,4,-2,-2,-2,5,11,8
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,2,0,1,5,5,2,1,5,4,5,5,13,9
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,1,3,1,0,-2,1,2,-2,1,2,1,1,16,6
+MIDWEST,East North Central,Ohio,Cold,1,4,3,1,0,-2,5,-2,-2,5,8,7,5,2,8
+WEST,Pacific,California,Hot-Dry,2,3,4,0,1,5,-2,23,4,5,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,1,0,-2,2,2,5,2,3,2,5,16,12
+MIDWEST,East North Central,Indiana,Cold,2,4,2,1,1,5,5,2,1,5,3,1,1,16,8
+SOUTH,West South Central,Louisiana,Hot-Humid,3,7,4,0,1,5,5,-2,0,5,4,5,5,7,14
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,0,-2,-2,1,7,1,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,0,1,-2,5,23,0,5,-2,-2,5,14,16
+MIDWEST,West North Central,North Dakota,Cold,2,5,3,0,1,5,5,2,14,5,3,2,5,16,10
+WEST,Pacific,California,Marine,2,7,7,0,1,-2,1,2,7,5,3,1,1,12,16
+WEST,Mountain North,Montana,Cold,2,6,1,0,1,-2,5,2,7,5,5,5,5,11,9
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,-2,-2,3,1,3,1,1,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,5,-2,23,1,5,4,5,5,12,15
+NORTHEAST,New England,Massachusetts,Cold,2,6,3,0,1,-2,5,2,7,5,3,3,5,15,11
+NORTHEAST,New England,Rhode Island,Cold,2,4,2,1,0,-2,2,2,7,5,3,3,3,15,8
+NORTHEAST,New England,Vermont,Cold,2,6,3,0,1,5,5,23,3,5,2,3,3,15,11
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,1,3,0,1,-2,-2,2,7,1,3,1,1,16,6
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,3,1,1,-2,2,2,1,2,3,2,2,16,12
+MIDWEST,East North Central,Ohio,Cold,2,6,3,0,1,5,1,2,3,1,3,1,1,12,11
+MIDWEST,East North Central,Illinois,Cold,5,7,7,-2,1,5,5,-2,3,5,5,5,5,16,19
+MIDWEST,East North Central,Illinois,Cold,2,5,3,0,1,-2,1,2,0,1,3,1,1,15,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,8,3,1,1,-2,-2,2,8,5,4,5,5,14,13
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,1,0,-2,5,2,5,5,2,3,3,12,9
+MIDWEST,East North Central,Wisconsin,Cold,2,7,3,0,1,-2,1,1,5,1,3,1,1,16,12
+WEST,Pacific,Hawaii,Hot-Humid,2,7,3,1,0,-2,1,23,7,5,-2,-2,1,16,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,1,0,-2,5,2,3,5,4,5,5,15,11
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,5,3,1,0,-2,5,-2,-2,5,8,7,5,7,10
+SOUTH,East South Central,Alabama,Mixed-Humid,2,5,2,1,0,-2,2,23,7,5,4,5,5,15,9
+WEST,Pacific,Alaska,Very-Cold,2,7,3,0,1,1,13,23,10,5,3,1,1,14,12
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,2,2,0,1,1,1,-2,-2,1,3,1,1,15,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,0,-2,5,23,7,5,4,5,5,16,14
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,-2,23,3,5,3,1,5,15,10
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,-2,2,7,1,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,1,0,-2,5,2,3,5,3,3,3,14,6
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,3,1,1,1,5,5,2,3,1,3,1,1,13,6
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,1,0,-2,-2,2,7,1,3,1,1,16,14
+MIDWEST,West North Central,Minnesota,Cold,2,2,2,0,1,5,1,2,7,5,3,1,1,16,6
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,1,2,7,1,7,1,1,16,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,2,0,1,5,2,2,6,5,3,2,5,13,5
+MIDWEST,East North Central,Indiana,Cold,2,1,3,1,0,-2,2,-2,4,2,3,2,2,10,6
+SOUTH,West South Central,Arkansas,Mixed-Humid,1,7,3,0,1,-2,5,23,-2,5,3,5,5,1,11
+SOUTH,West South Central,Louisiana,Hot-Humid,1,8,3,1,0,-2,5,-2,3,5,4,5,5,12,12
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,9,1,1,0,-2,1,2,6,1,3,1,1,9,12
+SOUTH,East South Central,Alabama,Hot-Humid,1,4,2,1,0,-2,2,-2,7,5,3,2,5,7,7
+WEST,Mountain South,Arizona,Hot-Dry,2,3,7,1,0,-2,1,1,4,5,4,5,5,16,12
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,8,3,1,0,-2,-2,2,10,5,3,1,1,16,13
+SOUTH,West South Central,Texas,Hot-Humid,2,8,4,0,1,5,-2,23,8,5,3,1,1,16,14
+WEST,Pacific,Hawaii,Hot-Humid,2,3,1,1,1,-2,-2,2,4,5,-2,-2,8,15,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,-2,-2,2,5,-2,-2,5,15,16
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,6,1,0,1,5,1,2,6,5,3,1,5,15,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,3,1,0,-2,5,2,2,5,3,5,5,13,10
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,6,3,0,1,1,-2,23,3,5,10,5,1,14,11
+SOUTH,South Atlantic,West Virginia,Cold,2,6,3,1,1,5,5,2,3,5,8,7,5,8,11
+SOUTH,South Atlantic,District of Columbia,Mixed-Humid,3,1,1,0,1,-2,1,23,3,5,2,1,1,16,5
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,6,1,0,1,-2,5,23,3,-2,3,5,5,15,9
+WEST,Pacific,Hawaii,Hot-Humid,2,1,2,1,0,-2,1,23,-2,5,-2,-2,1,15,5
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,0,1,-2,-2,-2,7,5,3,1,1,16,12
+WEST,Pacific,California,Hot-Dry,2,5,4,1,0,-2,13,1,2,1,3,1,5,11,11
+SOUTH,West South Central,Texas,Hot-Dry,1,7,2,0,1,-2,13,23,-2,5,3,1,1,11,10
+MIDWEST,East North Central,Ohio,Cold,2,4,1,1,0,-2,5,-2,2,5,4,5,5,16,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,4,1,0,-2,5,23,0,5,4,5,5,11,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,7,1,0,-2,5,2,3,5,3,5,5,10,18
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,5,1,1,2,1,3,1,1,16,12
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,4,3,0,1,5,2,23,-2,5,13,5,5,7,9
+WEST,Mountain North,Wyoming,Cold,5,7,2,-2,1,-2,1,-2,4,-2,2,1,1,3,14
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,1,0,1,5,5,2,1,5,4,5,5,12,10
+WEST,Pacific,California,Marine,2,2,2,0,1,5,1,2,3,1,7,1,1,14,6
+WEST,Pacific,Oregon,Marine,2,5,2,0,1,5,-2,2,4,5,4,5,5,16,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,2,2,1,5,8,7,3,15,7
+WEST,Pacific,Washington,Marine,2,4,3,0,1,5,1,1,5,1,3,1,1,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,1,1,1,-2,5,2,7,5,4,5,5,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,1,4,1,0,-2,-2,2,5,5,3,1,1,14,7
+WEST,Pacific,Washington,Marine,2,4,3,0,1,5,5,2,6,5,4,5,5,15,9
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,0,1,5,2,2,2,5,4,5,2,16,10
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,5,0,1,5,5,2,2,5,3,1,1,16,9
+NORTHEAST,New England,Connecticut,Cold,2,2,3,1,0,-2,5,2,5,5,3,3,5,13,7
+MIDWEST,West North Central,South Dakota,Cold,2,7,3,0,1,5,5,2,2,5,4,5,5,12,12
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,5,3,1,0,-2,1,2,5,1,3,1,1,15,10
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,5,3,1,0,-2,1,2,2,1,3,5,1,12,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,1,2,5,1,3,1,1,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,3,1,0,-2,1,2,2,1,4,5,1,15,14
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,1,-2,-2,2,7,5,3,1,1,14,9
+SOUTH,West South Central,Texas,Hot-Humid,5,6,1,-2,1,-2,5,-2,1,5,4,5,5,12,12
+WEST,Pacific,Alaska,Very-Cold,2,5,2,0,1,-2,-2,-2,3,5,3,1,1,15,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,3,1,0,-2,5,2,10,5,3,3,3,16,8
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,3,1,1,0,-2,-2,1,5,5,3,1,1,16,6
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,1,2,3,5,3,1,1,14,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,1,1,-2,1,2,6,1,3,1,1,12,6
+WEST,Pacific,California,Marine,5,9,7,-2,1,99,5,-2,3,5,5,5,5,15,21
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,3,1,0,-2,2,23,2,5,8,7,5,4,6
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,-2,-2,1,7,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,4,3,1,1,-2,5,2,9,5,4,5,5,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,3,1,0,-2,5,-2,3,5,4,5,5,16,10
+MIDWEST,East North Central,Michigan,Cold,2,4,1,1,0,-2,1,1,1,5,3,1,5,15,7
+WEST,Pacific,California,Marine,2,3,3,0,1,5,1,23,4,5,3,1,1,16,8
+SOUTH,East South Central,Kentucky,Mixed-Humid,5,7,3,-2,1,5,5,23,1,5,4,5,5,14,15
+WEST,Mountain South,Arizona,Cold,2,3,1,0,1,5,1,2,2,1,3,1,1,12,6
+SOUTH,West South Central,Texas,Hot-Dry,2,7,4,0,1,5,1,-2,5,5,3,1,1,12,13
+WEST,Pacific,California,Marine,3,5,4,1,1,1,5,-2,1,5,2,1,1,14,12
+NORTHEAST,New England,New Hampshire,Cold,2,5,2,1,0,-2,5,2,6,5,3,2,5,9,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,3,4,1,1,0,-2,5,-2,4,5,4,5,5,11,8
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,4,2,0,1,5,1,-2,1,1,3,1,1,13,8
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,5,5,1,0,-2,1,1,2,1,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,7,1,0,-2,5,2,1,5,-2,-2,5,14,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,3,3,1,0,-2,5,2,7,5,4,5,5,12,8
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,7,4,0,1,5,5,23,7,5,4,5,5,15,13
+NORTHEAST,New England,Vermont,Cold,2,7,2,1,0,-2,5,23,5,5,3,3,3,15,11
+NORTHEAST,New England,Rhode Island,Cold,2,5,1,1,0,-2,5,2,2,5,3,3,3,14,8
+WEST,Pacific,Alaska,Very-Cold,2,7,2,0,1,5,1,23,3,1,3,1,1,15,11
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,5,1,1,10,5,3,1,1,11,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,2,0,1,-2,5,23,7,5,3,1,1,15,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,4,3,0,1,-2,13,2,3,5,3,1,1,15,9
+WEST,Pacific,Alaska,Very-Cold,2,6,2,0,1,1,1,-2,4,1,2,1,1,11,10
+MIDWEST,West North Central,North Dakota,Cold,2,6,3,0,1,-2,5,2,3,5,3,1,1,16,11
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,0,1,-2,-2,-2,0,5,3,1,1,14,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,3,1,0,-2,-2,-2,3,5,3,3,3,13,10
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,0,-2,1,-2,4,1,3,1,5,15,8
+MIDWEST,West North Central,South Dakota,Cold,2,5,3,0,1,5,5,2,5,5,3,5,5,16,10
+SOUTH,South Atlantic,District of Columbia,Mixed-Humid,5,2,1,-2,1,-2,1,-2,-2,-2,3,1,1,13,8
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,0,1,5,2,2,0,5,10,5,2,14,12
+NORTHEAST,New England,New Hampshire,Cold,2,3,2,0,1,5,5,2,0,5,3,3,3,15,7
+WEST,Mountain North,Wyoming,Cold,2,6,4,0,1,5,5,23,3,5,2,2,2,14,12
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,0,-2,1,23,1,1,3,1,1,15,10
+WEST,Mountain North,Idaho,Cold,2,9,3,0,1,5,-2,2,5,5,3,1,1,14,14
+WEST,Mountain North,Idaho,Cold,2,6,4,0,1,5,-2,23,5,5,3,1,1,16,12
+SOUTH,South Atlantic,North Carolina,Hot-Humid,2,6,2,1,1,5,5,2,7,5,3,1,1,15,10
+NORTHEAST,New England,Vermont,Cold,2,1,2,0,1,5,2,2,7,5,2,3,5,13,5
+WEST,Mountain North,Idaho,Cold,2,7,2,1,0,-2,1,2,5,5,3,1,1,15,11
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,0,1,5,1,2,1,5,3,1,5,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,-2,1,2,7,1,-2,-2,1,16,13
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,1,1,-2,1,4,1,3,1,1,16,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,2,0,1,5,5,2,3,5,3,5,5,13,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,4,3,1,0,-2,5,2,0,5,4,5,5,13,9
+MIDWEST,West North Central,Nebraska,Cold,2,8,1,1,1,5,1,1,4,5,3,1,5,16,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,2,1,0,1,2,5,2,5,5,3,3,2,14,5
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,-2,2,2,5,3,1,1,13,12
+MIDWEST,East North Central,Wisconsin,Cold,3,4,3,1,0,-2,5,2,3,5,3,1,1,12,10
+WEST,Pacific,California,Hot-Dry,2,7,4,1,1,1,1,23,7,1,3,1,1,10,13
+MIDWEST,East North Central,Indiana,Cold,2,6,3,1,0,-2,5,-2,3,5,4,5,5,13,11
+NORTHEAST,New England,Massachusetts,Cold,2,6,3,1,0,-2,-2,2,5,5,2,3,3,14,11
+WEST,Pacific,Hawaii,Hot-Humid,2,5,2,1,0,-2,5,-2,0,5,-2,-2,5,12,9
+WEST,Mountain North,Colorado,Cold,2,6,3,0,1,5,5,2,4,5,3,1,1,16,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,0,1,1,1,2,3,1,3,1,1,16,12
+MIDWEST,West North Central,North Dakota,Very-Cold,2,1,3,0,1,5,5,-2,3,5,2,1,5,1,6
+MIDWEST,East North Central,Indiana,Cold,3,3,3,1,0,-2,5,2,2,5,3,5,5,8,9
+WEST,Pacific,Washington,Cold,2,6,2,0,1,5,5,2,-2,5,5,5,5,2,10
+SOUTH,South Atlantic,Florida,Hot-Humid,1,6,3,1,0,-2,1,23,7,5,4,5,5,15,10
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,6,3,1,0,-2,5,-2,7,5,4,5,5,14,11
+SOUTH,West South Central,Texas,Hot-Humid,2,7,3,1,0,-2,5,23,3,5,3,5,5,14,12
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,0,-2,-2,1,3,1,3,1,1,14,13
+SOUTH,East South Central,Mississippi,Mixed-Humid,1,7,1,0,1,-2,5,23,0,5,3,1,5,11,9
+WEST,Pacific,California,Hot-Dry,2,6,4,1,0,-2,-2,2,3,5,3,1,1,10,12
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,1,0,1,-2,-2,23,3,5,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,4,1,1,0,-2,1,23,0,1,3,5,1,15,7
+WEST,Mountain South,Arizona,Hot-Dry,2,5,1,1,1,-2,1,1,5,1,3,1,1,16,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,1,6,2,1,0,-2,5,-2,-2,5,10,5,5,9,9
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,6,1,1,0,-2,1,23,3,5,3,1,1,13,9
+MIDWEST,East North Central,Ohio,Mixed-Humid,2,1,2,0,1,5,-2,2,7,5,2,1,1,15,5
+WEST,Pacific,Hawaii,Hot-Humid,3,4,3,1,0,-2,1,23,1,-2,-2,-2,2,15,10
+NORTHEAST,New England,Massachusetts,Cold,2,1,3,1,0,-2,1,2,5,5,3,1,1,14,6
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,1,-2,-2,3,1,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,-2,2,1,5,4,5,8,13,11
+NORTHEAST,Middle Atlantic,New York,Cold,3,9,5,0,1,2,1,-2,4,5,3,1,1,14,17
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,3,1,0,-2,5,23,2,5,3,1,1,15,9
+WEST,Mountain North,Wyoming,Cold,2,2,2,0,1,5,5,2,-2,-2,8,7,5,12,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,4,1,0,-2,5,2,1,5,-2,-2,5,10,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,1,1,1,5,-2,-2,3,5,3,5,5,9,8
+NORTHEAST,New England,Massachusetts,Cold,2,5,3,0,1,5,5,23,7,5,3,7,5,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,23,2,5,4,5,5,11,16
+MIDWEST,East North Central,Ohio,Cold,2,7,7,0,1,1,1,23,6,5,3,1,1,10,16
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,-2,0,5,-2,-2,5,16,16
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,1,6,1,1,1,1,1,7,1,3,1,1,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,-2,2,2,1,3,1,1,15,11
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,4,1,1,0,-2,5,-2,4,5,4,5,5,15,7
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,0,1,5,5,2,5,5,4,5,5,9,10
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,1,2,-2,2,2,5,4,5,5,15,11
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,0,1,-2,-2,2,5,1,2,1,1,16,10
+MIDWEST,East North Central,Indiana,Cold,2,6,6,1,1,5,5,2,2,1,3,1,5,15,14
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,8,3,0,1,-2,5,2,4,5,3,5,5,13,13
+MIDWEST,West North Central,Iowa,Cold,2,7,3,0,1,1,5,2,6,5,3,1,1,16,12
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,5,-2,2,2,5,3,1,1,15,13
+SOUTH,South Atlantic,Maryland,Mixed-Humid,5,3,7,-2,1,5,5,-2,7,5,3,5,5,15,15
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,1,1,5,5,2,2,5,3,1,5,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,1,1,0,-2,-2,2,1,5,4,5,5,15,8
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,1,0,-2,2,2,7,5,3,3,3,14,12
+WEST,Pacific,Hawaii,Hot-Humid,5,4,4,-2,1,1,-2,2,0,5,-2,-2,8,13,13
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,0,1,-2,5,23,7,5,4,5,5,10,12
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,0,1,1,-2,23,2,5,3,1,1,15,9
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,2,3,0,1,1,-2,23,2,5,3,1,1,13,7
+NORTHEAST,New England,Connecticut,Cold,2,6,2,0,1,-2,-2,2,2,5,3,3,5,15,10
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,2,1,1,1,-2,-2,-2,1,5,3,1,5,14,5
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,5,2,1,5,4,5,5,13,13
+MIDWEST,West North Central,Iowa,Cold,2,7,3,0,1,1,-2,2,7,5,3,5,2,6,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,2,1,1,0,-2,5,-2,0,5,3,3,5,9,5
+MIDWEST,East North Central,Illinois,Cold,5,1,3,-2,1,-2,5,-2,2,5,3,5,5,16,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,1,1,1,5,1,2,2,5,3,1,1,12,5
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,1,0,-2,5,2,5,5,3,1,1,9,10
+MIDWEST,East North Central,Michigan,Cold,2,5,1,1,0,-2,1,2,5,1,3,1,1,12,8
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,1,1,-2,23,4,1,3,5,1,16,8
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,3,1,1,0,-2,5,2,3,1,3,1,1,15,6
+MIDWEST,East North Central,Illinois,Cold,2,5,3,1,0,-2,1,2,4,1,3,1,1,14,10
+NORTHEAST,New England,Massachusetts,Cold,2,7,3,1,0,-2,-2,2,7,5,3,1,1,16,12
+WEST,Mountain South,Nevada,Hot-Dry,3,6,4,1,1,-2,1,-2,2,5,3,1,1,11,13
+MIDWEST,East North Central,Indiana,Cold,1,4,3,0,1,5,1,-2,7,5,3,1,1,9,8
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,0,-2,1,2,2,5,3,1,1,16,8
+MIDWEST,West North Central,Minnesota,Cold,2,8,3,1,0,-2,2,23,2,5,7,1,5,16,13
+MIDWEST,West North Central,Minnesota,Cold,3,7,3,0,1,-2,5,-2,0,5,3,1,1,11,13
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,2,1,0,-2,-2,-2,3,5,3,1,1,7,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,3,0,1,5,-2,-2,4,5,3,7,5,15,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,2,3,1,1,5,5,2,0,5,3,1,1,14,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,1,5,-2,1,4,5,4,5,5,16,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,5,2,2,5,4,5,5,16,15
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,1,3,0,1,5,1,1,-2,1,3,1,5,16,6
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,1,0,-2,5,-2,1,5,4,5,5,9,11
+WEST,Pacific,California,Marine,2,2,4,1,0,-2,5,-2,6,1,3,1,1,15,8
+NORTHEAST,New England,Maine,Cold,2,4,3,0,1,5,5,2,-2,5,2,3,3,13,9
+WEST,Mountain North,Idaho,Cold,2,6,2,1,1,1,13,1,7,5,3,1,1,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,3,1,1,5,-2,2,0,5,3,3,3,7,9
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,1,-2,2,4,1,3,1,1,16,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,6,0,1,5,5,23,5,5,3,5,5,13,15
+NORTHEAST,New England,Vermont,Cold,2,4,2,1,1,-2,2,2,3,2,3,3,3,16,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,1,7,1,0,-2,5,-2,2,5,-2,-2,5,16,10
+NORTHEAST,New England,Rhode Island,Cold,2,5,3,1,0,-2,1,2,5,5,3,1,1,3,10
+WEST,Pacific,California,Hot-Dry,2,8,4,1,0,-2,-2,2,3,1,3,1,1,14,14
+WEST,Pacific,Washington,Cold,2,1,99,1,0,-2,5,2,1,5,13,5,5,12,102
+MIDWEST,East North Central,Michigan,Cold,2,7,3,1,0,-2,1,23,3,1,3,1,1,13,12
+MIDWEST,West North Central,Minnesota,Very-Cold,1,7,3,0,1,1,5,23,3,5,3,2,5,8,11
+MIDWEST,East North Central,Illinois,Cold,2,7,2,0,1,-2,1,2,2,1,3,1,1,16,11
+MIDWEST,East North Central,Michigan,Cold,2,6,3,0,1,5,5,-2,2,5,3,1,1,14,11
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,4,3,1,0,-2,5,2,7,5,2,3,5,15,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,3,0,1,5,-2,2,2,5,4,5,2,12,12
+SOUTH,East South Central,Mississippi,Hot-Humid,2,7,3,1,0,-2,-2,23,7,5,3,5,5,12,12
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,5,-2,2,7,1,3,1,1,16,11
+MIDWEST,East North Central,Michigan,Cold,2,2,3,1,0,-2,1,2,5,1,3,1,1,13,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,2,7,1,0,-2,-2,2,1,5,3,5,5,15,11
+WEST,Pacific,California,Hot-Dry,2,2,2,1,0,-2,-2,23,-2,1,7,1,1,11,6
+WEST,Mountain North,Idaho,Cold,2,7,3,0,1,1,13,2,3,5,3,1,1,14,12
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,8,3,1,0,-2,2,23,1,5,4,5,2,15,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,7,3,0,1,-2,1,2,3,1,3,1,1,16,12
+SOUTH,East South Central,Mississippi,Mixed-Humid,1,7,3,0,1,5,5,23,0,5,3,5,5,1,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,2,0,1,5,-2,2,2,2,3,2,2,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,1,7,3,1,0,-2,5,1,3,5,4,5,5,12,11
+WEST,Pacific,California,Marine,3,7,2,0,1,-2,1,-2,7,5,2,1,1,16,12
+NORTHEAST,New England,Maine,Cold,2,7,3,1,0,-2,2,2,7,5,2,3,7,15,12
+WEST,Pacific,California,Hot-Dry,2,7,7,1,0,-2,1,23,7,1,3,1,1,12,16
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,2,1,0,-2,5,2,1,5,3,5,5,16,9
+WEST,Pacific,California,Marine,2,4,2,0,1,5,1,2,5,1,3,1,1,9,8
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,-2,-2,2,5,4,5,5,15,13
+NORTHEAST,New England,Rhode Island,Cold,3,5,3,1,0,-2,-2,2,-2,5,3,1,1,15,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,1,5,5,-2,1,5,4,5,5,14,14
+WEST,Pacific,California,Hot-Dry,2,7,4,1,0,-2,-2,2,9,5,4,5,1,16,13
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,-2,1,7,1,3,1,1,16,7
+MIDWEST,West North Central,South Dakota,Cold,2,3,3,0,1,5,5,2,3,5,3,1,1,11,8
+MIDWEST,East North Central,Wisconsin,Cold,2,7,3,0,1,5,1,1,0,1,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,1,5,5,-2,1,5,4,5,5,15,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,2,2,5,3,1,1,15,16
+NORTHEAST,New England,Vermont,Cold,2,7,3,1,0,-2,5,2,5,5,2,3,5,10,12
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,4,3,1,1,5,1,2,3,5,3,1,1,9,9
+WEST,Pacific,Oregon,Cold,2,8,2,0,1,5,-2,2,2,1,3,1,1,16,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,1,0,1,-2,-2,2,3,5,4,5,5,15,7
+WEST,Pacific,Washington,Marine,2,4,3,1,0,-2,5,2,8,5,8,7,5,11,9
+MIDWEST,West North Central,Iowa,Cold,4,8,3,-2,1,5,5,2,1,1,3,1,1,13,15
+MIDWEST,East North Central,Michigan,Cold,2,6,3,0,1,5,1,-2,1,1,3,1,1,13,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,0,1,1,1,-2,0,1,3,1,1,9,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,2,1,0,-2,2,2,3,5,3,3,3,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,3,1,1,5,1,23,10,5,5,5,5,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,4,7,4,-2,1,5,5,-2,7,5,5,5,5,9,15
+WEST,Pacific,Washington,Marine,3,9,3,0,1,5,-2,-2,5,5,3,5,5,15,15
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,1,1,0,-2,1,2,4,1,3,1,1,16,5
+NORTHEAST,Middle Atlantic,New Jersey,Cold,3,6,3,0,1,-2,5,-2,3,5,3,1,1,9,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,2,2,1,0,-2,5,-2,-2,5,3,1,1,12,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,1,-2,-2,-2,6,5,-2,-2,5,16,16
+NORTHEAST,New England,Vermont,Cold,2,5,3,0,1,5,13,2,8,5,13,5,5,8,10
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,1,-2,1,2,1,-2,-2,1,16,10
+NORTHEAST,New England,Vermont,Cold,2,1,3,0,1,1,13,2,6,1,99,1,1,10,6
+SOUTH,West South Central,Texas,Mixed-Humid,2,7,1,1,0,-2,-2,23,1,5,3,2,2,16,10
+NORTHEAST,New England,Vermont,Cold,1,6,3,1,0,-2,2,2,-2,5,3,3,5,15,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,3,1,0,-2,-2,2,2,1,3,1,1,12,8
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,5,2,3,5,3,1,1,13,7
+SOUTH,South Atlantic,Delaware,Mixed-Humid,1,6,3,1,0,-2,2,2,0,5,3,2,2,11,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,6,0,1,5,5,2,1,5,4,5,5,11,15
+SOUTH,West South Central,Texas,Hot-Humid,2,1,3,0,1,5,-2,2,7,5,10,5,1,9,6
+SOUTH,East South Central,Alabama,Hot-Humid,2,4,1,1,0,-2,-2,23,3,5,4,5,1,7,7
+MIDWEST,East North Central,Indiana,Cold,3,6,3,1,1,-2,5,2,0,5,3,2,2,15,12
+NORTHEAST,New England,Connecticut,Cold,2,3,2,1,1,5,5,2,5,5,2,3,3,16,7
+NORTHEAST,New England,Massachusetts,Cold,2,7,2,0,1,3,-2,2,3,5,3,3,3,14,11
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,1,1,0,5,3,1,1,14,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,1,1,0,-2,-2,-2,1,5,3,1,1,15,10
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,7,3,0,1,5,5,2,5,5,4,5,5,16,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,1,1,5,-2,2,3,5,3,3,3,16,12
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,5,8,4,-2,1,5,1,-2,7,5,13,5,5,16,17
+MIDWEST,East North Central,Michigan,Cold,1,6,3,1,0,-2,2,2,-2,5,3,2,5,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,1,1,0,-2,1,1,-2,5,3,1,1,13,4
+MIDWEST,West North Central,Iowa,Cold,2,1,6,1,1,5,-2,23,4,5,4,5,5,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,1,-2,1,1,5,1,3,1,1,12,16
+MIDWEST,East North Central,Wisconsin,Cold,2,7,3,1,0,-2,5,2,1,5,3,1,1,11,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,1,0,-2,5,2,3,5,3,1,1,15,11
+WEST,Mountain North,Colorado,Cold,2,6,3,0,1,5,5,2,5,5,2,2,2,14,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,6,3,0,1,5,5,2,2,5,3,1,1,15,11
+NORTHEAST,New England,Connecticut,Cold,2,7,3,0,1,-2,-2,2,6,5,3,3,3,16,12
+MIDWEST,East North Central,Illinois,Cold,2,7,3,0,1,5,5,1,2,5,4,5,1,16,12
+WEST,Mountain North,Colorado,Cold,5,7,1,-2,1,-2,5,2,1,5,3,5,5,6,13
+WEST,Pacific,California,Hot-Dry,2,4,3,1,0,-2,-2,1,7,1,3,1,1,15,9
+WEST,Mountain North,Colorado,Cold,2,7,3,0,1,5,5,2,3,5,3,1,1,16,12
+MIDWEST,East North Central,Illinois,Cold,2,6,3,1,0,-2,1,2,3,1,3,1,1,16,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,3,0,1,5,5,-2,5,5,4,5,5,7,11
+NORTHEAST,New England,Rhode Island,Cold,2,3,3,1,0,-2,5,1,3,5,2,3,3,14,8
+WEST,Mountain North,Colorado,Cold,2,6,2,0,1,5,5,2,5,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,1,0,-2,1,2,1,5,3,1,5,15,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,5,-2,5,5,3,1,1,15,13
+WEST,Pacific,Oregon,Cold,2,8,2,0,1,5,2,2,2,5,3,2,5,8,12
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,5,3,1,1,5,1,1,4,5,3,1,1,7,10
+WEST,Pacific,California,Hot-Dry,5,3,7,-2,1,-2,5,1,0,-2,7,2,5,2,15
+WEST,Mountain South,Nevada,Hot-Dry,4,6,4,-2,1,1,5,-2,0,5,3,1,1,9,14
+NORTHEAST,New England,New Hampshire,Cold,2,5,3,0,1,5,5,2,3,5,3,3,5,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,1,1,2,1,3,1,1,16,13
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,2,1,1,0,-2,5,2,1,5,4,5,5,14,5
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,2,0,1,-2,5,-2,0,5,4,5,5,16,11
+WEST,Mountain South,Arizona,Mixed-Dry,2,3,7,1,0,-2,-2,-2,-2,5,3,1,5,10,12
+WEST,Pacific,Hawaii,Hot-Humid,2,2,2,1,0,-2,5,2,1,5,-2,-2,5,16,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,7,1,0,-2,5,2,3,5,-2,-2,5,16,12
+WEST,Mountain North,Colorado,Cold,2,7,4,0,1,5,1,1,3,5,3,1,1,16,13
+WEST,Pacific,California,Hot-Dry,2,1,1,0,1,5,1,23,7,1,3,1,5,2,4
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,3,1,0,-2,-2,2,0,5,3,1,1,15,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,1,1,0,-2,5,23,0,5,4,5,5,15,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,1,7,3,1,0,-2,5,2,3,5,3,5,5,13,11
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,7,6,1,0,-2,5,2,5,5,4,5,5,12,15
+WEST,Mountain North,Montana,Cold,2,7,3,0,1,5,1,2,14,5,3,1,1,16,12
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,1,2,0,5,3,1,1,8,10
+MIDWEST,West North Central,Minnesota,Very-Cold,2,7,3,0,1,5,5,-2,0,5,99,7,5,13,12
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,0,1,5,5,-2,2,5,3,3,3,15,7
+NORTHEAST,New England,Massachusetts,Cold,2,6,5,1,0,-2,5,2,3,5,3,3,5,15,13
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,0,1,5,-2,1,3,1,3,1,1,16,7
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,1,-2,2,1,5,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,1,2,2,5,4,5,1,15,12
+SOUTH,West South Central,Texas,Hot-Humid,2,2,3,1,0,-2,-2,23,6,1,3,1,1,16,7
+SOUTH,West South Central,Texas,Hot-Humid,2,8,4,0,1,-2,2,-2,5,5,3,2,2,15,14
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,0,-2,5,2,4,5,-2,-2,5,11,12
+WEST,Pacific,Alaska,Very-Cold,3,2,2,0,1,-2,5,23,3,5,3,3,3,8,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,3,0,1,1,-2,2,0,5,3,1,1,16,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,3,0,1,5,5,-2,0,5,3,5,5,13,12
+MIDWEST,East North Central,Indiana,Cold,2,7,3,1,1,5,1,2,8,1,3,1,1,15,12
+NORTHEAST,New England,Vermont,Cold,2,1,3,0,1,5,5,2,3,5,2,3,5,16,6
+WEST,Pacific,Washington,Marine,2,1,2,0,1,5,1,2,2,5,3,1,1,14,5
+MIDWEST,West North Central,Minnesota,Cold,2,3,2,0,1,5,5,23,2,5,3,1,1,15,7
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,1,1,5,5,4,5,5,16,12
+SOUTH,West South Central,Louisiana,Hot-Humid,2,2,4,0,1,-2,1,-2,1,5,3,1,5,7,8
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,1,0,-2,5,2,4,5,3,1,1,12,11
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,9,1,1,1,1,-2,23,4,5,3,5,1,16,12
+SOUTH,East South Central,Alabama,Mixed-Humid,2,6,2,1,0,-2,1,2,3,5,3,1,5,9,10
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,4,1,1,0,-2,5,-2,7,5,3,5,5,14,7
+WEST,Pacific,Washington,Marine,2,2,4,1,0,-2,5,-2,1,5,13,5,5,14,8
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,0,1,5,5,2,3,5,3,1,5,16,11
+WEST,Pacific,California,Cold,2,5,2,0,1,5,-2,-2,0,5,3,1,1,14,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,3,1,0,-2,2,23,7,5,3,5,5,14,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,2,4,1,0,-2,5,2,2,5,3,3,3,14,8
+SOUTH,South Atlantic,Maryland,Mixed-Humid,3,1,3,0,1,-2,5,-2,14,5,4,5,5,14,7
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,0,1,5,5,2,4,5,3,2,5,12,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,3,0,1,5,5,23,7,5,3,5,5,15,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,2,-2,5,-2,-2,5,12,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,1,5,5,2,3,5,3,5,5,14,13
+WEST,Pacific,Alaska,Very-Cold,2,7,2,0,1,5,2,2,7,5,8,7,2,16,11
+WEST,Pacific,California,Cold,2,6,2,0,1,5,1,2,3,5,7,1,5,12,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,0,1,5,-2,23,0,-2,3,1,5,1,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,4,1,1,2,2,2,2,5,4,5,2,16,13
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,2,2,1,0,-2,1,23,-2,5,3,1,1,13,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,5,-2,2,7,5,-2,-2,5,16,15
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,1,1,0,-2,-2,-2,7,5,3,1,1,16,10
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,4,1,1,0,-2,-2,2,2,5,4,5,2,14,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,1,1,5,2,4,5,3,1,1,11,13
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,8,1,0,1,-2,-2,2,4,5,3,2,5,13,11
+MIDWEST,East North Central,Ohio,Cold,2,7,1,0,1,-2,5,23,7,5,3,1,1,16,10
+NORTHEAST,New England,Rhode Island,Cold,2,7,5,1,1,-2,2,2,1,5,3,3,3,16,14
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,0,1,5,13,1,4,5,3,1,1,13,12
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,2,6,1,0,-2,5,2,4,5,3,1,1,10,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,1,1,0,-2,2,23,2,5,3,5,5,16,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,1,0,-2,1,2,4,1,3,1,1,15,11
+NORTHEAST,New England,Rhode Island,Cold,2,1,6,1,0,-2,5,2,5,5,3,3,5,14,9
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,0,1,-2,-2,2,7,1,3,1,1,11,12
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,6,3,1,0,-2,1,2,6,1,3,1,1,16,11
+WEST,Mountain South,Arizona,Hot-Dry,2,4,2,0,1,-2,5,2,4,5,3,1,1,6,8
+SOUTH,West South Central,Texas,Hot-Humid,2,5,6,1,0,-2,-2,2,2,2,3,2,2,15,13
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,3,2,1,0,-2,5,2,4,5,4,5,5,14,7
+NORTHEAST,New England,Maine,Cold,2,3,2,0,1,5,5,2,6,5,2,3,3,14,7
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,3,0,1,5,5,2,4,5,3,1,1,14,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,3,1,0,-2,-2,-2,1,5,3,1,5,16,12
+WEST,Pacific,Washington,Marine,2,7,3,0,1,-2,5,-2,0,5,3,1,1,13,12
+MIDWEST,East North Central,Wisconsin,Cold,2,1,3,1,0,-2,5,2,-2,5,3,2,5,4,6
+NORTHEAST,Middle Atlantic,New Jersey,Cold,3,8,5,0,1,-2,-2,1,7,5,3,1,1,16,16
+NORTHEAST,New England,Massachusetts,Cold,2,4,5,0,1,5,5,2,3,5,3,2,5,16,11
+WEST,Mountain South,Nevada,Hot-Dry,2,8,4,1,0,-2,1,1,0,1,3,1,1,15,14
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,4,3,1,0,-2,5,2,3,1,3,1,5,13,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,3,0,1,5,5,2,0,5,2,1,1,11,6
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,3,1,0,1,-2,5,23,0,5,4,5,5,9,6
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,7,3,0,1,-2,2,2,0,5,7,2,2,15,12
+NORTHEAST,New England,Connecticut,Cold,2,1,3,0,1,5,-2,-2,0,5,3,3,5,15,6
+SOUTH,West South Central,Louisiana,Mixed-Humid,2,6,1,0,1,1,-2,23,0,5,3,1,1,12,9
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,1,2,2,5,3,1,1,13,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,1,4,1,0,-2,1,-2,1,5,3,1,5,16,7
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,2,1,0,-2,-2,2,4,5,3,2,2,15,11
+NORTHEAST,New England,Rhode Island,Cold,2,6,3,1,0,-2,5,2,0,5,3,1,1,14,11
+MIDWEST,East North Central,Michigan,Cold,2,8,1,0,1,5,5,2,6,5,3,1,1,16,11
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,8,3,0,1,1,1,2,5,5,3,1,1,12,13
+WEST,Mountain South,New Mexico,Cold,2,7,4,1,1,-2,-2,1,7,5,2,1,1,14,13
+WEST,Pacific,Oregon,Marine,2,2,2,0,1,5,-2,2,4,5,3,1,1,15,6
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,3,6,3,1,0,-2,13,1,5,5,3,1,1,14,12
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,0,1,-2,-2,-2,4,5,3,1,1,15,7
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,-2,2,0,5,4,5,5,6,10
+SOUTH,South Atlantic,West Virginia,Cold,3,1,2,1,0,-2,5,2,-2,5,3,3,5,5,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,23,3,5,4,5,5,8,13
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,3,3,1,0,-2,5,2,8,5,4,5,5,16,8
+MIDWEST,East North Central,Indiana,Cold,2,2,3,0,1,-2,1,23,-2,5,3,1,5,10,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,0,1,-2,5,-2,-2,5,3,1,1,15,6
+NORTHEAST,New England,Maine,Cold,2,4,3,1,0,-2,5,2,1,5,7,2,2,11,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,1,0,-2,-2,2,7,5,3,5,5,15,9
+MIDWEST,East North Central,Ohio,Cold,2,4,1,0,1,1,5,2,8,5,3,1,1,16,7
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,2,0,1,1,1,2,-2,5,3,1,1,16,10
+WEST,Mountain North,Montana,Cold,2,4,3,0,1,5,2,2,4,5,2,2,2,5,9
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,5,13,2,3,5,3,1,1,15,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,5,1,1,1,5,-2,2,5,3,1,1,4,14
+NORTHEAST,New England,Massachusetts,Cold,4,1,2,-2,1,-2,5,2,5,5,2,3,1,15,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,2,7,1,0,-2,5,2,7,5,10,5,5,16,11
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,1,-2,-2,1,5,3,1,1,16,10
+NORTHEAST,New England,Connecticut,Cold,2,3,3,1,0,-2,5,2,3,5,2,3,3,15,8
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,1,1,-2,5,2,5,5,3,3,3,16,9
+WEST,Mountain North,Idaho,Cold,2,6,3,0,1,5,2,2,6,5,3,2,5,16,11
+WEST,Mountain North,Utah,Cold,2,2,1,0,1,-2,5,2,5,5,3,1,1,16,5
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,1,1,1,1,1,7,5,3,1,1,16,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,9,1,1,0,-2,13,2,6,5,4,5,5,16,12
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,-2,2,1,5,3,1,1,12,7
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,7,2,0,1,-2,1,2,2,1,2,1,1,12,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,3,4,1,0,-2,-2,2,3,2,3,2,2,12,9
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,6,3,0,1,-2,5,-2,2,5,3,1,1,9,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,3,1,0,-2,1,2,3,1,3,1,1,16,11
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,1,0,-2,-2,-2,7,5,4,5,1,16,12
+WEST,Mountain North,Montana,Cold,2,5,4,1,0,-2,1,2,0,5,3,1,1,16,11
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,4,1,1,0,-2,5,2,4,5,7,1,5,14,7
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,2,1,1,0,-2,5,2,1,5,3,1,1,14,5
+MIDWEST,East North Central,Michigan,Cold,2,7,3,0,1,1,1,2,2,1,3,1,1,13,12
+MIDWEST,East North Central,Wisconsin,Cold,2,4,3,1,0,-2,5,2,7,5,3,1,1,9,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,1,1,1,5,5,2,4,5,3,5,5,15,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,3,1,1,0,-2,5,2,3,5,4,5,5,14,6
+NORTHEAST,New England,Massachusetts,Cold,2,8,3,0,1,1,-2,2,6,5,3,1,1,16,13
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,1,0,-2,5,2,0,1,2,1,1,16,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,1,5,-2,2,4,5,3,5,5,16,12
+NORTHEAST,New England,Rhode Island,Cold,2,5,2,1,0,-2,5,2,5,5,3,1,1,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,1,5,5,2,0,5,3,5,5,12,12
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,3,0,1,-2,5,-2,-2,5,3,1,1,15,12
+SOUTH,South Atlantic,West Virginia,Cold,2,4,3,0,1,-2,5,23,7,5,5,5,5,11,9
+WEST,Mountain North,Utah,Cold,2,6,4,0,1,5,1,1,4,1,2,1,1,15,12
+SOUTH,South Atlantic,District of Columbia,Mixed-Humid,3,1,1,0,1,-2,1,2,6,5,3,1,5,16,5
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,3,6,3,0,1,5,1,2,3,5,3,1,1,16,12
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,1,1,0,-2,-2,23,3,5,3,1,1,16,10
+WEST,Mountain North,Colorado,Cold,2,2,3,1,1,5,1,2,6,5,3,1,1,15,7
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,2,1,1,0,-2,5,-2,7,5,4,5,5,5,5
+MIDWEST,West North Central,Minnesota,Very-Cold,2,6,2,0,1,-2,5,23,-2,5,5,5,5,13,10
+MIDWEST,West North Central,Iowa,Cold,2,1,3,0,1,5,5,2,7,2,3,2,2,16,6
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,-2,23,1,5,3,1,1,12,10
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,1,-2,1,4,1,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,1,2,0,5,3,1,1,13,13
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,3,1,0,-2,13,1,0,1,7,3,1,15,8
+SOUTH,West South Central,Louisiana,Hot-Humid,2,1,2,1,1,1,-2,23,5,1,-2,-2,1,16,5
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,4,7,1,-2,1,1,-2,-2,-2,-2,2,1,1,5,12
+SOUTH,West South Central,Louisiana,Hot-Humid,2,6,1,1,1,1,-2,23,5,5,3,1,1,16,9
+MIDWEST,East North Central,Ohio,Cold,2,7,3,0,1,5,1,2,0,1,3,1,1,16,12
+MIDWEST,East North Central,Indiana,Cold,2,4,1,1,0,-2,1,-2,3,5,2,1,1,14,7
+MIDWEST,East North Central,Wisconsin,Cold,2,1,3,0,1,5,1,23,5,5,3,1,1,12,6
+MIDWEST,West North Central,North Dakota,Very-Cold,2,7,3,0,1,5,5,2,3,5,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,5,5,2,1,5,-2,-2,5,16,15
+WEST,Mountain North,Utah,Cold,2,8,4,0,1,5,1,23,7,1,3,1,1,14,14
+MIDWEST,East North Central,Indiana,Cold,2,1,3,1,0,-2,5,2,-2,5,3,1,5,7,6
+MIDWEST,East North Central,Indiana,Cold,2,4,3,1,0,-2,5,23,0,5,3,1,1,12,9
+NORTHEAST,New England,Connecticut,Cold,2,5,2,0,1,2,5,23,5,5,3,2,2,15,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,3,3,1,0,-2,-2,1,7,5,3,1,1,16,8
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,5,5,2,1,5,3,1,1,13,13
+WEST,Pacific,Oregon,Marine,2,8,4,0,1,5,-2,1,6,5,4,5,5,16,14
+WEST,Pacific,California,Marine,2,4,4,1,1,99,5,2,2,1,3,1,1,16,10
+WEST,Pacific,Oregon,Cold,2,8,3,0,1,5,5,2,4,5,4,5,5,15,13
+MIDWEST,East North Central,Michigan,Cold,2,6,3,0,1,5,5,2,3,1,3,1,1,12,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,1,3,1,0,-2,5,23,6,5,13,5,5,13,6
+SOUTH,South Atlantic,West Virginia,Cold,2,2,3,1,0,-2,1,2,1,1,3,1,1,5,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,2,4,5,4,5,5,15,16
+WEST,Pacific,California,Hot-Dry,2,5,4,1,0,-2,-2,1,7,5,3,1,1,14,11
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,0,-2,-2,2,2,5,4,5,5,16,8
+MIDWEST,East North Central,Illinois,Cold,2,1,1,0,1,1,1,1,4,1,3,1,1,16,4
+WEST,Mountain North,Montana,Cold,2,1,2,0,1,5,1,23,-2,5,3,1,1,9,5
+MIDWEST,West North Central,North Dakota,Very-Cold,2,1,4,0,1,-2,5,2,2,5,3,1,5,16,7
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,1,23,4,1,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,5,7,7,-2,1,-2,5,-2,4,5,-2,-2,1,14,19
+WEST,Pacific,California,Marine,2,3,4,1,1,-2,-2,2,1,5,3,1,1,12,9
+MIDWEST,East North Central,Illinois,Cold,4,9,1,-2,1,-2,1,23,5,5,3,1,1,16,14
+SOUTH,South Atlantic,Virginia,Mixed-Humid,5,6,1,-2,1,-2,5,-2,7,-2,4,5,5,8,12
+MIDWEST,West North Central,Iowa,Cold,2,4,2,1,0,-2,1,2,2,5,3,1,5,15,8
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,0,1,5,-2,23,5,5,3,1,1,8,7
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,0,1,5,5,-2,0,5,3,5,5,15,8
+WEST,Mountain South,Nevada,Hot-Dry,2,4,2,1,0,-2,5,-2,0,1,3,1,1,13,8
+MIDWEST,East North Central,Illinois,Cold,5,5,1,-2,1,5,1,-2,1,1,3,1,1,10,11
+MIDWEST,West North Central,Minnesota,Cold,2,5,3,0,1,1,1,2,4,5,3,1,1,13,10
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,0,1,5,1,1,5,5,3,1,1,13,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,1,4,1,0,-2,1,-2,7,5,3,5,5,16,7
+WEST,Mountain North,Colorado,Cold,2,1,7,0,1,-2,5,-2,5,5,3,1,1,12,10
+WEST,Pacific,Washington,Cold,2,3,2,0,1,5,5,2,5,5,4,5,5,12,7
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,1,0,1,-2,5,2,2,5,4,5,5,7,7
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,7,3,0,1,5,5,2,3,5,3,5,5,13,12
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,4,1,1,0,-2,5,-2,20,5,4,5,5,12,7
+WEST,Pacific,Oregon,Marine,2,5,2,0,1,5,5,2,4,5,3,1,1,12,9
+SOUTH,East South Central,Alabama,Hot-Humid,1,7,3,0,1,5,2,23,0,5,4,5,5,11,11
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,1,1,1,0,-2,-2,23,4,5,3,1,1,16,4
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,6,3,1,0,-2,5,2,7,5,3,1,1,16,11
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,6,1,0,1,-2,1,-2,3,1,3,1,1,13,9
+WEST,Mountain South,Arizona,Hot-Dry,2,9,4,1,0,-2,5,23,0,5,3,1,1,7,15
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,1,1,-2,1,5,1,3,1,1,16,9
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,6,1,1,0,-2,5,23,10,5,4,5,5,15,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,5,2,7,-2,1,-2,1,-2,1,-2,2,1,1,16,14
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,13,1,2,1,3,1,1,16,12
+WEST,Mountain South,New Mexico,Mixed-Dry,2,2,1,0,1,5,-2,2,7,5,3,1,1,15,5
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,3,0,1,-2,1,2,4,5,3,1,1,16,12
+WEST,Pacific,California,Marine,2,7,4,1,1,-2,1,-2,5,1,3,1,5,14,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,5,3,1,0,-2,1,-2,7,1,3,1,1,15,10
+WEST,Pacific,California,Marine,2,3,3,0,1,5,1,-2,1,5,4,5,1,16,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,1,2,5,2,7,5,3,5,5,14,12
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,4,1,0,1,-2,-2,2,7,5,3,1,5,16,7
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,5,1,1,0,-2,5,23,2,5,4,5,5,8,8
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,7,3,1,1,5,1,1,1,1,3,1,1,16,12
+MIDWEST,East North Central,Michigan,Cold,1,4,3,1,0,-2,5,23,7,5,3,2,5,10,8
+SOUTH,South Atlantic,District of Columbia,Mixed-Humid,3,1,1,0,1,5,1,-2,2,5,5,5,5,16,5
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,3,2,0,1,-2,2,-2,2,2,3,2,2,15,7
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,4,3,1,0,-2,13,-2,3,5,3,1,1,14,9
+WEST,Pacific,Oregon,Marine,2,6,2,0,1,-2,1,-2,0,5,3,1,1,14,10
+WEST,Pacific,Oregon,Marine,2,7,3,0,1,5,1,-2,2,5,3,1,1,16,12
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,1,3,1,0,-2,5,2,5,5,2,1,1,15,6
+MIDWEST,East North Central,Indiana,Cold,2,7,3,0,1,-2,1,2,3,1,3,1,1,13,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,1,0,1,5,-2,1,3,5,3,1,5,6,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,0,1,5,5,23,3,5,3,5,5,15,10
+SOUTH,West South Central,Texas,Hot-Humid,2,3,1,1,0,-2,1,2,7,5,3,1,1,16,6
+SOUTH,West South Central,Texas,Hot-Humid,2,8,6,0,1,2,2,2,6,5,4,5,2,16,16
+SOUTH,South Atlantic,Maryland,Mixed-Humid,3,1,1,0,1,1,1,23,1,5,3,1,1,16,5
+SOUTH,South Atlantic,Florida,Hot-Humid,3,6,1,0,1,-2,5,1,7,5,-2,-2,5,7,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,2,1,0,-2,1,2,5,5,3,1,1,15,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,1,0,-2,-2,23,2,5,3,1,1,16,10
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,4,1,1,0,-2,5,2,3,5,3,1,1,12,7
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,3,0,1,5,5,2,7,5,3,3,3,12,9
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,4,6,1,0,-2,2,-2,7,5,3,2,2,14,12
+NORTHEAST,New England,Connecticut,Cold,2,5,3,0,1,5,5,2,-2,5,2,3,3,7,10
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,3,1,1,0,-2,5,23,4,5,4,5,5,13,6
+WEST,Mountain South,Nevada,Hot-Dry,2,4,4,1,1,1,1,1,7,1,3,1,1,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,2,0,1,-2,5,2,5,5,4,5,5,10,9
+SOUTH,West South Central,Oklahoma,Mixed-Humid,1,7,3,1,0,-2,2,2,1,5,3,2,5,13,11
+WEST,Mountain South,Arizona,Hot-Dry,2,4,1,1,0,-2,5,2,3,5,3,5,5,15,7
+SOUTH,West South Central,Texas,Hot-Humid,4,6,2,-2,1,1,5,2,-2,-2,-2,-2,5,2,12
+WEST,Mountain South,Arizona,Hot-Dry,2,5,2,1,0,-2,5,2,1,5,-2,-2,5,12,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,1,1,0,-2,5,2,5,5,4,5,5,1,7
+WEST,Pacific,California,Hot-Dry,2,2,4,1,0,-2,-2,2,-2,-2,-2,-2,1,13,8
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,1,1,0,-2,1,23,5,1,3,1,1,14,9
+WEST,Mountain North,Idaho,Cold,2,4,3,0,1,5,5,2,1,5,3,2,2,16,9
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,-2,2,7,1,3,1,1,16,10
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,3,2,1,0,-2,5,2,2,5,4,5,2,13,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,0,-2,-2,-2,3,5,3,5,5,16,13
+NORTHEAST,New England,Maine,Cold,2,6,3,1,0,-2,5,2,5,5,3,2,2,15,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,5,3,1,0,-2,5,2,9,5,3,5,5,15,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,3,1,1,0,-2,-2,2,1,5,4,5,5,8,6
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,5,1,0,1,-2,-2,-2,4,5,3,1,1,14,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,3,1,0,-2,5,1,-2,5,3,1,5,4,9
+WEST,Mountain South,Arizona,Hot-Dry,2,1,1,1,0,-2,1,2,2,5,3,1,1,16,4
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,1,0,-2,5,2,3,5,3,3,5,15,10
+NORTHEAST,New England,Connecticut,Cold,2,4,2,1,0,-2,5,2,7,5,2,5,5,15,8
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,-2,1,1,4,1,3,1,1,15,10
+WEST,Mountain South,Nevada,Cold,2,6,4,0,1,-2,1,2,2,5,3,5,1,12,12
+WEST,Pacific,California,Hot-Dry,2,7,4,1,0,-2,1,2,4,5,3,1,1,14,13
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,1,23,2,1,3,1,1,16,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,1,1,1,3,5,3,1,1,16,10
+MIDWEST,East North Central,Michigan,Cold,2,2,1,1,0,-2,5,2,2,1,3,1,1,15,5
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,1,1,2,1,1,3,1,1,13,12
+MIDWEST,East North Central,Michigan,Cold,2,4,3,1,0,-2,1,2,6,1,3,1,1,16,9
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,4,3,1,0,-2,5,23,0,5,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,2,1,0,-2,5,2,-2,2,2,3,3,11,7
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,6,4,0,1,5,5,2,7,5,3,1,1,16,12
+NORTHEAST,New England,Rhode Island,Cold,2,5,2,0,1,5,-2,2,7,5,3,1,1,16,9
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,4,1,1,1,5,-2,1,7,5,3,5,5,14,7
+SOUTH,West South Central,Texas,Hot-Humid,1,7,2,0,1,-2,5,23,0,5,4,5,5,12,10
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,1,0,-2,5,-2,1,5,3,5,5,12,13
+WEST,Pacific,Alaska,Very-Cold,2,5,2,0,1,5,5,2,5,5,2,1,1,14,9
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,5,5,23,2,1,3,5,1,13,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,5,5,-2,6,5,4,5,5,8,15
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,2,0,1,-2,5,2,3,5,3,1,1,16,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,1,0,-2,5,2,2,5,3,2,2,15,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,4,3,1,0,-2,-2,-2,9,5,3,5,1,14,9
+MIDWEST,East North Central,Indiana,Cold,2,1,3,1,0,-2,-2,2,7,5,3,1,1,16,6
+MIDWEST,West North Central,Minnesota,Cold,5,8,1,-2,1,5,5,-2,1,5,3,5,5,8,14
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,1,3,0,1,5,5,1,-2,5,3,5,5,15,6
+NORTHEAST,New England,Rhode Island,Cold,2,4,2,1,1,5,5,2,2,5,2,3,3,16,8
+NORTHEAST,Middle Atlantic,New York,Cold,2,9,3,0,1,1,1,2,2,1,3,1,1,11,14
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,5,23,0,1,3,1,1,4,10
+WEST,Mountain North,Colorado,Cold,2,1,3,0,1,-2,5,23,0,2,3,2,5,15,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,4,1,1,5,5,2,6,1,3,5,1,15,14
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,1,0,1,-2,5,-2,4,5,3,1,1,10,7
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,1,0,1,5,-2,2,7,5,3,1,1,16,10
+SOUTH,West South Central,Louisiana,Hot-Humid,2,1,5,1,0,-2,-2,2,3,1,3,1,1,12,8
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,1,-2,-2,2,4,2,3,5,5,16,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,2,1,1,0,-2,1,2,0,1,3,1,1,12,5
+NORTHEAST,New England,Connecticut,Cold,3,4,2,1,0,-2,5,2,2,5,3,1,5,11,9
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,5,2,4,5,4,5,5,13,11
+MIDWEST,East North Central,Michigan,Cold,2,1,2,0,1,5,5,2,-2,5,2,3,5,14,5
+WEST,Pacific,California,Hot-Dry,4,7,2,-2,1,5,2,23,-2,2,-2,-2,2,7,13
+WEST,Mountain North,Idaho,Cold,2,6,3,0,1,-2,1,2,4,1,3,1,1,14,11
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,6,1,1,0,-2,5,23,1,5,3,1,1,12,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,3,1,1,0,-2,5,23,0,5,3,1,1,12,6
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,1,1,1,1,1,2,3,1,3,1,1,16,10
+WEST,Mountain South,Nevada,Hot-Dry,2,8,4,1,0,-2,1,23,3,1,3,1,1,13,14
+WEST,Mountain North,Colorado,Cold,2,5,2,0,1,5,13,2,7,5,5,5,5,16,9
+WEST,Pacific,California,Hot-Dry,2,5,2,1,1,5,5,2,5,5,3,1,1,15,9
+SOUTH,East South Central,Mississippi,Hot-Humid,2,7,4,1,0,-2,1,2,5,5,4,5,1,15,13
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,5,3,1,1,2,5,2,7,5,3,2,2,15,10
+MIDWEST,East North Central,Illinois,Cold,2,6,4,1,0,-2,-2,2,5,5,3,1,1,16,12
+MIDWEST,East North Central,Wisconsin,Cold,2,7,3,1,0,-2,-2,1,6,1,3,1,1,15,12
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,1,0,-2,-2,2,7,5,3,1,1,15,11
+WEST,Pacific,Oregon,Marine,2,2,2,0,1,5,-2,2,3,5,4,5,5,10,6
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,2,0,1,1,5,-2,0,5,3,1,1,13,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,0,1,5,5,2,2,5,4,5,5,16,10
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,0,-2,-2,-2,1,5,3,1,5,4,8
+WEST,Pacific,Washington,Marine,1,4,3,0,1,5,-2,-2,-2,5,3,5,5,9,8
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,0,1,-2,-2,2,1,5,3,5,5,12,11
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,1,-2,1,5,4,5,1,12,13
+MIDWEST,West North Central,North Dakota,Cold,2,7,3,0,1,5,5,2,2,5,3,1,1,16,12
+MIDWEST,East North Central,Michigan,Cold,2,3,1,0,1,5,-2,2,5,5,3,1,1,14,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,5,-2,1,5,4,5,5,6,15
+SOUTH,South Atlantic,Florida,Hot-Humid,5,7,2,-2,1,-2,5,-2,1,-2,-2,-2,5,3,14
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,1,-2,-2,2,1,5,3,5,5,16,11
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,4,3,1,0,-2,5,-2,2,5,3,1,1,12,9
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,2,0,1,-2,5,-2,0,5,2,1,1,7,9
+WEST,Pacific,California,Marine,2,3,4,1,1,1,-2,2,4,1,3,1,1,16,9
+NORTHEAST,New England,Massachusetts,Cold,3,7,3,0,1,-2,1,2,5,1,3,1,1,15,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,4,3,1,0,-2,5,2,3,5,3,3,5,14,9
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,2,1,1,0,-2,5,-2,2,5,4,5,1,15,5
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,1,1,1,5,5,23,2,-2,3,1,5,13,9
+NORTHEAST,New England,Massachusetts,Cold,2,1,3,0,1,5,13,2,-2,-2,3,3,1,12,6
+SOUTH,West South Central,Texas,Hot-Humid,2,8,1,1,0,-2,1,1,5,5,3,1,1,16,11
+MIDWEST,East North Central,Indiana,Cold,2,2,2,1,0,-2,5,23,5,5,4,5,5,14,6
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,5,2,1,0,-2,5,2,1,5,5,5,5,9,9
+MIDWEST,East North Central,Wisconsin,Very-Cold,2,1,3,0,1,5,5,2,-2,5,3,1,1,16,6
+WEST,Pacific,Oregon,Marine,2,7,4,0,1,5,1,-2,7,5,2,5,1,14,13
+NORTHEAST,New England,Maine,Cold,2,3,3,0,1,5,2,2,2,5,2,3,5,15,8
+WEST,Mountain South,Arizona,Hot-Dry,2,2,1,1,0,-2,1,2,2,5,3,1,5,16,5
+NORTHEAST,Middle Atlantic,New York,Cold,2,2,3,0,1,5,1,-2,-2,1,3,1,1,7,7
+NORTHEAST,New England,New Hampshire,Cold,2,1,2,1,0,-2,2,2,20,5,3,3,3,16,5
+SOUTH,East South Central,Alabama,Mixed-Humid,1,5,1,1,1,-2,1,23,4,1,4,5,5,14,7
+NORTHEAST,New England,Rhode Island,Cold,2,1,5,1,0,-2,13,2,1,5,7,1,1,13,8
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,3,0,1,5,1,-2,0,5,3,1,1,1,12
+WEST,Pacific,California,Hot-Dry,2,5,4,1,1,1,-2,1,1,1,3,5,1,16,11
+SOUTH,East South Central,Alabama,Mixed-Humid,1,7,3,1,0,-2,-2,23,4,5,4,5,5,13,11
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,6,3,1,0,-2,5,2,3,5,4,5,5,13,11
+WEST,Pacific,Hawaii,Hot-Humid,5,4,2,-2,1,-2,5,-2,-2,5,3,5,8,2,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,8,2,0,1,5,-2,-2,3,5,3,5,5,16,12
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,1,1,0,-2,-2,23,7,5,3,1,1,15,10
+MIDWEST,West North Central,Iowa,Cold,2,7,3,0,1,-2,5,2,2,5,3,1,1,14,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,3,7,1,0,1,-2,13,1,2,1,3,1,1,15,11
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,3,1,0,-2,-2,23,5,5,3,1,1,15,12
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,5,3,1,0,-2,5,-2,1,5,3,1,1,14,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,5,7,3,-2,1,5,5,-2,3,5,3,5,5,14,15
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,0,-2,-2,2,4,5,3,1,1,15,9
+WEST,Mountain South,New Mexico,Hot-Dry,2,7,4,1,1,-2,5,-2,1,5,3,2,2,13,13
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,0,-2,2,2,7,5,4,5,2,14,10
+WEST,Pacific,Washington,Marine,2,8,3,0,1,-2,5,23,2,5,3,5,5,14,13
+MIDWEST,West North Central,Iowa,Cold,2,6,3,1,0,-2,2,23,1,2,3,2,2,13,11
+WEST,Mountain South,New Mexico,Cold,2,7,4,0,1,5,-2,23,2,5,2,2,2,15,13
+MIDWEST,West North Central,Iowa,Cold,2,1,3,1,1,5,1,1,-2,1,3,1,1,10,6
+WEST,Mountain North,Wyoming,Cold,2,1,2,0,1,1,1,2,2,5,3,1,1,12,5
+MIDWEST,East North Central,Illinois,Cold,2,2,1,1,0,-2,1,1,0,1,3,1,1,15,5
+WEST,Mountain South,Nevada,Hot-Dry,2,3,4,0,1,1,5,-2,-2,1,3,1,1,2,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,1,1,5,5,2,5,5,5,5,5,15,10
+WEST,Pacific,California,Hot-Dry,2,3,4,1,1,5,1,-2,7,1,3,1,1,16,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,0,1,1,-2,2,7,1,3,1,1,16,10
+WEST,Mountain South,Nevada,Cold,2,6,2,0,1,5,1,2,1,5,3,1,1,15,10
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,7,1,1,0,-2,1,2,5,5,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,1,1,3,1,3,1,1,15,12
+WEST,Pacific,Hawaii,Hot-Humid,2,7,3,0,1,5,5,-2,0,5,99,5,5,16,12
+NORTHEAST,New England,Maine,Cold,3,2,3,0,1,5,5,2,4,5,3,3,3,16,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,1,1,0,-2,-2,1,4,1,4,5,5,15,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,1,1,1,5,5,2,7,5,4,5,5,14,8
+MIDWEST,West North Central,Nebraska,Cold,2,8,3,0,1,5,5,1,2,5,4,5,5,14,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,1,0,-2,1,2,3,1,2,1,1,14,10
+NORTHEAST,New England,Massachusetts,Cold,2,8,3,0,1,-2,1,2,2,5,3,1,1,16,13
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,-2,5,2,0,5,3,1,1,15,10
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,7,3,0,1,-2,1,23,0,5,3,1,5,16,12
+NORTHEAST,New England,Connecticut,Cold,2,3,2,1,0,-2,-2,2,2,5,3,3,3,14,7
+WEST,Mountain South,New Mexico,Cold,2,6,4,0,1,-2,5,-2,2,5,7,1,1,12,12
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,0,1,5,-2,-2,6,1,3,1,1,16,11
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,0,-2,-2,-2,0,5,3,5,5,14,8
+NORTHEAST,New England,Massachusetts,Cold,3,7,3,0,1,-2,5,-2,5,5,3,1,5,12,13
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,7,1,0,1,5,5,2,5,5,3,2,5,15,10
+SOUTH,South Atlantic,Florida,Hot-Humid,3,3,7,0,1,5,5,2,0,5,4,5,5,12,13
+MIDWEST,East North Central,Ohio,Cold,2,9,3,0,1,5,5,23,1,-2,5,5,2,16,14
+MIDWEST,West North Central,Iowa,Cold,2,1,3,1,0,-2,2,23,2,5,4,5,5,14,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,2,7,5,3,5,5,15,16
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,1,0,-2,-2,2,5,5,3,1,1,16,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,0,-2,1,2,6,1,7,1,1,14,8
+MIDWEST,West North Central,Iowa,Cold,2,1,3,0,1,-2,1,2,4,5,3,1,5,16,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,1,2,1,0,-2,5,23,7,5,3,5,5,15,5
+WEST,Pacific,California,Marine,2,3,4,0,1,5,13,2,-2,1,3,1,1,9,9
+WEST,Pacific,Oregon,Marine,2,2,3,0,1,5,5,2,4,5,3,2,5,16,7
+MIDWEST,East North Central,Indiana,Cold,2,6,1,1,0,-2,1,2,5,5,3,5,5,15,9
+NORTHEAST,New England,Vermont,Cold,2,7,3,0,1,1,1,-2,7,5,3,1,1,16,12
+WEST,Mountain South,Nevada,Cold,1,4,3,0,1,5,-2,2,0,5,3,5,5,1,8
+SOUTH,South Atlantic,Florida,Hot-Humid,5,4,7,-2,1,-2,5,-2,-2,5,-2,-2,5,1,16
+WEST,Pacific,California,Hot-Dry,2,6,4,0,1,5,2,2,7,2,3,5,2,15,12
+MIDWEST,East North Central,Michigan,Cold,3,6,2,0,1,-2,1,-2,0,1,3,1,1,16,11
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,5,3,1,0,-2,5,2,1,5,4,5,5,11,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,1,2,1,1,5,1,-2,10,5,2,1,1,16,5
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,2,1,0,-2,5,-2,1,5,3,1,1,7,10
+SOUTH,West South Central,Texas,Hot-Humid,2,9,1,1,1,1,-2,23,5,5,3,1,5,16,12
+SOUTH,West South Central,Texas,Hot-Dry,2,7,4,1,1,2,5,2,4,5,3,2,2,11,13
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,0,5,4,5,5,16,12
+MIDWEST,West North Central,Iowa,Cold,2,4,3,0,1,-2,2,2,2,5,3,2,2,13,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,1,0,-2,5,-2,4,5,4,5,5,12,10
+MIDWEST,East North Central,Illinois,Cold,2,1,3,1,0,-2,1,23,-2,5,3,1,1,10,6
+WEST,Pacific,Oregon,Marine,2,3,2,0,1,5,1,23,7,5,3,1,5,15,7
+WEST,Pacific,Hawaii,Hot-Humid,2,5,3,1,0,-2,5,2,7,5,-2,-2,5,9,10
+WEST,Mountain North,Wyoming,Cold,2,4,3,0,1,5,1,2,7,5,3,1,5,12,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,2,3,1,0,-2,5,2,0,5,3,1,1,14,7
+WEST,Pacific,Oregon,Cold,2,7,2,0,1,5,5,2,4,5,8,7,5,14,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,1,1,0,-2,5,2,3,5,10,5,5,15,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,2,3,1,0,-2,13,23,4,5,3,1,1,13,7
+NORTHEAST,New England,Massachusetts,Cold,2,4,2,1,0,-2,13,2,7,1,3,1,1,16,8
+WEST,Pacific,California,Hot-Dry,2,1,4,1,0,-2,-2,1,7,1,3,1,1,16,7
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,1,0,1,1,1,2,7,5,3,1,1,16,9
+WEST,Pacific,California,Hot-Dry,2,1,4,1,0,-2,1,-2,-2,-2,10,5,1,8,7
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,4,3,1,0,-2,1,2,3,1,2,1,1,14,9
+NORTHEAST,New England,Massachusetts,Cold,2,2,3,1,0,-2,-2,2,5,1,3,1,1,16,7
+WEST,Mountain North,Utah,Cold,3,3,7,1,0,-2,5,2,5,5,3,1,1,14,13
+NORTHEAST,New England,Vermont,Cold,2,6,3,1,1,5,13,2,4,1,3,1,1,16,11
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,5,-2,0,5,4,5,5,10,10
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,6,3,1,1,5,-2,2,1,2,3,2,2,16,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,1,1,0,-2,1,2,3,5,3,5,1,15,11
+NORTHEAST,New England,New Hampshire,Cold,4,1,2,-2,1,1,1,2,9,1,3,1,1,15,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,1,5,5,1,2,5,3,1,1,13,8
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,1,1,5,2,10,5,3,1,1,16,13
+WEST,Pacific,Washington,Marine,2,2,2,0,1,5,1,-2,7,5,3,1,1,13,6
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,6,3,1,1,5,5,2,7,-2,4,5,5,13,11
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,1,1,0,-2,-2,2,1,5,3,1,1,15,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,5,23,0,5,-2,-2,5,15,13
+NORTHEAST,New England,Connecticut,Cold,2,6,3,0,1,5,2,2,2,5,3,3,5,15,11
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,7,6,0,1,-2,1,1,5,5,3,1,1,15,15
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,7,1,0,-2,-2,2,3,5,4,5,5,16,18
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,6,1,0,1,1,1,23,7,5,3,1,1,16,9
+NORTHEAST,New England,Connecticut,Cold,2,6,3,1,0,-2,-2,2,12,5,2,3,3,16,11
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,2,5,3,5,5,16,12
+WEST,Mountain South,Arizona,Hot-Dry,2,4,7,0,1,-2,5,23,2,5,13,5,5,13,13
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,1,0,1,5,5,2,3,5,4,5,5,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,0,1,5,1,2,16,5,3,1,1,16,12
+SOUTH,West South Central,Texas,Hot-Humid,2,2,1,1,1,1,-2,2,2,5,13,5,1,16,5
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,3,1,0,1,-2,-2,1,3,5,5,5,5,4,6
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,1,0,1,-2,5,2,3,5,3,5,5,16,10
+MIDWEST,East North Central,Illinois,Cold,2,6,3,0,1,-2,-2,2,5,5,3,1,1,16,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,3,1,1,0,-2,-2,2,7,5,3,1,5,14,6
+WEST,Mountain North,Utah,Cold,2,7,3,1,1,5,13,23,7,1,3,5,1,16,12
+MIDWEST,East North Central,Michigan,Cold,2,1,3,0,1,5,5,23,-2,5,8,7,5,8,6
+WEST,Pacific,Hawaii,Hot-Humid,5,6,2,-2,1,5,5,-2,0,5,-2,-2,5,11,13
+NORTHEAST,New England,Connecticut,Cold,2,5,2,0,1,-2,5,2,4,5,2,3,3,15,9
+WEST,Pacific,California,Marine,5,7,3,-2,1,5,5,-2,3,5,3,1,1,16,15
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,0,1,5,5,-2,0,5,3,5,5,15,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,5,2,1,5,4,5,5,15,15
+SOUTH,West South Central,Louisiana,Hot-Humid,2,7,1,1,0,-2,-2,2,1,5,3,5,2,14,10
+WEST,Pacific,Washington,Cold,2,1,2,1,0,-2,5,23,3,5,3,1,1,13,5
+SOUTH,East South Central,Mississippi,Mixed-Humid,2,6,1,1,0,-2,5,23,0,5,3,5,5,14,9
+NORTHEAST,New England,Connecticut,Cold,2,4,3,1,0,-2,5,2,3,5,3,3,3,16,9
+WEST,Pacific,Hawaii,Hot-Humid,2,2,2,0,1,5,5,-2,-2,5,10,5,5,11,6
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,3,1,0,1,-2,-2,2,5,5,3,1,1,13,6
+WEST,Pacific,California,Hot-Dry,2,1,5,1,0,-2,-2,2,3,5,3,1,1,16,8
+WEST,Pacific,Washington,Marine,2,6,2,0,1,1,1,2,14,1,3,1,1,16,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,3,0,1,-2,5,23,2,5,3,5,5,13,12
+MIDWEST,West North Central,North Dakota,Very-Cold,2,5,3,0,1,5,2,2,4,5,3,2,2,15,10
+MIDWEST,East North Central,Illinois,Cold,3,4,1,0,1,-2,1,-2,5,1,3,1,1,11,8
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,1,1,13,1,3,1,3,1,1,16,9
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,4,1,1,0,-2,-2,2,4,5,3,1,1,14,7
+SOUTH,East South Central,Kentucky,Mixed-Humid,1,7,3,1,0,-2,5,2,4,5,3,5,5,4,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,3,1,0,-2,5,2,3,5,4,5,2,13,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,3,0,1,-2,-2,2,3,5,4,5,5,15,12
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,0,1,5,-2,2,1,5,3,1,1,11,14
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,-2,-2,2,5,4,5,5,7,7
+WEST,Pacific,Alaska,Subarctic,2,4,2,0,1,5,5,2,8,5,2,3,3,16,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,2,7,1,0,-2,5,-2,0,5,3,5,5,13,11
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,1,23,1,5,8,7,5,16,10
+WEST,Mountain North,Idaho,Cold,2,1,3,0,1,5,1,2,7,5,3,1,5,13,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,1,1,1,-2,5,2,3,5,3,5,5,15,8
+SOUTH,West South Central,Louisiana,Hot-Humid,2,5,3,0,1,5,5,23,3,5,4,5,5,9,10
+SOUTH,West South Central,Texas,Hot-Dry,2,6,1,0,1,5,1,2,0,1,3,1,1,12,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,2,1,1,5,5,2,5,5,5,5,5,15,10
+WEST,Pacific,California,Marine,2,9,4,0,1,-2,-2,-2,0,5,2,1,1,16,15
+SOUTH,West South Central,Texas,Hot-Humid,5,4,1,-2,1,5,5,23,7,5,5,5,5,14,10
+MIDWEST,West North Central,Iowa,Cold,2,7,3,0,1,2,2,2,7,5,3,2,2,15,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,3,1,0,-2,5,2,2,5,13,5,3,13,9
+MIDWEST,East North Central,Illinois,Cold,2,2,3,0,1,5,5,2,2,5,3,1,1,11,7
+SOUTH,East South Central,Kentucky,Mixed-Humid,5,7,1,-2,1,-2,1,-2,7,5,3,1,1,16,13
+SOUTH,East South Central,Mississippi,Hot-Humid,2,6,1,0,1,5,-2,2,7,5,3,5,5,11,9
+WEST,Mountain South,Nevada,Hot-Dry,2,4,4,1,1,1,13,2,5,1,3,1,1,15,10
+MIDWEST,West North Central,North Dakota,Cold,2,4,3,0,1,5,5,2,3,5,3,1,1,15,9
+SOUTH,West South Central,Texas,Hot-Dry,2,6,1,1,0,-2,-2,2,7,5,3,1,5,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,1,2,1,5,3,1,1,16,13
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,1,5,5,2,5,5,3,3,5,16,7
+NORTHEAST,New England,Maine,Cold,2,9,3,0,1,5,2,2,3,5,5,5,2,16,14
+SOUTH,South Atlantic,Maryland,Mixed-Humid,5,7,4,-2,1,-2,5,-2,4,5,3,5,5,16,16
+WEST,Pacific,Oregon,Marine,2,4,3,0,1,5,1,2,5,1,3,1,1,16,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,3,1,1,5,5,2,2,5,3,5,5,16,12
+WEST,Pacific,California,Hot-Dry,2,7,4,1,1,1,5,2,0,1,3,1,1,16,13
+WEST,Mountain North,Idaho,Cold,2,5,3,0,1,-2,5,2,4,5,3,1,5,14,10
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,5,3,1,0,-2,5,2,5,5,4,5,5,14,10
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,3,2,1,0,-2,5,2,1,1,3,1,5,14,7
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,-2,2,5,1,3,1,1,16,9
+MIDWEST,East North Central,Ohio,Cold,2,6,3,0,1,5,2,2,7,5,3,2,5,16,11
+MIDWEST,East North Central,Illinois,Cold,2,6,3,1,0,-2,1,23,3,1,3,1,1,15,11
+SOUTH,East South Central,Alabama,Hot-Humid,2,7,1,1,1,1,1,2,7,5,4,5,1,16,10
+MIDWEST,East North Central,Indiana,Cold,2,7,3,0,1,5,1,2,3,1,3,1,1,11,12
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,13,1,7,5,3,1,1,16,13
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,1,-2,1,2,0,1,3,1,1,16,13
+WEST,Pacific,California,Hot-Dry,2,7,4,1,0,-2,5,23,-2,5,3,1,1,16,13
+MIDWEST,East North Central,Wisconsin,Cold,5,2,7,-2,1,5,5,2,2,-2,2,5,5,15,14
+WEST,Pacific,California,Marine,2,8,4,0,1,-2,1,2,5,1,3,1,1,16,14
+WEST,Mountain South,Arizona,Hot-Dry,2,2,4,1,0,-2,1,1,5,1,3,1,1,16,8
+WEST,Pacific,Hawaii,Hot-Humid,2,6,3,1,1,-2,2,2,7,2,-2,-2,2,13,11
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,4,2,7,-2,1,1,1,-2,-2,-2,7,1,1,13,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,1,1,5,1,23,7,5,3,1,1,16,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,7,1,1,1,-2,-2,23,4,1,3,1,1,16,10
+WEST,Pacific,California,Marine,2,8,6,0,1,-2,1,-2,0,1,3,1,1,16,16
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,3,0,1,-2,-2,2,1,5,3,5,2,9,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,1,-2,1,1,3,5,1,14,15
+NORTHEAST,New England,Vermont,Cold,2,5,3,1,0,-2,2,2,4,5,3,3,2,9,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,1,5,5,-2,6,5,3,5,5,16,16
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,6,1,1,0,-2,1,2,4,5,3,1,1,15,9
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,1,3,1,1,5,5,23,7,5,8,7,3,11,6
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,5,1,0,1,1,5,2,5,5,3,1,1,14,8
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,1,2,5,5,4,5,5,16,13
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,7,3,0,1,5,1,23,7,5,3,1,1,16,12
+SOUTH,West South Central,Texas,Hot-Humid,2,7,4,1,1,5,-2,23,2,5,-2,-2,5,16,13
+NORTHEAST,New England,Massachusetts,Cold,4,1,5,-2,1,-2,1,-2,1,5,5,5,5,15,10
+WEST,Mountain South,Arizona,Hot-Dry,2,5,7,1,0,-2,5,2,1,5,4,5,8,13,14
+NORTHEAST,Middle Atlantic,New York,Cold,3,5,3,0,1,-2,1,-2,2,1,3,1,1,15,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,8,1,1,1,-2,5,2,2,5,4,5,5,12,11
+WEST,Mountain South,New Mexico,Cold,2,7,4,0,1,5,1,1,4,5,2,1,1,16,13
+WEST,Mountain North,Montana,Cold,3,7,3,0,1,5,5,-2,7,5,3,1,1,14,13
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,1,2,1,5,2,1,5,16,7
+MIDWEST,East North Central,Illinois,Cold,2,6,2,1,1,5,1,2,2,1,3,1,1,15,10
+MIDWEST,East North Central,Michigan,Cold,2,3,1,1,0,-2,1,2,4,5,3,1,1,14,6
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,0,1,-2,-2,2,5,5,3,1,1,16,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,1,2,4,1,3,1,1,14,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,5,3,1,0,-2,1,2,7,1,2,1,1,16,10
+MIDWEST,East North Central,Ohio,Cold,2,8,3,1,0,-2,5,2,2,5,3,1,1,16,13
+NORTHEAST,New England,New Hampshire,Cold,2,4,3,0,1,2,2,2,2,2,2,2,2,13,9
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,5,-2,1,0,1,3,1,1,15,13
+NORTHEAST,New England,Rhode Island,Cold,2,5,2,1,1,-2,5,2,3,5,3,1,1,11,9
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,7,3,1,0,-2,-2,23,3,2,4,5,2,15,12
+WEST,Pacific,Oregon,Marine,2,8,3,0,1,1,-2,1,10,5,3,1,1,16,13
+MIDWEST,East North Central,Wisconsin,Cold,2,9,3,0,1,5,1,23,0,1,3,1,1,11,14
+SOUTH,West South Central,Louisiana,Hot-Humid,2,5,1,0,1,5,5,-2,0,5,8,7,5,14,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,1,0,1,5,5,2,1,5,3,1,5,15,9
+NORTHEAST,New England,New Hampshire,Cold,2,6,3,1,1,2,2,2,7,5,3,2,2,16,11
+NORTHEAST,New England,Connecticut,Cold,2,3,3,1,0,-2,5,2,2,5,3,3,3,16,8
+WEST,Mountain South,Arizona,Hot-Dry,2,9,4,1,0,-2,-2,-2,1,5,3,1,5,15,15
+MIDWEST,East North Central,Illinois,Cold,2,1,3,0,1,-2,1,1,7,1,2,1,1,16,6
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,3,1,0,-2,-2,23,2,5,3,1,1,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,8,3,1,0,-2,1,23,5,5,3,1,1,16,13
+MIDWEST,East North Central,Ohio,Cold,2,1,3,1,0,-2,5,1,7,5,3,5,5,9,6
+SOUTH,South Atlantic,Florida,Hot-Humid,3,9,1,1,0,-2,5,-2,0,5,-2,-2,5,15,13
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,8,1,0,1,-2,5,23,-2,5,4,5,5,15,11
+SOUTH,East South Central,Mississippi,Hot-Humid,2,1,1,0,1,5,1,23,3,5,3,1,5,13,4
+SOUTH,South Atlantic,North Carolina,Hot-Humid,2,5,2,0,1,5,5,2,1,5,4,5,5,12,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,0,-2,5,2,6,5,4,5,5,11,14
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,2,0,1,5,5,-2,-2,5,2,3,5,9,5
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,3,0,1,1,-2,1,4,5,3,1,5,13,11
+SOUTH,East South Central,Kentucky,Mixed-Humid,1,7,3,1,0,-2,5,2,15,5,2,5,5,16,11
+SOUTH,South Atlantic,Florida,Hot-Humid,5,6,7,-2,1,-2,-2,-2,1,5,-2,-2,5,14,18
+WEST,Mountain South,Arizona,Hot-Dry,2,4,1,1,0,-2,1,-2,1,5,3,1,5,11,7
+WEST,Mountain South,Arizona,Hot-Dry,2,5,7,1,0,-2,5,2,3,5,3,5,5,14,14
+NORTHEAST,New England,Massachusetts,Cold,2,5,3,1,1,5,2,2,1,5,8,7,3,14,10
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,5,1,0,5,3,1,1,15,13
+WEST,Mountain South,Nevada,Hot-Dry,2,9,4,1,1,1,-2,1,7,1,3,1,1,16,15
+WEST,Pacific,California,Hot-Dry,2,7,4,1,0,-2,13,-2,1,5,3,5,5,14,13
+WEST,Mountain South,Arizona,Hot-Dry,2,3,1,1,0,-2,5,23,1,5,3,1,5,10,6
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,1,-2,1,3,5,3,5,1,15,12
+WEST,Pacific,Hawaii,Hot-Humid,2,1,3,0,1,5,-2,-2,5,5,-2,-2,1,14,6
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,3,3,1,0,-2,1,1,7,1,3,1,1,16,8
+NORTHEAST,New England,Vermont,Cold,2,4,2,0,1,-2,5,2,3,5,8,7,3,15,8
+NORTHEAST,New England,Connecticut,Cold,2,5,2,0,1,-2,5,2,8,5,3,3,3,16,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,5,3,1,1,5,5,23,3,5,3,1,1,9,10
+WEST,Pacific,California,Hot-Dry,2,6,4,0,1,5,1,2,3,5,3,5,1,2,12
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,1,1,0,1,5,13,1,4,1,4,5,5,16,4
+NORTHEAST,New England,Connecticut,Cold,2,4,3,1,0,-2,5,1,8,5,3,1,1,16,9
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,7,1,0,1,1,5,-2,2,5,3,1,1,15,10
+SOUTH,West South Central,Texas,Hot-Humid,2,8,6,1,1,2,-2,2,1,5,3,5,2,16,16
+SOUTH,West South Central,Arkansas,Mixed-Humid,5,8,4,-2,1,-2,5,-2,2,5,4,5,5,14,17
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,3,0,1,-2,5,23,3,5,4,5,5,14,11
+SOUTH,South Atlantic,Virginia,Mixed-Humid,3,7,1,0,1,-2,-2,-2,0,5,3,1,1,8,11
+SOUTH,West South Central,Texas,Hot-Humid,5,9,1,-2,1,-2,13,-2,4,5,4,5,1,7,15
+SOUTH,South Atlantic,District of Columbia,Mixed-Humid,2,1,1,1,1,5,5,2,3,5,3,1,1,16,4
+WEST,Pacific,California,Hot-Dry,2,4,4,1,0,-2,5,2,2,1,3,1,1,16,10
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,7,3,1,1,-2,5,2,4,5,4,5,5,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,4,1,0,-2,5,2,7,5,3,5,5,11,11
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,8,3,1,1,5,-2,2,7,5,3,1,1,12,13
+MIDWEST,East North Central,Illinois,Cold,2,1,3,0,1,5,5,2,2,1,2,1,1,15,6
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,5,2,1,0,-2,5,2,7,5,3,1,1,14,9
+WEST,Mountain South,New Mexico,Hot-Dry,2,7,4,1,1,5,1,2,7,5,3,1,1,16,13
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,0,-2,-2,1,4,1,3,1,1,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,4,1,0,1,5,2,2,4,5,3,5,5,15,7
+MIDWEST,West North Central,Minnesota,Cold,2,7,3,0,1,-2,5,23,0,1,3,1,1,16,12
+MIDWEST,East North Central,Illinois,Cold,2,2,3,0,1,-2,-2,23,7,5,3,1,1,16,7
+MIDWEST,West North Central,North Dakota,Very-Cold,2,2,3,0,1,-2,5,2,3,5,3,1,5,9,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,2,-2,5,4,5,5,7,13
+WEST,Mountain South,Nevada,Hot-Dry,2,6,3,1,0,-2,1,2,3,1,5,5,1,14,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,1,0,1,-2,5,2,1,5,3,1,1,12,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,0,-2,5,2,2,5,-2,-2,5,16,12
+NORTHEAST,New England,Rhode Island,Cold,2,6,3,1,0,-2,5,-2,1,1,3,1,1,12,11
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,1,5,-2,1,1,7,1,1,16,12
+SOUTH,South Atlantic,West Virginia,Cold,2,1,3,1,0,-2,1,2,4,5,2,1,1,15,6
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,2,3,1,1,5,1,2,3,5,3,1,1,11,7
+MIDWEST,West North Central,Minnesota,Cold,2,6,3,1,0,-2,1,2,4,1,3,1,1,13,11
+SOUTH,South Atlantic,South Carolina,Hot-Humid,3,6,3,1,1,2,5,-2,3,5,3,5,5,13,12
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,3,4,1,0,1,-2,1,2,0,1,3,1,1,15,8
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,2,1,0,-2,13,1,7,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,5,2,1,1,2,-2,2,7,2,3,3,3,16,9
+NORTHEAST,New England,Massachusetts,Cold,3,1,5,1,0,-2,1,2,7,5,3,1,1,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,2,5,4,5,5,15,12
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,1,1,23,4,5,3,1,1,16,10
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,4,1,1,1,5,5,23,4,5,3,1,1,16,7
+MIDWEST,East North Central,Ohio,Cold,2,5,2,1,0,-2,5,2,7,5,4,5,5,16,9
+WEST,Mountain North,Idaho,Cold,2,4,3,0,1,-2,5,2,7,5,7,2,5,7,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,4,1,0,-2,5,2,5,5,3,5,5,16,14
+MIDWEST,East North Central,Michigan,Cold,3,7,3,1,0,-2,5,23,5,5,3,1,1,15,13
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,6,3,0,1,1,5,-2,2,5,3,1,1,14,11
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,-2,1,1,5,1,3,1,1,16,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,2,1,0,-2,5,2,3,1,3,1,1,13,9
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,-2,2,7,5,3,5,2,16,13
+NORTHEAST,New England,Massachusetts,Cold,2,6,5,0,1,-2,2,2,7,5,7,2,2,16,13
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,6,2,0,1,-2,-2,2,3,1,3,1,1,14,10
+SOUTH,West South Central,Texas,Mixed-Dry,2,7,6,0,1,5,-2,-2,0,5,4,5,5,15,15
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,1,1,0,-2,-2,2,10,5,3,1,1,16,8
+WEST,Mountain North,Wyoming,Cold,2,4,3,0,1,5,5,23,-2,5,8,7,2,15,9
+SOUTH,South Atlantic,North Carolina,Cold,2,5,2,0,1,-2,2,2,3,2,3,2,2,16,9
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,6,1,0,1,5,2,23,-2,5,8,7,2,6,9
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,7,3,0,1,5,5,2,1,5,4,5,5,12,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,1,1,1,5,1,2,7,5,3,1,1,16,10
+WEST,Mountain North,Colorado,Cold,2,6,2,0,1,5,2,2,-2,-2,8,7,2,15,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,7,3,1,0,-2,5,2,7,5,3,5,5,15,12
+MIDWEST,West North Central,Minnesota,Cold,2,6,2,1,0,-2,-2,2,2,1,3,1,1,16,10
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,7,1,0,1,-2,2,2,10,5,3,2,2,14,10
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,1,2,14,1,3,1,1,16,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,5,3,1,1,5,-2,2,7,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,1,2,3,1,4,5,5,16,7
+MIDWEST,East North Central,Illinois,Cold,2,5,3,1,0,-2,1,1,3,1,3,1,1,15,10
+MIDWEST,West North Central,North Dakota,Very-Cold,2,2,3,0,1,5,5,2,7,5,3,2,5,15,7
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,1,-2,5,1,1,5,3,5,5,16,12
+NORTHEAST,New England,Maine,Cold,2,3,2,1,0,-2,5,2,-2,5,3,3,5,13,7
+WEST,Pacific,California,Hot-Dry,2,7,4,1,1,1,-2,1,2,1,3,1,1,15,13
+WEST,Pacific,California,Hot-Dry,3,5,4,1,0,-2,1,-2,0,5,3,1,1,11,12
+WEST,Mountain South,Arizona,Hot-Dry,2,3,4,1,0,-2,1,1,1,5,3,1,1,14,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,0,1,-2,5,2,2,5,3,5,5,13,10
+WEST,Mountain North,Colorado,Cold,2,6,2,0,1,5,5,1,0,5,3,1,1,15,10
+WEST,Mountain North,Colorado,Cold,2,5,2,0,1,-2,-2,2,4,1,2,1,1,14,9
+MIDWEST,East North Central,Wisconsin,Cold,3,2,2,0,1,5,5,2,7,5,3,2,5,12,7
+MIDWEST,East North Central,Michigan,Cold,2,7,1,0,1,-2,-2,2,2,5,3,1,1,16,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,0,1,-2,-2,-2,0,1,3,1,1,16,11
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,1,0,-2,1,2,10,5,2,1,1,13,8
+NORTHEAST,New England,Maine,Cold,2,3,2,0,1,5,-2,2,4,5,2,3,5,16,7
+NORTHEAST,New England,Massachusetts,Cold,2,1,2,1,0,-2,5,2,3,5,3,3,5,15,5
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,3,4,1,0,-2,2,2,1,5,3,2,5,16,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,3,1,0,1,-2,-2,1,4,5,3,1,5,14,6
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,2,3,0,1,5,5,1,2,5,3,1,1,16,7
+WEST,Mountain North,Utah,Hot-Dry,2,7,4,0,1,1,-2,1,6,1,3,1,1,16,13
+NORTHEAST,New England,Massachusetts,Cold,2,3,2,1,0,-2,13,2,7,5,2,3,3,16,7
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,5,1,3,-2,1,1,1,2,2,-2,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,2,1,0,1,5,1,2,3,1,3,1,1,15,5
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,7,3,1,0,-2,-2,1,1,1,3,1,1,15,12
+WEST,Mountain South,Arizona,Hot-Dry,2,7,6,1,0,-2,5,23,3,5,3,1,1,15,15
+SOUTH,East South Central,Alabama,Mixed-Humid,2,6,3,1,0,-2,5,2,3,5,4,5,5,12,11
+MIDWEST,East North Central,Wisconsin,Cold,2,7,2,0,1,5,5,2,5,5,3,1,5,14,11
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,0,-2,5,2,0,5,5,5,5,12,11
+WEST,Mountain South,Arizona,Hot-Dry,2,9,6,1,1,5,1,2,4,1,4,5,1,16,17
+MIDWEST,East North Central,Michigan,Cold,2,5,1,1,1,-2,5,2,0,5,3,1,1,14,8
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,-2,-2,-2,0,5,3,1,1,7,10
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,6,1,1,0,-2,-2,1,3,5,4,5,1,16,9
+WEST,Mountain South,Nevada,Hot-Dry,2,4,3,1,1,-2,-2,-2,1,1,3,1,5,14,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,0,1,5,5,23,7,5,4,5,1,16,13
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,1,1,5,2,5,5,3,1,1,11,11
+MIDWEST,West North Central,Minnesota,Cold,2,7,3,0,1,5,5,2,1,5,10,5,5,13,12
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,-2,-2,2,2,1,3,1,1,16,11
+WEST,Mountain North,Colorado,Cold,2,5,2,0,1,5,5,2,7,5,8,7,5,14,9
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,6,1,0,1,1,5,-2,1,5,3,1,5,8,9
+WEST,Pacific,Alaska,Very-Cold,2,4,3,0,1,5,13,2,4,1,2,1,1,16,9
+WEST,Pacific,California,Marine,2,5,2,0,1,5,1,2,1,5,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,7,4,0,1,-2,1,2,2,1,3,1,1,16,13
+SOUTH,East South Central,Alabama,Mixed-Humid,2,5,1,1,1,-2,5,2,5,5,4,5,5,16,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,3,1,0,-2,5,2,4,5,4,5,5,14,9
+WEST,Mountain South,New Mexico,Cold,2,6,4,0,1,5,1,-2,4,1,3,1,1,9,12
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,2,2,1,0,-2,-2,23,7,5,2,1,1,16,6
+SOUTH,West South Central,Texas,Hot-Humid,3,4,1,1,1,-2,5,-2,0,5,4,5,5,9,8
+WEST,Pacific,Washington,Marine,5,4,2,-2,1,-2,5,-2,0,5,5,5,5,12,11
+MIDWEST,West North Central,Nebraska,Cold,2,3,3,0,1,5,5,23,5,5,3,5,5,16,8
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,0,1,5,5,2,4,5,3,1,1,15,11
+SOUTH,West South Central,Texas,Hot-Humid,2,6,3,1,0,-2,1,23,5,1,3,1,1,16,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,-2,6,5,4,5,5,16,16
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,99,0,1,5,2,2,5,5,4,5,5,15,105
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,5,2,1,1,5,1,2,5,1,3,1,1,15,9
+SOUTH,West South Central,Texas,Hot-Humid,2,7,3,1,1,5,5,23,4,5,4,5,5,11,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,0,1,5,5,23,0,5,3,1,1,15,6
+WEST,Mountain South,Nevada,Hot-Dry,2,8,4,1,1,1,1,1,2,1,3,1,1,15,14
+MIDWEST,West North Central,Iowa,Cold,2,5,1,0,1,5,-2,2,2,5,3,5,5,14,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,4,6,1,0,-2,1,23,3,1,3,1,5,16,12
+WEST,Mountain North,Idaho,Cold,2,1,3,1,1,5,5,1,7,5,2,1,1,16,6
+WEST,Mountain North,Idaho,Cold,2,4,2,0,1,5,13,2,2,5,3,1,1,15,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,4,1,0,-2,5,23,0,5,-2,-2,5,12,11
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,1,1,0,-2,5,2,2,5,3,1,5,15,7
+WEST,Pacific,Hawaii,Hot-Humid,2,2,2,1,0,-2,5,23,-2,5,-2,-2,1,15,6
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,0,1,5,5,-2,3,5,4,5,5,13,8
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,5,3,1,-2,1,3,1,-2,7,-2,3,5,5,16,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,1,0,-2,5,2,6,5,4,5,5,16,11
+NORTHEAST,New England,Vermont,Cold,3,1,3,1,1,5,2,2,4,5,3,3,2,13,7
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,5,5,2,3,5,3,1,1,15,12
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,-2,1,-2,4,1,3,1,1,15,10
+MIDWEST,West North Central,Iowa,Cold,2,4,3,1,0,-2,-2,1,7,5,3,1,1,15,9
+NORTHEAST,New England,Maine,Cold,2,7,2,0,1,2,-2,2,0,5,3,2,2,14,11
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,1,1,1,5,-2,2,0,5,4,5,5,13,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,4,1,1,0,-2,5,2,7,5,3,5,5,15,7
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,1,1,0,-2,-2,23,7,5,4,5,5,14,9
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,5,2,7,5,3,1,1,12,10
+NORTHEAST,New England,Connecticut,Cold,2,3,3,1,0,-2,5,2,4,5,2,3,3,13,8
+WEST,Mountain South,Nevada,Hot-Dry,2,4,4,1,0,-2,1,2,0,1,3,1,1,9,10
+WEST,Pacific,California,Marine,2,7,4,0,1,-2,1,-2,7,5,3,1,1,12,13
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,2,0,1,-2,1,-2,0,5,3,1,5,16,11
+MIDWEST,East North Central,Wisconsin,Cold,2,6,3,0,1,-2,5,23,4,5,3,1,1,15,11
+WEST,Pacific,California,Hot-Dry,2,5,4,1,0,-2,1,-2,7,5,3,1,5,1,11
+MIDWEST,East North Central,Michigan,Cold,2,7,4,0,1,5,5,-2,1,5,3,1,5,16,13
+WEST,Pacific,California,Hot-Dry,2,5,4,1,1,1,5,1,4,1,4,5,1,16,11
+MIDWEST,East North Central,Michigan,Cold,2,8,3,0,1,-2,5,2,1,5,3,1,1,12,13
+WEST,Mountain South,Arizona,Hot-Dry,2,9,4,1,1,1,-2,1,6,5,-2,-2,1,16,15
+WEST,Pacific,California,Hot-Dry,2,2,4,0,1,-2,1,2,2,5,3,1,1,14,8
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,3,3,0,1,1,5,23,7,5,3,1,5,9,8
+MIDWEST,East North Central,Ohio,Cold,2,1,2,1,0,-2,5,1,10,5,2,1,1,12,5
+SOUTH,West South Central,Louisiana,Hot-Humid,2,4,1,1,0,-2,13,23,7,5,3,1,1,11,7
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,0,1,5,5,23,2,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,5,3,0,1,-2,1,2,-2,1,3,1,1,5,10
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,-2,1,4,5,3,1,1,14,7
+MIDWEST,West North Central,Minnesota,Cold,2,6,3,0,1,5,5,2,2,1,3,1,1,16,11
+WEST,Pacific,Oregon,Marine,2,4,3,0,1,5,5,-2,2,5,3,5,5,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,4,1,0,-2,5,2,3,5,99,5,5,15,10
+MIDWEST,West North Central,Nebraska,Cold,2,5,3,0,1,-2,-2,2,2,5,4,5,5,16,10
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,-2,1,2,0,1,3,1,1,12,13
+NORTHEAST,New England,Maine,Cold,2,3,3,1,0,-2,5,-2,7,5,3,3,3,15,8
+NORTHEAST,New England,New Hampshire,Cold,2,5,2,1,0,-2,1,2,5,1,3,1,1,16,9
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,5,5,-2,6,1,13,5,1,15,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,7,1,0,-2,5,2,1,5,4,5,5,15,17
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,3,0,1,5,5,2,6,5,3,2,5,16,12
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,2,1,1,0,-2,13,2,-2,5,3,5,5,11,5
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,3,7,3,0,1,1,1,-2,3,1,3,1,1,14,13
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,3,1,1,0,-2,-2,2,7,5,4,5,5,12,6
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,4,4,1,0,-2,-2,23,5,5,3,1,1,16,10
+WEST,Pacific,Oregon,Marine,2,7,2,0,1,1,1,2,1,5,3,1,1,15,11
+SOUTH,West South Central,Texas,Hot-Humid,1,6,3,0,1,-2,5,23,5,5,3,5,5,13,10
+WEST,Mountain North,Wyoming,Cold,2,5,3,0,1,5,5,2,5,5,7,1,1,16,10
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,0,1,1,1,23,4,1,3,1,1,13,10
+SOUTH,South Atlantic,Georgia,Hot-Humid,2,6,3,1,0,-2,5,2,4,5,3,5,5,8,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,3,1,0,-2,1,1,4,1,2,1,1,13,11
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,5,5,4,5,5,13,12
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,2,2,1,0,-2,5,2,-2,5,4,5,5,11,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,4,1,0,-2,5,23,6,5,-2,-2,5,7,14
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,0,-2,5,2,7,5,3,5,5,15,14
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,9,3,0,1,5,5,23,-2,5,3,2,5,6,14
+NORTHEAST,New England,Massachusetts,Cold,4,5,1,-2,1,-2,13,-2,-2,-2,3,1,1,1,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,0,1,-2,-2,23,2,5,4,5,5,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,4,1,0,-2,5,-2,-2,5,-2,-2,5,4,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,5,-2,1,5,3,5,5,6,15
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,3,0,1,-2,-2,2,4,5,3,1,1,16,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,0,1,1,13,2,3,5,3,1,1,16,11
+WEST,Pacific,Washington,Cold,2,7,3,1,1,5,5,2,4,5,7,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,0,-2,5,2,0,5,4,5,5,11,16
+WEST,Mountain North,Idaho,Cold,2,1,3,0,1,5,1,2,3,5,3,1,1,14,6
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,1,1,5,-2,2,7,2,3,3,3,15,9
+MIDWEST,East North Central,Ohio,Cold,5,1,2,-2,1,5,-2,-2,-2,-2,-2,-2,1,7,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,1,1,0,-2,5,23,3,1,3,1,1,13,7
+WEST,Pacific,California,Hot-Dry,2,2,4,1,0,-2,1,2,4,1,3,1,1,14,8
+WEST,Mountain South,Arizona,Hot-Dry,2,9,4,1,0,-2,-2,1,5,1,3,1,1,16,15
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,0,1,-2,-2,2,3,5,3,1,1,16,12
+NORTHEAST,New England,Massachusetts,Cold,2,5,99,1,1,3,13,23,3,2,2,3,3,16,106
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,6,3,1,1,-2,1,1,3,1,3,1,1,16,11
+WEST,Pacific,Oregon,Marine,1,7,3,1,0,-2,5,23,7,5,4,5,5,16,11
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,3,1,1,0,1,5,1,2,5,5,2,1,1,14,5
+WEST,Pacific,Washington,Cold,2,6,2,0,1,5,5,2,3,5,3,5,5,11,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,2,3,1,0,-2,1,-2,4,5,3,1,5,11,7
+WEST,Pacific,Alaska,Very-Cold,2,7,3,0,1,-2,13,-2,15,5,3,1,1,14,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,1,1,-2,-2,-2,0,5,3,3,3,16,12
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,3,1,1,0,-2,5,23,3,5,3,1,3,14,6
+SOUTH,South Atlantic,Maryland,Mixed-Humid,3,7,3,0,1,5,1,2,1,5,3,1,1,11,13
+WEST,Pacific,California,Marine,2,4,2,1,0,-2,5,2,7,5,3,1,1,15,8
+WEST,Pacific,California,Hot-Dry,2,3,4,1,0,-2,-2,-2,12,5,3,1,1,14,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,9,3,1,1,1,-2,23,5,5,3,1,1,15,14
+NORTHEAST,New England,Massachusetts,Cold,3,6,3,1,0,-2,5,2,14,5,3,1,5,14,12
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,3,3,0,1,5,5,2,0,5,3,1,5,12,8
+NORTHEAST,New England,Massachusetts,Cold,2,5,2,0,1,-2,-2,2,2,5,3,3,5,16,9
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,0,1,5,5,23,3,5,3,1,1,9,13
+NORTHEAST,New England,Massachusetts,Cold,2,1,2,1,0,-2,1,2,5,1,3,1,1,14,5
+NORTHEAST,New England,Maine,Cold,2,8,3,1,0,-2,2,2,14,5,3,2,5,16,13
+WEST,Pacific,California,Hot-Dry,2,7,4,1,1,5,1,2,7,5,3,1,1,15,13
+SOUTH,West South Central,Texas,Hot-Humid,2,8,3,1,0,-2,5,2,1,5,4,5,5,13,13
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,3,3,1,0,-2,1,2,1,1,3,1,1,15,8
+MIDWEST,East North Central,Wisconsin,Cold,2,7,2,1,0,-2,5,2,2,5,3,1,1,16,11
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,9,1,1,0,-2,-2,2,2,5,3,5,5,14,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,1,1,1,-2,1,2,2,1,3,1,1,10,10
+WEST,Pacific,California,Marine,2,6,4,1,1,2,2,2,7,2,3,2,2,16,12
+NORTHEAST,New England,Massachusetts,Cold,2,9,3,0,1,2,-2,2,7,5,3,2,2,16,14
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,1,1,1,-2,1,3,1,1,12,12
+NORTHEAST,New England,Maine,Cold,2,7,3,1,0,-2,2,2,3,5,3,3,3,14,12
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,4,1,0,1,5,-2,2,0,5,3,5,5,13,7
+NORTHEAST,New England,New Hampshire,Cold,2,4,2,0,1,-2,5,2,7,5,7,3,3,15,8
+WEST,Mountain South,Arizona,Hot-Dry,2,3,99,1,1,5,-2,2,1,5,3,1,1,8,104
+WEST,Pacific,Oregon,Marine,2,8,4,1,0,-2,-2,1,4,1,3,1,1,15,14
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,3,1,0,-2,5,2,4,5,3,1,1,14,12
+WEST,Pacific,California,Hot-Dry,2,2,4,1,0,-2,1,2,3,1,3,1,1,15,8
+WEST,Pacific,California,Hot-Dry,2,6,4,1,1,1,-2,2,2,1,3,1,1,16,12
+WEST,Pacific,California,Marine,2,2,2,1,1,5,1,1,4,1,3,1,1,16,6
+WEST,Pacific,California,Marine,2,3,4,1,0,-2,-2,2,4,1,3,1,1,15,9
+NORTHEAST,Middle Atlantic,New York,Cold,3,2,1,0,1,5,5,2,7,5,2,1,1,15,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,1,5,-2,2,0,5,-2,-2,5,16,16
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,3,0,1,5,2,2,10,5,2,3,3,16,8
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,0,1,-2,1,23,3,5,99,1,1,14,6
+SOUTH,West South Central,Texas,Hot-Humid,2,8,6,0,1,-2,-2,-2,3,5,3,2,2,13,16
+WEST,Pacific,Washington,Cold,2,1,3,0,1,5,5,2,1,5,3,1,5,13,6
+MIDWEST,East North Central,Indiana,Cold,2,6,3,1,0,-2,1,2,3,5,3,1,1,14,11
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,2,3,1,0,-2,5,2,0,5,4,5,5,13,7
+NORTHEAST,New England,Massachusetts,Cold,2,3,5,0,1,5,5,2,3,5,3,1,1,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,-2,-2,2,5,5,4,5,5,15,15
+NORTHEAST,New England,Connecticut,Cold,2,7,3,0,1,-2,1,2,3,5,3,1,1,16,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,3,3,1,0,-2,5,-2,2,5,2,1,1,11,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,4,1,0,-2,5,-2,7,5,-2,-2,1,16,9
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,2,1,0,-2,-2,2,6,5,4,5,5,16,9
+WEST,Pacific,Hawaii,Hot-Humid,2,3,2,1,0,-2,-2,2,2,5,-2,-2,8,16,7
+SOUTH,South Atlantic,Florida,Hot-Humid,1,6,3,1,0,-2,5,-2,-2,5,3,5,5,6,10
+WEST,Pacific,California,Hot-Dry,2,5,4,1,1,1,1,1,5,1,3,1,1,16,11
+WEST,Mountain South,Arizona,Hot-Dry,2,4,1,1,0,-2,5,-2,3,5,3,5,5,13,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,4,3,1,1,5,1,1,10,5,3,1,8,15,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,4,1,1,0,-2,-2,1,0,5,3,1,1,14,7
+MIDWEST,West North Central,South Dakota,Cold,1,6,3,0,1,5,2,2,0,5,3,2,5,7,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,1,9,7,0,1,5,5,2,5,5,3,5,5,13,17
+SOUTH,East South Central,Alabama,Hot-Humid,2,9,1,1,0,-2,-2,23,0,5,4,5,5,16,12
+SOUTH,East South Central,Mississippi,Hot-Humid,2,4,2,1,0,-2,-2,-2,7,5,3,1,1,14,8
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,5,1,0,1,1,5,2,1,5,3,1,1,15,8
+WEST,Mountain North,Montana,Cold,2,3,2,0,1,5,5,2,5,5,3,1,1,13,7
+WEST,Pacific,Washington,Marine,1,7,3,0,1,5,2,2,5,5,10,5,2,14,11
+NORTHEAST,New England,Massachusetts,Cold,2,4,3,1,0,-2,5,2,4,5,3,3,5,15,9
+MIDWEST,West North Central,South Dakota,Cold,2,9,3,0,1,5,2,23,5,5,2,2,2,15,14
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,3,1,1,5,5,2,0,5,8,7,5,11,9
+NORTHEAST,New England,Massachusetts,Cold,2,6,3,1,0,-2,5,1,3,5,3,3,3,14,11
+MIDWEST,West North Central,North Dakota,Cold,2,4,2,0,1,1,-2,1,4,5,3,1,1,9,8
+SOUTH,West South Central,Louisiana,Hot-Humid,2,6,1,1,0,-2,-2,2,3,5,3,1,1,16,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,2,1,0,-2,5,2,7,5,3,3,3,15,7
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,1,1,1,5,5,2,3,5,4,5,5,15,8
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,1,1,0,-2,5,2,3,5,4,5,5,13,6
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,2,3,0,1,1,5,-2,7,1,3,1,5,9,7
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,5,1,1,1,-2,5,23,1,-2,4,5,5,11,8
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,6,99,0,1,1,1,2,7,5,3,1,1,16,107
+NORTHEAST,New England,Maine,Cold,2,7,3,0,1,5,5,2,3,5,2,3,3,14,12
+SOUTH,West South Central,Texas,Mixed-Humid,2,6,1,1,0,-2,5,2,4,5,13,5,5,12,9
+MIDWEST,East North Central,Indiana,Cold,2,4,3,1,0,-2,5,-2,2,5,3,1,5,14,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,3,1,1,5,5,-2,7,5,4,5,5,16,9
+NORTHEAST,New England,Vermont,Cold,1,5,3,1,0,-2,2,-2,4,5,3,3,5,10,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,7,1,0,-2,2,23,4,5,4,5,2,16,18
+NORTHEAST,New England,Massachusetts,Cold,2,5,3,0,1,1,1,2,2,5,3,1,1,15,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,1,1,0,-2,5,2,2,5,4,5,5,14,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,0,1,5,1,2,5,5,3,1,1,14,8
+NORTHEAST,New England,Maine,Cold,2,8,3,0,1,5,2,2,5,2,3,2,2,15,13
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,0,1,-2,5,2,4,5,3,3,5,15,10
+WEST,Pacific,California,Hot-Dry,5,5,4,-2,1,1,13,2,2,5,5,5,1,16,14
+WEST,Mountain South,New Mexico,Mixed-Dry,5,4,4,-2,1,-2,5,-2,0,-2,3,1,1,4,13
+WEST,Mountain South,New Mexico,Mixed-Dry,2,4,4,1,0,-2,-2,23,3,1,3,1,1,16,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,3,4,1,0,-2,1,23,3,5,2,1,1,8,9
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,5,3,0,1,-2,-2,2,0,5,3,3,5,10,10
+WEST,Mountain South,Arizona,Hot-Dry,2,1,1,0,1,5,1,2,-2,5,4,5,1,14,4
+WEST,Mountain South,Nevada,Hot-Dry,2,6,4,1,1,5,1,2,3,1,3,1,1,15,12
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,1,7,0,1,5,1,2,-2,5,2,1,1,16,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,1,5,5,2,2,5,3,5,5,4,16
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,5,3,1,0,-2,2,23,0,5,3,5,5,11,10
+SOUTH,East South Central,Alabama,Hot-Humid,2,6,1,1,0,-2,5,2,4,5,4,5,5,16,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,9,1,1,0,-2,-2,2,4,5,4,5,5,16,12
+MIDWEST,West North Central,South Dakota,Cold,2,9,4,0,1,5,13,2,7,5,7,1,5,15,15
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,4,6,1,0,-2,-2,2,3,5,4,5,5,13,12
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,9,3,0,1,5,13,23,4,5,4,5,1,16,14
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,6,3,1,0,-2,1,2,7,1,3,1,1,15,11
+MIDWEST,East North Central,Illinois,Mixed-Humid,3,8,1,0,1,1,5,2,0,5,3,1,1,14,12
+SOUTH,West South Central,Texas,Hot-Humid,2,5,1,1,0,-2,5,2,5,5,3,5,5,16,8
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,5,2,0,1,-2,-2,2,7,5,3,1,1,15,9
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,3,2,0,1,5,2,23,2,5,3,5,5,16,7
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,0,1,-2,5,-2,10,5,4,5,5,15,10
+NORTHEAST,New England,Massachusetts,Cold,4,3,3,-2,1,1,1,-2,4,-2,3,1,1,4,10
+SOUTH,East South Central,Mississippi,Hot-Humid,2,7,1,1,0,-2,5,23,7,5,3,5,5,15,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,4,1,1,0,-2,13,2,2,5,4,5,2,15,7
+NORTHEAST,New England,Vermont,Cold,2,6,2,1,1,5,2,2,7,2,2,2,2,15,10
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,1,3,1,0,-2,1,2,-2,5,3,1,5,7,6
+WEST,Pacific,California,Hot-Dry,2,5,4,1,1,5,-2,2,4,1,3,1,1,16,11
+MIDWEST,East North Central,Michigan,Cold,1,7,3,0,1,1,1,2,2,1,3,1,1,12,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,1,0,1,-2,-2,-2,3,5,3,1,1,16,10
+WEST,Pacific,Washington,Marine,2,2,2,1,0,-2,-2,-2,1,5,3,1,1,15,6
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,1,3,1,0,-2,1,1,3,1,3,1,5,16,6
+NORTHEAST,New England,Massachusetts,Cold,3,5,2,1,0,-2,5,-2,1,5,3,3,5,9,10
+SOUTH,South Atlantic,Florida,Hot-Humid,3,7,7,1,0,-2,5,2,0,5,4,5,5,6,17
+WEST,Mountain North,Idaho,Cold,2,6,1,0,1,5,5,2,3,5,3,1,1,14,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,4,1,1,2,2,2,7,5,4,5,2,16,13
+SOUTH,West South Central,Texas,Hot-Humid,2,8,6,1,1,5,-2,2,3,5,4,5,5,16,16
+MIDWEST,West North Central,Nebraska,Cold,2,7,2,0,1,-2,5,2,4,5,3,1,1,15,11
+NORTHEAST,New England,Connecticut,Cold,3,7,2,0,1,1,-2,2,2,5,3,1,1,16,12
+WEST,Mountain North,Colorado,Cold,2,6,3,0,1,5,5,2,5,5,3,1,1,7,11
+WEST,Mountain South,Nevada,Hot-Dry,2,7,4,1,1,1,-2,2,2,1,3,1,1,7,13
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,1,1,1,2,3,5,3,5,5,16,13
+WEST,Pacific,Oregon,Cold,2,8,4,0,1,5,2,2,6,5,8,7,5,15,14
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,5,2,7,-2,1,1,13,-2,-2,-2,3,1,1,1,14
+NORTHEAST,Middle Atlantic,New York,Cold,2,3,3,0,1,5,2,2,2,5,3,3,2,14,8
+NORTHEAST,New England,Vermont,Cold,2,3,2,0,1,5,2,2,3,5,3,3,3,13,7
+WEST,Pacific,California,Hot-Dry,2,4,4,0,1,-2,1,2,4,1,3,1,1,10,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,7,0,1,2,2,2,4,5,-2,-2,2,16,17
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,3,1,3,1,0,-2,5,2,3,5,3,1,5,12,7
+SOUTH,East South Central,Mississippi,Hot-Humid,2,6,1,1,0,-2,5,2,5,5,3,5,5,16,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,1,1,-2,1,3,5,4,5,1,16,15
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,8,3,0,1,1,5,2,5,5,4,5,5,15,13
+NORTHEAST,New England,Massachusetts,Cold,2,3,3,1,0,-2,1,1,7,1,3,1,1,14,8
+MIDWEST,East North Central,Wisconsin,Cold,2,4,3,1,0,-2,5,2,7,5,3,1,1,16,9
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,7,2,0,1,5,2,1,5,5,3,1,1,13,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,6,3,0,1,-2,-2,2,1,5,3,2,5,5,11
+WEST,Pacific,Washington,Marine,2,9,3,0,1,5,2,2,2,5,4,5,5,16,14
+WEST,Pacific,Oregon,Cold,2,6,2,0,1,-2,-2,1,2,5,3,1,1,14,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,8,1,1,0,-2,5,2,2,5,3,5,5,15,11
+WEST,Pacific,Washington,Cold,2,2,2,0,1,-2,5,2,0,5,3,1,5,14,6
+NORTHEAST,New England,New Hampshire,Cold,2,6,3,1,0,-2,1,2,3,1,3,1,5,16,11
+SOUTH,West South Central,Louisiana,Hot-Humid,2,6,3,0,1,1,1,23,-2,5,3,1,1,7,11
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,8,3,0,1,1,1,2,5,1,3,1,1,15,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,-2,23,5,1,3,1,1,16,13
+SOUTH,West South Central,Oklahoma,Mixed-Humid,1,6,3,1,0,-2,2,23,7,5,4,5,5,10,10
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,1,0,-2,1,2,0,1,3,1,1,14,7
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,3,5,4,5,5,16,12
+MIDWEST,East North Central,Michigan,Cold,2,4,3,0,1,5,-2,23,3,1,3,1,1,14,9
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,3,2,0,1,5,1,2,7,5,3,1,1,16,7
+MIDWEST,West North Central,Iowa,Cold,2,1,2,0,1,5,5,2,15,5,3,2,2,14,5
+WEST,Mountain North,Montana,Cold,2,4,2,0,1,5,5,2,7,5,3,1,1,15,8
+SOUTH,West South Central,Texas,Hot-Humid,1,8,3,1,0,-2,5,2,3,5,3,5,5,14,12
+WEST,Mountain North,Utah,Cold,2,7,1,0,1,5,5,2,7,5,3,1,1,15,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,3,7,1,0,1,5,1,2,7,5,3,1,5,16,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,2,3,1,0,-2,1,2,1,5,3,1,1,16,7
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,0,1,5,2,2,4,2,3,2,2,15,11
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,5,1,1,-2,1,3,1,-2,-2,-2,2,3,3,3,7
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,5,3,0,1,5,5,2,5,5,3,5,5,14,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,3,1,0,-2,-2,2,1,5,3,3,3,15,8
+MIDWEST,West North Central,North Dakota,Very-Cold,2,6,3,0,1,-2,-2,2,5,5,3,2,2,15,11
+MIDWEST,East North Central,Illinois,Cold,5,8,1,-2,1,1,5,-2,-2,-2,3,1,1,2,14
+MIDWEST,East North Central,Illinois,Cold,2,1,1,0,1,-2,1,2,7,1,3,1,1,15,4
+NORTHEAST,New England,Massachusetts,Cold,2,3,3,1,0,-2,5,-2,1,1,3,1,1,9,8
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,4,3,0,1,-2,-2,2,0,5,3,1,1,14,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,8,3,1,0,-2,2,2,5,5,3,2,2,15,13
+WEST,Pacific,California,Hot-Dry,2,6,2,1,1,1,-2,2,3,5,3,1,1,16,10
+MIDWEST,East North Central,Wisconsin,Cold,2,2,3,1,0,-2,1,2,4,5,3,1,5,13,7
+SOUTH,South Atlantic,North Carolina,Hot-Humid,2,6,1,0,1,5,-2,-2,4,5,4,5,5,12,9
+NORTHEAST,New England,Vermont,Cold,2,1,3,1,1,-2,2,2,5,5,2,3,2,13,6
+NORTHEAST,New England,Connecticut,Cold,2,6,5,0,1,5,5,2,4,5,3,1,1,16,13
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,3,3,0,1,5,5,-2,-2,5,8,7,5,8,8
+WEST,Pacific,California,Marine,5,8,2,-2,1,-2,5,-2,3,-2,5,5,5,14,15
+MIDWEST,East North Central,Illinois,Cold,2,5,3,0,1,-2,1,-2,3,5,3,1,1,15,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,1,1,1,1,2,10,1,3,1,1,16,11
+MIDWEST,East North Central,Ohio,Cold,2,6,3,0,1,5,5,2,5,5,3,2,5,13,11
+WEST,Mountain South,New Mexico,Mixed-Dry,1,4,3,1,1,5,5,2,2,5,3,1,1,15,8
+MIDWEST,East North Central,Ohio,Cold,2,4,1,1,0,-2,5,23,3,5,4,5,5,15,7
+SOUTH,East South Central,Alabama,Hot-Humid,3,5,2,0,1,5,2,2,3,5,10,5,1,1,10
+WEST,Pacific,California,Hot-Dry,2,7,4,0,1,1,13,2,6,5,3,1,1,15,13
+NORTHEAST,New England,Maine,Cold,2,7,5,0,1,3,5,-2,6,5,2,3,3,8,14
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,1,1,1,0,-2,1,1,7,5,3,1,1,16,4
+WEST,Mountain North,Colorado,Cold,2,7,4,1,0,-2,5,2,3,5,3,1,1,15,13
+WEST,Pacific,California,Marine,2,4,4,1,0,-2,1,2,4,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,2,3,1,0,-2,1,1,2,1,3,1,1,16,7
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,1,5,3,0,1,5,5,2,-2,5,4,5,5,8,9
+SOUTH,West South Central,Texas,Hot-Humid,2,2,1,1,1,-2,-2,2,2,5,3,1,5,15,5
+SOUTH,West South Central,Texas,Hot-Humid,2,7,6,1,0,-2,-2,23,4,5,4,5,5,16,15
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,1,1,1,-2,1,5,5,4,5,5,16,9
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,9,7,0,1,5,5,-2,8,5,3,1,1,15,18
+WEST,Pacific,Washington,Marine,2,1,2,0,1,5,13,2,3,5,5,5,5,11,5
+SOUTH,West South Central,Texas,Hot-Humid,1,5,3,0,1,5,13,-2,3,5,3,1,5,12,9
+MIDWEST,West North Central,North Dakota,Very-Cold,2,1,6,0,1,1,1,1,10,1,2,1,1,16,9
+MIDWEST,West North Central,Missouri,Cold,2,1,3,0,1,5,5,2,2,5,3,1,1,13,6
+WEST,Pacific,Hawaii,Hot-Humid,2,4,2,0,1,-2,-2,-2,0,2,-2,-2,2,13,8
+WEST,Pacific,Oregon,Marine,2,7,3,0,1,5,-2,2,4,5,4,5,5,14,12
+WEST,Mountain North,Utah,Hot-Dry,2,9,4,1,0,-2,-2,2,7,5,3,1,1,12,15
+NORTHEAST,Middle Atlantic,New York,Cold,3,6,3,1,0,-2,5,2,7,5,3,1,1,15,12
+MIDWEST,West North Central,Nebraska,Cold,2,4,3,1,1,5,5,2,6,5,3,1,1,15,9
+SOUTH,South Atlantic,Florida,Hot-Humid,2,7,7,1,1,99,5,-2,0,5,3,5,5,12,16
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,5,3,1,0,-2,5,2,5,5,3,1,1,13,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,8,2,1,0,-2,5,2,2,5,3,5,5,16,12
+WEST,Pacific,Alaska,Subarctic,2,5,2,0,1,5,-2,2,5,5,2,3,3,15,9
+WEST,Pacific,Hawaii,Hot-Humid,2,5,7,0,1,5,5,2,0,5,-2,-2,8,14,14
+SOUTH,East South Central,Alabama,Hot-Humid,2,1,3,1,0,-2,13,23,1,5,3,1,1,14,6
+MIDWEST,West North Central,Iowa,Cold,2,1,3,0,1,5,5,2,1,5,3,1,1,14,6
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,8,3,1,0,-2,5,2,1,5,4,5,5,14,13
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,7,3,0,1,-2,13,-2,1,5,3,1,1,12,12
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,4,3,1,1,-2,5,-2,-2,5,3,5,5,12,9
+MIDWEST,West North Central,North Dakota,Very-Cold,5,5,1,-2,1,5,5,2,3,5,5,5,5,16,11
+WEST,Mountain North,Colorado,Cold,5,7,7,-2,1,5,5,-2,3,5,3,5,5,1,19
+MIDWEST,East North Central,Illinois,Cold,2,7,3,1,0,-2,2,2,3,5,3,2,2,14,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,0,1,5,5,-2,7,5,4,5,5,12,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,0,1,5,5,2,1,5,3,1,5,14,6
+WEST,Pacific,Alaska,Very-Cold,2,7,2,0,1,5,1,2,1,1,3,1,1,13,11
+NORTHEAST,New England,Massachusetts,Cold,2,5,3,1,1,5,5,2,7,5,3,3,3,14,10
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,5,8,3,-2,1,1,1,1,2,5,13,5,1,16,16
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,7,2,0,1,5,-2,2,1,5,3,3,5,16,11
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,-2,2,2,5,-2,-2,1,14,13
+WEST,Pacific,Hawaii,Hot-Humid,2,7,2,0,1,5,5,2,10,5,-2,-2,5,16,11
+WEST,Pacific,California,Hot-Dry,5,5,2,-2,1,1,5,-2,0,5,2,1,1,9,12
+WEST,Pacific,Oregon,Marine,2,3,2,0,1,5,5,2,0,5,3,1,5,16,7
+WEST,Pacific,Washington,Marine,2,8,3,0,1,1,1,2,4,1,3,1,1,16,13
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,4,1,0,-2,-2,2,2,5,3,5,5,14,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,3,0,1,5,1,2,5,5,3,1,5,15,6
+NORTHEAST,Middle Atlantic,New Jersey,Cold,2,4,2,0,1,5,5,2,20,5,3,1,1,15,8
+SOUTH,East South Central,Alabama,Mixed-Humid,2,5,2,1,0,-2,5,23,7,5,99,1,5,10,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,4,1,1,5,-2,2,0,5,4,5,3,16,13
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,6,3,0,1,5,5,-2,1,5,4,5,5,14,11
+MIDWEST,East North Central,Illinois,Cold,2,2,1,0,1,5,13,2,5,1,3,1,1,13,5
+WEST,Pacific,California,Marine,2,4,2,0,1,5,-2,1,4,1,3,1,1,12,8
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,1,3,1,0,-2,1,23,1,1,3,1,1,15,6
+MIDWEST,East North Central,Wisconsin,Cold,2,2,3,1,0,-2,5,2,4,5,3,1,1,8,7
+WEST,Pacific,California,Hot-Dry,2,2,4,0,1,5,-2,2,-2,1,3,1,1,15,8
+MIDWEST,West North Central,Missouri,Mixed-Humid,2,8,1,0,1,5,5,2,4,5,3,5,5,15,11
+MIDWEST,East North Central,Illinois,Cold,2,2,3,1,0,-2,1,1,5,1,3,1,1,7,7
+SOUTH,West South Central,Arkansas,Mixed-Humid,2,5,3,1,0,-2,1,1,5,5,3,1,5,15,10
+SOUTH,West South Central,Louisiana,Hot-Humid,1,6,3,1,0,-2,5,2,3,5,10,5,5,15,10
+WEST,Mountain South,New Mexico,Mixed-Dry,2,6,4,0,1,5,-2,1,6,5,3,1,1,14,12
+WEST,Mountain North,Idaho,Cold,2,2,2,1,0,-2,5,2,7,5,3,1,1,15,6
+SOUTH,South Atlantic,Georgia,Mixed-Humid,1,7,3,1,1,5,5,2,1,5,4,5,5,15,11
+WEST,Mountain North,Wyoming,Cold,2,7,3,0,1,-2,5,2,4,5,3,1,1,13,12
+WEST,Mountain North,Utah,Cold,2,7,6,0,1,5,5,2,1,5,3,1,1,15,15
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,8,1,1,0,-2,1,2,3,5,3,1,1,16,11
+WEST,Mountain South,Arizona,Hot-Dry,2,3,4,1,1,5,13,2,7,1,3,1,1,14,9
+NORTHEAST,New England,Connecticut,Cold,2,1,2,1,0,-2,-2,2,2,5,3,3,5,16,5
+SOUTH,South Atlantic,District of Columbia,Mixed-Humid,5,4,1,-2,1,1,1,-2,-2,-2,3,1,1,9,10
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,3,0,1,-2,5,-2,4,1,3,1,1,15,12
+MIDWEST,East North Central,Indiana,Cold,2,7,3,1,0,-2,1,23,7,5,3,1,1,10,12
+WEST,Mountain South,Arizona,Hot-Dry,3,3,1,0,1,5,5,2,1,5,4,5,5,14,7
+WEST,Mountain South,New Mexico,Hot-Dry,2,9,4,0,1,-2,1,2,0,5,3,1,1,13,15
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,7,1,0,-2,5,23,3,5,3,5,5,12,13
+SOUTH,South Atlantic,West Virginia,Mixed-Humid,2,8,6,1,0,-2,-2,2,5,5,4,5,5,16,16
+MIDWEST,East North Central,Michigan,Cold,2,6,3,0,1,5,5,2,5,5,3,1,1,12,11
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,4,3,1,0,-2,5,-2,0,5,3,5,5,13,9
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,2,12,5,4,5,5,15,12
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,7,1,0,1,5,5,2,5,5,3,5,1,3,10
+SOUTH,South Atlantic,Florida,Hot-Humid,2,4,1,1,0,-2,5,-2,-2,5,-2,-2,5,12,7
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,1,0,-2,1,2,10,5,3,1,1,14,14
+SOUTH,South Atlantic,South Carolina,Mixed-Humid,2,4,1,1,0,-2,-2,2,7,5,4,5,5,16,7
+WEST,Mountain North,Utah,Cold,2,7,4,0,1,5,5,2,4,5,3,1,1,15,13
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,2,1,0,-2,2,2,2,5,3,2,2,14,9
+SOUTH,East South Central,Tennessee,Mixed-Humid,1,8,3,1,1,5,5,2,1,5,5,5,5,14,12
+SOUTH,West South Central,Texas,Hot-Dry,5,8,4,-2,1,-2,1,-2,0,5,3,1,1,2,17
+SOUTH,South Atlantic,West Virginia,Cold,2,1,2,0,1,5,5,2,4,5,3,3,5,14,5
+MIDWEST,West North Central,Nebraska,Cold,2,4,3,0,1,5,1,1,3,5,3,1,1,11,9
+WEST,Mountain South,Arizona,Hot-Dry,2,5,4,1,1,5,-2,2,3,5,4,5,5,16,11
+WEST,Mountain North,Utah,Cold,5,8,7,-2,1,5,5,-2,1,5,5,5,5,2,20
+SOUTH,South Atlantic,Florida,Hot-Humid,2,3,4,1,0,-2,5,1,1,5,13,5,1,15,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,2,0,1,3,-2,-2,4,5,3,3,3,14,9
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,7,3,0,1,5,5,-2,2,5,3,5,5,15,12
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,1,0,-2,5,2,2,5,3,3,3,16,10
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,5,2,7,5,4,5,5,16,7
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,1,2,0,1,5,5,2,-2,5,8,7,5,16,5
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,7,1,1,1,5,1,1,7,5,3,1,5,16,10
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,6,3,0,1,5,5,23,8,5,4,5,5,15,11
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,1,1,0,-2,2,2,3,5,3,5,5,4,8
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,7,2,1,1,-2,5,2,5,5,4,5,5,13,11
+MIDWEST,East North Central,Wisconsin,Cold,2,4,3,0,1,1,5,2,5,5,3,1,1,14,9
+MIDWEST,West North Central,Missouri,Mixed-Humid,1,7,3,1,0,-2,-2,23,3,5,3,2,5,14,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,4,1,1,0,-2,1,2,7,5,3,1,1,15,7
+WEST,Mountain South,Arizona,Hot-Dry,2,7,7,1,0,-2,-2,23,0,1,3,1,1,14,16
+WEST,Mountain South,Arizona,Hot-Dry,2,5,2,1,0,-2,5,2,2,5,4,5,5,15,9
+WEST,Mountain North,Wyoming,Cold,2,2,1,0,1,5,13,2,2,5,2,1,1,16,5
+WEST,Pacific,Hawaii,Hot-Humid,2,4,2,0,1,5,5,2,1,5,-2,-2,5,9,8
+WEST,Pacific,California,Hot-Dry,2,5,4,0,1,-2,5,23,4,1,3,1,1,14,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,1,6,3,1,0,-2,-2,2,4,5,4,5,5,16,10
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,6,3,0,1,5,1,23,2,5,3,1,5,13,11
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,3,3,0,1,-2,1,-2,2,1,3,1,1,16,8
+SOUTH,South Atlantic,Georgia,Hot-Humid,3,1,3,0,1,5,5,23,-2,5,10,5,5,6,7
+WEST,Pacific,Oregon,Marine,2,1,2,0,1,5,1,-2,0,5,3,1,5,12,5
+MIDWEST,East North Central,Michigan,Cold,2,6,3,1,1,5,1,1,4,1,3,1,1,16,11
+MIDWEST,East North Central,Indiana,Cold,2,2,3,0,1,5,5,2,0,5,3,1,5,1,7
+WEST,Mountain North,Idaho,Cold,2,8,3,0,1,5,2,23,4,5,8,7,5,13,13
+NORTHEAST,New England,New Hampshire,Cold,2,4,3,1,0,-2,5,2,3,5,2,1,1,15,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,6,1,0,-2,2,2,7,5,4,5,5,16,15
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,7,2,1,0,-2,5,-2,0,5,3,3,5,15,11
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,4,1,0,1,5,5,2,5,5,3,1,1,14,7
+WEST,Mountain North,Utah,Cold,2,2,1,0,1,5,1,2,0,5,3,1,1,14,5
+SOUTH,West South Central,Texas,Hot-Humid,2,4,1,1,0,-2,-2,2,4,5,3,5,5,10,7
+SOUTH,West South Central,Texas,Hot-Humid,2,4,3,0,1,5,5,2,-2,5,99,5,5,15,9
+WEST,Mountain South,Arizona,Hot-Dry,2,3,1,1,0,-2,1,23,7,5,3,1,1,14,6
+MIDWEST,West North Central,Kansas,Mixed-Humid,2,3,3,1,0,-2,5,2,7,5,3,1,1,15,8
+WEST,Pacific,California,Marine,2,5,4,1,0,-2,1,1,5,1,3,1,1,15,11
+WEST,Pacific,California,Hot-Dry,2,1,4,1,0,-2,1,2,0,1,3,1,1,7,7
+MIDWEST,East North Central,Indiana,Mixed-Humid,2,1,1,0,1,1,1,23,3,1,3,1,1,15,4
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,4,1,0,-2,5,2,-2,5,3,5,5,10,12
+SOUTH,West South Central,Texas,Hot-Humid,2,7,1,1,1,5,1,1,5,5,3,5,1,16,10
+NORTHEAST,New England,Connecticut,Cold,2,4,2,0,1,-2,-2,-2,1,5,3,3,3,16,8
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,3,3,1,0,-2,5,23,-2,5,4,5,5,12,8
+SOUTH,South Atlantic,West Virginia,Cold,2,1,2,1,0,-2,5,2,0,5,3,1,5,10,5
+SOUTH,West South Central,Texas,Hot-Humid,2,2,2,0,1,-2,13,-2,-2,5,3,1,1,12,6
+NORTHEAST,New England,Connecticut,Cold,2,9,3,1,0,-2,-2,2,4,5,3,2,2,16,14
+WEST,Mountain North,Colorado,Cold,2,4,3,0,1,5,5,2,6,5,3,1,1,15,9
+MIDWEST,East North Central,Michigan,Cold,2,2,3,1,0,-2,1,2,7,1,3,1,1,15,7
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,3,0,1,-2,5,2,1,5,4,5,5,15,10
+WEST,Pacific,Washington,Marine,2,7,2,0,1,5,5,2,5,5,13,5,5,16,11
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,1,3,0,1,1,1,2,7,1,3,1,1,15,6
+WEST,Pacific,Washington,Marine,2,6,3,0,1,5,1,-2,8,5,3,1,1,16,11
+WEST,Mountain South,Arizona,Hot-Dry,2,8,4,1,1,5,-2,2,6,5,3,1,1,16,14
+NORTHEAST,New England,Connecticut,Cold,3,5,3,0,1,-2,5,1,7,5,3,3,3,15,11
+WEST,Pacific,California,Hot-Dry,2,9,4,1,1,1,-2,2,6,1,3,1,1,15,15
+WEST,Pacific,California,Cold,2,5,3,0,1,-2,5,2,1,2,3,2,2,13,10
+MIDWEST,East North Central,Illinois,Mixed-Humid,2,7,3,0,1,5,5,1,7,5,4,5,5,15,12
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,8,1,1,1,2,-2,2,5,5,4,5,2,16,11
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,1,1,1,1,-2,23,10,1,4,5,1,16,9
+NORTHEAST,Middle Atlantic,New York,Mixed-Humid,2,6,3,1,0,-2,2,2,7,2,3,2,2,16,11
+MIDWEST,East North Central,Illinois,Cold,2,7,3,1,0,-2,1,2,2,1,3,1,1,15,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,3,0,1,5,5,2,-2,5,3,3,5,7,10
+NORTHEAST,New England,Vermont,Cold,2,7,3,0,1,5,2,-2,4,2,3,2,2,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,8,7,1,0,-2,-2,2,3,5,3,5,5,13,17
+SOUTH,South Atlantic,North Carolina,Hot-Humid,2,7,1,0,1,5,5,2,0,5,4,5,5,10,10
+SOUTH,West South Central,Oklahoma,Mixed-Humid,2,4,1,0,1,5,-2,2,5,1,3,1,1,15,7
+WEST,Mountain South,Arizona,Hot-Dry,2,7,4,1,0,-2,5,2,3,5,4,5,5,16,13
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,5,3,0,1,-2,5,-2,3,5,4,5,5,13,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,1,8,3,1,0,-2,5,2,2,5,4,5,5,11,12
+MIDWEST,West North Central,Nebraska,Cold,2,4,3,0,1,5,5,-2,4,5,3,1,1,14,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,4,3,0,1,5,2,2,3,5,3,3,3,12,9
+NORTHEAST,Middle Atlantic,New York,Cold,2,1,3,1,0,-2,5,-2,4,5,2,2,2,12,6
+MIDWEST,West North Central,North Dakota,Very-Cold,2,7,3,0,1,5,5,2,3,5,4,5,5,16,12
+MIDWEST,East North Central,Ohio,Cold,2,1,3,0,1,-2,5,2,7,5,3,3,2,7,6
+WEST,Pacific,California,Hot-Dry,5,5,2,-2,1,5,5,-2,4,-2,-2,-2,5,8,12
+SOUTH,East South Central,Alabama,Mixed-Humid,2,7,1,1,1,-2,5,2,3,5,4,5,2,14,10
+MIDWEST,East North Central,Indiana,Cold,3,6,1,1,0,-2,2,23,3,2,3,2,2,15,10
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,4,1,0,1,5,5,23,4,5,3,1,1,15,7
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,6,3,1,0,-2,2,2,1,5,99,2,2,15,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,5,1,0,1,-2,1,-2,4,5,3,1,1,14,8
+MIDWEST,East North Central,Wisconsin,Cold,2,7,2,0,1,5,2,1,3,5,3,2,5,16,11
+SOUTH,South Atlantic,Georgia,Mixed-Humid,2,9,3,1,1,1,-2,2,5,1,3,1,1,16,14
+SOUTH,South Atlantic,North Carolina,Mixed-Humid,2,6,1,0,1,5,5,2,2,5,4,5,5,16,9
+SOUTH,West South Central,Texas,Hot-Humid,2,8,1,0,1,2,5,23,0,5,3,5,5,12,11
+NORTHEAST,New England,Vermont,Cold,2,6,3,1,0,-2,5,2,2,5,2,1,1,12,11
+WEST,Mountain South,Arizona,Hot-Dry,2,6,2,1,1,5,5,2,3,5,4,5,5,16,10
+SOUTH,South Atlantic,West Virginia,Cold,2,6,3,1,0,-2,1,2,-2,5,3,1,2,12,11
+SOUTH,East South Central,Tennessee,Mixed-Humid,2,3,1,1,0,-2,-2,2,5,5,3,5,5,5,6
+NORTHEAST,Middle Atlantic,New York,Cold,2,7,3,1,0,-2,1,1,2,5,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,6,7,1,0,-2,5,2,5,5,3,5,5,13,15
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,3,1,0,-2,5,2,4,5,4,5,5,15,10
+WEST,Pacific,California,Hot-Dry,2,5,2,1,0,-2,-2,-2,1,1,3,1,1,15,9
+WEST,Mountain South,Arizona,Hot-Dry,2,4,4,1,0,-2,5,2,4,5,3,5,1,7,10
+SOUTH,East South Central,Tennessee,Mixed-Humid,1,6,2,0,1,-2,5,23,0,5,3,2,5,6,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Mixed-Humid,2,7,3,0,1,-2,5,-2,3,5,3,1,1,11,12
+WEST,Pacific,California,Hot-Dry,2,4,5,1,0,-2,2,-2,7,2,3,2,2,13,11
+WEST,Mountain South,New Mexico,Mixed-Dry,2,6,4,0,1,5,-2,1,2,5,3,1,1,16,12
+NORTHEAST,New England,Rhode Island,Cold,2,1,3,1,0,-2,1,2,-2,1,3,1,1,13,6
+NORTHEAST,New England,Massachusetts,Cold,2,6,2,0,1,-2,1,2,7,1,3,1,1,16,10
+SOUTH,West South Central,Texas,Hot-Humid,2,6,1,0,1,-2,-2,2,4,5,4,5,5,16,9
+WEST,Mountain South,Nevada,Cold,2,5,2,0,1,5,-2,2,6,5,3,2,2,16,9
+WEST,Pacific,California,Hot-Dry,2,3,4,0,1,1,1,2,5,5,3,1,1,15,9
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,1,1,1,5,-2,2,7,5,2,3,99,15,8
+NORTHEAST,Middle Atlantic,New York,Cold,2,5,2,0,1,5,2,2,3,5,13,5,5,15,9
+WEST,Pacific,California,Hot-Dry,2,2,4,0,1,5,1,1,4,1,-2,-2,1,16,8
+WEST,Mountain North,Idaho,Cold,2,7,1,1,0,-2,1,1,5,5,3,1,1,16,10
+NORTHEAST,Middle Atlantic,New York,Cold,2,2,1,0,1,5,1,2,-2,5,3,1,1,9,5
+NORTHEAST,Middle Atlantic,Pennsylvania,Cold,2,5,3,1,0,-2,5,2,2,5,3,2,5,9,10
+SOUTH,East South Central,Kentucky,Mixed-Humid,2,6,3,0,1,5,5,1,5,5,4,5,5,13,11
+MIDWEST,East North Central,Indiana,Cold,2,4,3,1,0,-2,1,2,-2,5,3,1,5,8,9
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,0,-2,5,1,2,5,3,1,1,15,12
+SOUTH,South Atlantic,Delaware,Mixed-Humid,2,7,3,0,1,-2,5,23,4,5,3,3,5,14,12
+NORTHEAST,Middle Atlantic,New York,Cold,2,6,3,0,1,-2,2,-2,0,5,2,3,2,15,11
+NORTHEAST,Middle Atlantic,New Jersey,Mixed-Humid,2,6,3,1,1,1,1,2,4,5,3,1,1,15,11
+WEST,Mountain South,New Mexico,Hot-Dry,1,6,4,0,1,-2,1,1,-2,5,3,1,1,2,11
+SOUTH,South Atlantic,Maryland,Mixed-Humid,2,6,3,1,0,-2,5,23,1,5,-2,-2,5,13,11
+SOUTH,West South Central,Texas,Hot-Humid,2,4,6,1,0,-2,13,23,3,5,3,1,1,15,12
+WEST,Pacific,California,Mixed-Dry,2,5,3,1,1,2,2,2,1,5,3,2,2,12,10
+WEST,Pacific,Alaska,Very-Cold,2,7,3,0,1,1,1,2,0,1,3,1,1,16,12
+SOUTH,South Atlantic,Florida,Hot-Humid,2,5,7,1,0,-2,5,-2,4,5,-2,-2,8,13,14
+WEST,Mountain South,Arizona,Hot-Dry,2,6,4,1,1,5,5,2,7,5,4,5,5,12,12
+WEST,Pacific,Oregon,Cold,2,3,2,0,1,5,5,2,2,5,3,1,1,14,7
+SOUTH,West South Central,Texas,Hot-Humid,2,3,1,1,0,-2,1,-2,2,1,3,1,1,14,6
+WEST,Pacific,California,Hot-Dry,2,4,4,1,1,1,-2,-2,3,1,3,1,1,14,10
+SOUTH,South Atlantic,Virginia,Mixed-Humid,2,1,3,1,0,-2,5,2,6,5,3,3,3,10,6
+SOUTH,South Atlantic,Florida,Hot-Humid,2,9,4,0,1,5,-2,2,3,5,-2,-2,5,14,15
+SOUTH,West South Central,Texas,Hot-Humid,1,9,3,0,1,5,5,-2,-2,5,-2,-2,5,8,13
+SOUTH,South Atlantic,South Carolina,Hot-Humid,2,7,4,0,1,-2,5,2,1,5,4,5,5,14,13

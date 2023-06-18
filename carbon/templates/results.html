@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="static/css/styles.css">
+    <title>Results</title>
 </head>
 <body>
-<div class="container">
-  <h1>Carbon Impact Predictor</h1>
-  <p>Based on the data provided, here are your predicted carbon impacts:</p>
-  <p>{{ sentence }}</p>
-</div>
+    <h1>Prediction: {{ prediction }}</h1>
+    <h2>False Positive Rate: {{ fpr }}</h2>
+    <h2>True Negative Rate: {{ tnr }}</h2>
+    <h2>False Negative Rate: {{ fnr }}</h2>
+    <h2>True Positive Rate: {{ tpr }}</h2>
 </body>
 </html>
