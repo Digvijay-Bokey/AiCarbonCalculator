@@ -13,7 +13,7 @@ selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ'
                     'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']
 
 # Read data from csv file into dataframe
-original_df = pd.read_csv('recs2020_public_v3.csv')
+original_df = pd.read_csv('carbon/recs2020_public_v3.csv')
 
 # Create new dataframe with selected columns and the condition
 new_df = original_df[selected_columns]
@@ -114,7 +114,7 @@ test_df = pd.DataFrame(columns=['REGIONC','DIVISION','state_name','BA_climate', 
 
 
 # input user inputs from front end to the test dataframe
-test_df['REGIONC'] = pd.Series({'x':data[0][0]})
+test_df['REGIONC'] = pd.Series({'x':'WEST'})
 test_df['DIVISION'] = pd.Series({'x':'Pacific'})
 test_df['state_name'] = pd.Series({'x':'California'})
 test_df['BA_climate'] = pd.Series({'x':'Hot-Dry'})
