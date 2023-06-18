@@ -1,26 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Data Input</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
-  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
 </head>
 <body>
-<header>
-  <h1 data-aos="fade-down">Provide Your Data</h1>
-</header>
 <div class="container">
-  <form id="dataForm" data-aos="fade-right">
-    <!-- Add the required input fields based on the data your AI model needs -->
-    <label for="exampleInput">Example Input:</label>
-    <input type="text" id="exampleInput">
-    <button type="submit" id="submitButton">Submit and View Prediction</button>
+  <h1>Carbon Impact Predictor</h1>
+  <p>Please fill in the following information</p>
+  <form id="dataForm">
+    <div class="form-section">
+      <label for="input1">Input 1:</label>
+      <input id="input1" type="text">
+    </div>
+    <div class="form-section">
+      <label for="input2">Input 2:</label>
+      <input id="input2" type="text">
+    </div>
+    <button id="predictButton" type="submit" disabled>Predict</button>
   </form>
 </div>
 <script src="data_input.js"></script>
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
 </body>
 </html>
