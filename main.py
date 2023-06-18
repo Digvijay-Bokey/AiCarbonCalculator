@@ -3,16 +3,14 @@ import numpy as np
 import statsmodels.api as sm
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
-from sklearn.impute import SimpleImputer
 from sklearn.neural_network import MLPRegressor
 from sklearn import metrics
 from sklearn.metrics import confusion_matrix
-import tensorflow as tf
-from tensorflow.python.keras.layers import Input, Dense
-from sklearn.preprocessing import StandardScaler
 
 # Features that we will be using to calculate "carbon score" for users
-selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL', 'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']
+selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ', 'YEARMADERANGE',
+                    'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL',
+                    'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']
 
 # Read data from csv file into dataframe
 original_df = pd.read_csv('recs2020_public_v3.csv')
@@ -108,7 +106,6 @@ print("Mean Squared Error:", mse)
 accuracy = metrics.r2_score(Y_test, pred)
 print("Accuracy Score:", accuracy)
 
-#test = ['WEST', 'Pacific', 'California', 'Hot-Dry', 2, 1, 4, 1, 0, -2, 1, 1, 5, 1, 3, 1, 1, 16, 7]
 
 # create a user input as a sole data row calling it test_df
 test_df = pd.DataFrame(columns=['REGIONC','DIVISION','state_name','BA_climate', 'TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE',
@@ -176,6 +173,10 @@ fairness_df.loc[fairness_df["CARBFTP"] < 50, "y_test"] = 0
 fairness_df.loc[fairness_df["YEARMADERANGE"] >= 5, "y_true"] = 1
 fairness_df.loc[fairness_df["YEARMADERANGE"] < 5, "y_true"] = 0
 
+# Set the true values of whether user is "sustainable" or not as if teh house they are living in is newer
+# set the predicted values to see if the neural net computed sustainability scores correctly predict sustainability
+y_true = fairness_df["y_true"]
+y_pred = fairness_df["y_test"]
 
 # use confusion matrices to get false negative rates etc based on
 def find_TNR(y_true, y_pred):
@@ -186,10 +187,6 @@ def find_TNR(y_true, y_pred):
     tn = cm[0][0]
     tnr = fp/(fp+tn)
     return tnr
-
-y_true = fairness_df["y_true"]
-y_pred = fairness_df["y_test"]
-
 def find_FPR(y_true, y_pred):
     cm = confusion_matrix(y_pred, y_true)
     tp = cm[1][1]
@@ -199,13 +196,11 @@ def find_FPR(y_true, y_pred):
     fpr = tn/ (tn+fp)
     return fpr
 
+
 fpr = find_FPR(y_true, y_pred)
 tnr = find_TNR(y_true, y_pred)
 tpr = 1 - fpr
 fnr = 1 - tnr
-
-# both false positive and false negative rates should add to 1
-if fpr + tnr != 1: print("something went wrong: " + str(fpr + tnr))
 
 # make into percentages for increased reliability
 
@@ -223,6 +218,60 @@ print("True Negative Rate: " + str(tnr))
 print("False Negative Rate: " + str(fnr))
 print("True Positive Rate: " + str(tpr))
 
+
+# Data Analysis: differentiate fairness parameters based on income levels
+
+highIncome_df = fairness_df[fairness_df['MONEYPY'] >= 13]
+lowIncome_df = fairness_df[fairness_df['MONEYPY'] < 13]
+
+# calculate fairness foe high income families
+
+# reset true and prediction columns
+y_true = highIncome_df["y_true"]
+y_pred = highIncome_df["y_test"]
+
+
+fpr = find_FPR(y_true, y_pred)
+tnr = find_TNR(y_true, y_pred)
+tpr = 1 - fpr
+fnr = 1 - tnr
+
+fpr = str(makePercent(fpr)) + "%"
+tnr = str(makePercent(tnr)) + "%"
+tpr = str(makePercent(tpr)) + "%"
+fnr = str(makePercent(fnr)) + "%"
+
+print("FPR/FNR results for high income families are as follows: ")
+# output confusion matrix results
+print("False Positive Rate: " + str(fpr))
+print("True Negative Rate: " + str(tnr))
+print("False Negative Rate: " + str(fnr))
+print("True Positive Rate: " + str(tpr))
+
+
+# Calculate fairness indicators for low Income Families
+
+# reset true and prediction columns
+y_true = lowIncome_df["y_true"]
+y_pred = lowIncome_df["y_test"]
+
+
+fpr = find_FPR(y_true, y_pred)
+tnr = find_TNR(y_true, y_pred)
+tpr = 1 - fpr
+fnr = 1 - tnr
+
+fpr = str(makePercent(fpr)) + "%"
+tnr = str(makePercent(tnr)) + "%"
+tpr = str(makePercent(tpr)) + "%"
+fnr = str(makePercent(fnr)) + "%"
+
+print("FPR/FNR results for low income families are as follows: ")
+# output confusion matrix results
+print("False Positive Rate: " + str(fpr))
+print("True Negative Rate: " + str(tnr))
+print("False Negative Rate: " + str(fnr))
+print("True Positive Rate: " + str(tpr))
 
 
 
