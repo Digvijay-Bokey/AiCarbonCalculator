@@ -5,14 +5,15 @@ var predictButton = document.getElementById('predictButton');
 formSections[currentSection].classList.add('show');
 
 formSections.forEach(function(section, index) {
-    var input = section.querySelector('input');
+    var select = section.querySelector('select');
 
-    input.addEventListener('input', function() {
-        if (input.value !== '' && index === currentSection) {
+    select.addEventListener('change', function() {
+        if (select.value !== '' && index === currentSection) {
             currentSection++;
             if (currentSection < formSections.length) {
                 formSections[currentSection].classList.add('show');
-                predictButton.style.marginTop = currentSection * 1 + 'px';
+                formSections[currentSection].querySelector('select').disabled = false;
+                predictButton.style.marginTop = currentSection * 30 + 'px';
             } else {
                 predictButton.disabled = false;
             }
