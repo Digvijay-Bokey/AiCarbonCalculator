@@ -23,5 +23,19 @@ formSections.forEach(function(section, index) {
 
 document.getElementById('dataForm').addEventListener('submit', function (event) {
     event.preventDefault();
-    window.location.href = 'results.html';
+    
+    var data = new FormData();
+    data.append('name', document.getElementById('input1').value);
+    data.append('number', document.getElementById('number').value);
+    
+    fetch('/', {
+        method: 'POST',
+        body: data,
+    })
+    .then(response => {
+        return response.text(); // Here you are expecting text response
+    })
+    .then(text => {
+        window.location.href = `/results?sentence=${encodeURIComponent(text)}`; // redirecting to /results page with sentence as query parameter
+    });
 });
