@@ -29,7 +29,7 @@ new_df['BA_climate'] = le.fit_transform(new_df['BA_climate'])
 
 # Filter rows based on the condition (hot tub or pool)
 condition = (new_df['SWIMPOOL'] == 1) | (new_df['RECBATH'] == 1)
-new_df = new_df[condition].head(500)
+new_df = new_df[condition]
 
 # Change negative values and zeros to NaN for numeric columns
 #numeric_columns = new_df.select_dtypes(include=np.number).columns
@@ -78,8 +78,8 @@ Y = dataset[:, 18]
 
 X_scale = preprocessing.MinMaxScaler().fit_transform(X)
 
-X_train, X_test, Y_train, Y_test = train_test_split(X_scale, Y, test_size=0.2)
-X_val, X_test, Y_val, Y_test = train_test_split(X_test, Y_test, test_size=0.3)
+X_train, X_test, Y_train, Y_test = train_test_split(X_scale, Y, test_size=0.3)
+X_val, X_test, Y_val, Y_test = train_test_split(X_test, Y_test, test_size=0.2)
 print(X_train.shape, X_test.shape, Y_train.shape, Y_test.shape)
 
 """
