@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Upload Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+</head>
+<body>
+<header>
+    <h1 data-aos="fade-down">Welcome to the File Upload Page</h1>
+</header>
+<div class="container">
+    <div class="upload-section" data-aos="fade-right">
+        <h2>Upload your file</h2>
+        <input type="file" id="fileUpload" accept=".txt">
+        <button id="uploadButton">Upload</button>
+    </div>
+    <div class="output-section" data-aos="fade-left">
+        <h2>Output</h2>
+        <div id="outputArea"></div>
+    </div>
+</div>
+<div class="extra-content">
+    <div class="text-section" data-aos="fade-up">
+        <h2>Your text here</h2>
+        <p>You can replace this with any text you want.</p>
+    </div>
+</div>
+<script src="script.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+</body>
+</html>
