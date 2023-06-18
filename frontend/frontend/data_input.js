@@ -13,7 +13,7 @@ formSections.forEach(function(section, index) {
             if (currentSection < formSections.length) {
                 formSections[currentSection].classList.add('show');
                 formSections[currentSection].querySelector('select').disabled = false;
-                predictButton.style.marginTop = currentSection * 30 + 'px';
+                predictButton.style.marginTop = currentSection * 1.5 + 'px';
             } else {
                 predictButton.disabled = false;
             }
