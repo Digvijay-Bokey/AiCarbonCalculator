@@ -1,7 +1,8 @@
-var formSections = document.querySelectorAll('.form-section');
+var formSections = Array.from(document.querySelectorAll('.form-section'));
 var currentSection = 0;
 var predictButton = document.getElementById('predictButton');
 
+// Add 'show' class to the first section
 formSections[currentSection].classList.add('show');
 
 formSections.forEach(function(section, index) {
@@ -12,9 +13,8 @@ formSections.forEach(function(section, index) {
             currentSection++;
             if (currentSection < formSections.length) {
                 formSections[currentSection].classList.add('show');
-                predictButton.style.marginTop = currentSection * 1 + 'px';
             } else {
-                predictButton.disabled = false;
+                predictButton.disabled = false; // Enable the "Predict" button
             }
         }
     });
@@ -22,5 +22,8 @@ formSections.forEach(function(section, index) {
 
 document.getElementById('dataForm').addEventListener('submit', function (event) {
     event.preventDefault();
+
+    // Handle the data input and submission here...
+
     window.location.href = 'results.html';
 });

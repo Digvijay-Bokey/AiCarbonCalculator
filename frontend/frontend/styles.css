@@ -9,7 +9,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    min-height: 100vh; /* Changed from 'height: 100vh;' */
     margin: 0;
     border: 1px solid #fff;
     box-shadow: 0 0 10px #333;
@@ -84,5 +84,5 @@ button:disabled {
 .form-section.show {
     opacity: 1;
     transform: translateY(0);
-    max-height: 200px;
+    max-height: 700px;
 }
