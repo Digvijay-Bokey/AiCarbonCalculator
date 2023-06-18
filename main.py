@@ -10,20 +10,24 @@ selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ'
 original_df = pd.read_csv('recs2020_public_v3.csv')
 
 # Create new dataframe with selected columns and the condition
-new_df = original_df.head(2000)[selected_columns]
+new_df = original_df[selected_columns]
 
 # Filter rows based on the condition (hot tub or pool)
 condition = (new_df['SWIMPOOL'] == 1) | (new_df['RECBATH'] == 1)
-new_df = new_df[condition]
+new_df = new_df[condition].head(50)
+
+# Change negative values and zeros to NaN for numeric columns
+numeric_columns = new_df.select_dtypes(include=np.number).columns
+new_df[numeric_columns] = new_df[numeric_columns].where(new_df[numeric_columns] > 0, np.nan)
 
 def calculate_carbon_footprint(row):
     # Get the values from the row
     values = row[['TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL', 'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']]
     
-    # Preprocess the values (handle zeros, log transformation, etc.)
+    # Preprocess the values (handle NaNs, log transformation, etc.)
     transformed_values = []
     for value in values:
-        if value <= 0:
+        if pd.isna(value):
             transformed_values.append(np.nan)
         else:
             transformed_values.append(np.log1p(value))
