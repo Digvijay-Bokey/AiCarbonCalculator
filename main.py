@@ -191,7 +191,7 @@ y_true = fairness_df["y_true"]
 y_pred = fairness_df["y_test"]
 
 def find_FPR(y_true, y_pred):
-    cm = confusion_matrix(y_true, y_pred)
+    cm = confusion_matrix(y_pred, y_true)
     tp = cm[1][1]
     fp = cm[0][1]
     fn = cm[1][0]
@@ -216,6 +216,8 @@ tnr = str(makePercent(tnr)) + "%"
 tpr = str(makePercent(tpr)) + "%"
 fnr = str(makePercent(fnr)) + "%"
 
+print("FPR/FNR results are as follows: ")
+# output confusion matrix results
 print("False Positive Rate: " + str(fpr))
 print("True Negative Rate: " + str(tnr))
 print("False Negative Rate: " + str(fnr))
