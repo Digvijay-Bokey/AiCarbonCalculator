@@ -8,6 +8,6 @@ selected_columns = ['REGIONC']
 new_df = original_df[selected_columns]
 
 # Save new dataframe to csv
-new_df.to_csv('new.csv', index=False)
+new_df.to_csv('selected.csv', index=False)
 
 print(new_df)
