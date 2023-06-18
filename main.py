@@ -170,3 +170,12 @@ print(final)
 new_df.to_csv('selected_with_carbon_footprint.csv', index=False)
 
 
+def process_input(data):
+    # Preprocess input data here, e.g. turn data into appropriate numpy array
+
+    # Use your model to make a prediction
+    prediction = mlp.predict(data)
+
+    # Post-process prediction here, if necessary
+
+    return prediction
