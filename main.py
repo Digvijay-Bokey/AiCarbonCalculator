@@ -104,8 +104,6 @@ hist = model.fit(X_train, Y_test,
                  batch_size=32, epochs=100,
                  validation_data=(X_val, Y_val))
 
-
-
 """
 
 # Create and train the MLPRegressor model
@@ -125,9 +123,50 @@ print("Mean Squared Error:", mse)
 
 # Evaluate the model using R2 score
 r2 = metrics.r2_score(Y_test, pred)
-print("R2 Score:", r2)
+print("Accuracy Score:", r2)
+
+#test = ['WEST', 'Pacific', 'California', 'Hot-Dry', 2, 1, 4, 1, 0, -2, 1, 1, 5, 1, 3, 1, 1, 16, 7]
+
+test_df = pd.DataFrame(columns=['REGIONC','DIVISION','state_name','BA_climate', 'TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE',
+                                'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL', 'DWASHUSE', 'DRYRFUEL',
+                                'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY'], index = ['x'])
 
 
+test_df['REGIONC'] = pd.Series({'x':'West'})
+test_df['DIVISION'] = pd.Series({'x':'Pacific'})
+test_df['state_name'] = pd.Series({'x':'California'})
+test_df['BA_climate'] = pd.Series({'x':'Hot-Dry'})
+test_df['TYPEHUQ'] = pd.Series({'x':2})
+test_df['YEARMADERANGE'] = pd.Series({'x':1})
+test_df['WALLTYPE'] = pd.Series({'x':4})
+test_df['SWIMPOOL'] = pd.Series({'x':1})
+test_df['RECBATH'] = pd.Series({'x':0})
+test_df['FUELTUB'] = pd.Series({'x':-2})
+test_df['RANGEFUEL'] = pd.Series({'x':1})
+test_df['OUTGRILLFUEL'] = pd.Series({'x':1})
+test_df['DWASHUSE'] = pd.Series({'x':5})
+test_df['DRYRFUEL'] = pd.Series({'x':8})
+test_df['EQUIPM'] = pd.Series({'x':3})
+test_df['FUELHEAT'] = pd.Series({'x':4})
+test_df['FUELH2O'] = pd.Series({'x':1})
+test_df['MONEYPY'] = pd.Series({'x':7})
+
+
+le = preprocessing.LabelEncoder()
+
+test_df['REGIONC'] = le.fit_transform(test_df['REGIONC'])
+test_df['DIVISION'] = le.fit_transform(test_df['DIVISION'])
+test_df['state_name'] = le.fit_transform(test_df['state_name'])
+test_df['BA_climate'] = le.fit_transform(test_df['BA_climate'])
+
+
+preds = preprocessing.MinMaxScaler().fit_transform(test_df)
+final = mlp.predict(preds)
+
+print("PREDICTED CARBON VAL:")
+print(final)
 
 # Save new dataframe to csv
 new_df.to_csv('selected_with_carbon_footprint.csv', index=False)
+
+
