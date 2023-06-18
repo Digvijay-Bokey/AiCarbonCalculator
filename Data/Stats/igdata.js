@@ -20,6 +20,12 @@ RECBATH	Num	Have hot tub
 FUELTUB	Num	Fuel used for heating hot tub
 RANGEFUEL	Num	Fuel used by range
 OUTGRILLFUEL	Num	Fuel used by outdoor grill
+DWASHUSE	Num	Frequency of dishwasher use per week
+DRYRFUEL	Num	Fuel used by clothes dryer
+EQUIPM	Num	Main space heating equipment type
+FUELHEAT	Num	Main space heating fuel
+FUELH2O	Num	Fuel used by main water heater
+MONEYPY	Num	Annual gross household income for the past year
 
 
  */
