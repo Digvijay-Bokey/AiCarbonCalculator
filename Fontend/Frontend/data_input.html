@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data Input</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+</head>
+<body>
+<header>
+  <h1 data-aos="fade-down">Provide Your Data</h1>
+</header>
+<div class="container">
+  <form id="dataForm" data-aos="fade-right">
+    <!-- Add the required input fields based on the data your AI model needs -->
+    <label for="exampleInput">Example Input:</label>
+    <input type="text" id="exampleInput">
+    <button type="submit" id="submitButton">Submit and View Prediction</button>
+  </form>
+</div>
+<script src="data_input.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+</body>
+</html>
