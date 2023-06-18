@@ -5,7 +5,8 @@ document.getElementById('uploadButton').addEventListener('click', function() {
 
     reader.onload = function(e) {
         var text = reader.result;
-        document.getElementById('outputArea').innerText = text;
+        sessionStorage.setItem('textData', text);
+        window.location.href = 'output.html';
     }
 
     reader.readAsText(file);
