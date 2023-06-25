@@ -8,6 +8,28 @@ from sklearn.neural_network import MLPRegressor
 from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 
+# Argument parser
+parser = argparse.ArgumentParser(description='Predict the carbon score.')
+parser.add_argument('--REGIONC', type=str, required=True, help='The REGIONC value')
+parser.add_argument('--DIVISION', type=str, required=True, help='The DIVISION value')
+parser.add_argument('--state_name', type=str, required=True, help='The state_name value')
+parser.add_argument('--BA_climate', type=str, required=True, help='The BA_climate value')
+parser.add_argument('--TYPEHUQ', type=int, required=True, help='The TYPEHUQ value')
+parser.add_argument('--YEARMADERANGE', type=int, required=True, help='The YEARMADERANGE value')
+parser.add_argument('--WALLTYPE', type=int, required=True, help='The WALLTYPE value')
+parser.add_argument('--SWIMPOOL', type=int, required=True, help='The SWIMPOOL value')
+parser.add_argument('--RECBATH', type=int, required=True, help='The RECBATH value')
+parser.add_argument('--FUELTUB', type=int, required=True, help='The FUELTUB value')
+parser.add_argument('--RANGEFUEL', type=int, required=True, help='The RANGEFUEL value')
+parser.add_argument('--OUTGRILLFUEL', type=int, required=True, help='The OUTGRILLFUEL value')
+parser.add_argument('--DWASHUSE', type=int, required=True, help='The DWASHUSE value')
+parser.add_argument('--DRYRFUEL', type=int, required=True, help='The DRYRFUEL value')
+parser.add_argument('--EQUIPM', type=int, required=True, help='The EQUIPM value')
+parser.add_argument('--FUELHEAT', type=int, required=True, help='The FUELHEAT value')
+parser.add_argument('--FUELH2O', type=int, required=True, help='The FUELH2O value')
+parser.add_argument('--MONEYPY', type=int, required=True, help='The MONEYPY value')
+args = parser.parse_args()
+
 # Features that we will be using to calculate "carbon score" for users
 selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ', 'YEARMADERANGE',
                     'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL',
@@ -115,24 +137,24 @@ test_df = pd.DataFrame(columns=['REGIONC','DIVISION','state_name','BA_climate', 
 
 
 # input user inputs from front end to the test dataframe
-test_df['REGIONC'] = pd.Series({'x':'West'})
-test_df['DIVISION'] = pd.Series({'x':'Pacific'})
-test_df['state_name'] = pd.Series({'x':'California'})
-test_df['BA_climate'] = pd.Series({'x':'Hot-Dry'})
-test_df['TYPEHUQ'] = pd.Series({'x':1})
-test_df['YEARMADERANGE'] = pd.Series({'x':1})
-test_df['WALLTYPE'] = pd.Series({'x':1})
-test_df['SWIMPOOL'] = pd.Series({'x':1})
-test_df['RECBATH'] = pd.Series({'x':0})
-test_df['FUELTUB'] = pd.Series({'x':0})
-test_df['RANGEFUEL'] = pd.Series({'x':1})
-test_df['OUTGRILLFUEL'] = pd.Series({'x':1})
-test_df['DWASHUSE'] = pd.Series({'x':1})
-test_df['DRYRFUEL'] = pd.Series({'x':1})
-test_df['EQUIPM'] = pd.Series({'x':1})
-test_df['FUELHEAT'] = pd.Series({'x':1})
-test_df['FUELH2O'] = pd.Series({'x':1})
-test_df['MONEYPY'] = pd.Series({'x':1})
+test_df['REGIONC'] = pd.Series({'x': args.REGIONC})
+test_df['DIVISION'] = pd.Series({'x': args.DIVISION})
+test_df['state_name'] = pd.Series({'x': args.state_name})
+test_df['BA_climate'] = pd.Series({'x': args.BA_climate})
+test_df['TYPEHUQ'] = pd.Series({'x': args.TYPEHUQ})
+test_df['YEARMADERANGE'] = pd.Series({'x': args.YEARMADERANGE})
+test_df['WALLTYPE'] = pd.Series({'x': args.WALLTYPE})
+test_df['SWIMPOOL'] = pd.Series({'x': args.SWIMPOOL})
+test_df['RECBATH'] = pd.Series({'x': args.RECBATH})
+test_df['FUELTUB'] = pd.Series({'x': args.FUELTUB})
+test_df['RANGEFUEL'] = pd.Series({'x': args.RANGEFUEL})
+test_df['OUTGRILLFUEL'] = pd.Series({'x': args.OUTGRILLFUEL})
+test_df['DWASHUSE'] = pd.Series({'x': args.DWASHUSE})
+test_df['DRYRFUEL'] = pd.Series({'x': args.DRYRFUEL})
+test_df['EQUIPM'] = pd.Series({'x': args.EQUIPM})
+test_df['FUELHEAT'] = pd.Series({'x': args.FUELHEAT})
+test_df['FUELH2O'] = pd.Series({'x': args.FUELH2O})
+test_df['MONEYPY'] = pd.Series({'x': args.MONEYPY})
 
 # change strings to ASCII conversion as done in preprocessing stage
 le = preprocessing.LabelEncoder()
