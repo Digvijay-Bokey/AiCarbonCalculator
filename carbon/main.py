@@ -7,7 +7,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 
-# Features that we will be using to calculate "carbon score" for users
+# Features that we will be using to calculate "carbon score" for users - these are the features that we will be using to train our model
 selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ', 'YEARMADERANGE',
                     'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL',
                     'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']
