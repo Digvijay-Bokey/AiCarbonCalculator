@@ -8,8 +8,6 @@ app = Flask(__name__)
 def predict():
     data = request.get_json(force=True)
 
-    # Your main script should have a function to process the incoming data
-    # and return a prediction. For this example, let's say it's called `process_input`.
     prediction = main.process_input(data)
 
     return jsonify({'prediction': prediction})
