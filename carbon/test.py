@@ -1,13 +1,10 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/')
 def generate_sentence():
     return render_template('data_input.html')
-
-@app.route('/results')
-
 
 if __name__ == '__main__':
     app.run(debug=True)
