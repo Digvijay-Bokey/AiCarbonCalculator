@@ -1,21 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 body {
-    font-family: 'Roboto', sans-serif;
     background-color: #121212;
     color: #fff;
-    padding: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    padding: 50px;
     margin: 0;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container {
-    text-align: center;
     max-width: 800px;
+    text-align: center;
 }
 
 h1 {
@@ -34,27 +34,26 @@ form {
     align-items: center;
 }
 
-label, select {
+.label, .select {
     width: 100%;
     margin-bottom: 20px;
 }
 
-select, button {
+button, select {
     padding: 15px;
     font-size: 16px;
-    border: none;
     border-radius: 15px;
     transition: all 0.3s ease;
     appearance: none;
-    background: #2d2d2d;
+    border: none;
     color: #fff;
+    background: #2d2d2d;
 }
 
 button {
     background-color: #0a84ff;
-    color: #fff;
-    cursor: pointer;
     box-shadow: 0 0 10px #007aff;
+    cursor: pointer;
     margin-top: 20px;
 }
 
@@ -69,55 +68,45 @@ button:disabled {
 }
 
 .form-section {
-    margin-bottom: 20px;
-    transition: all 0.3s ease;
-    opacity: 0;
-    transform: translateY(-20px);
     position: relative;
     max-height: 0;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
 }
 
 .form-section.show {
+    max-height: 200px;
     opacity: 1;
     transform: translateY(0);
-    max-height: 200px;
-}
-select {
-    appearance: none;
-    outline: none;
-    background: #2d2d2d;
-    color: #fff;
 }
 
 option {
-    background: #121212;
     color: #fff;
+    background: #121212;
 }
 
 option:checked {
     background: #0a84ff;
 }
-/* Nonnative stuff- dont mess around unless u know
 
-Reminder from ur friendly Digvijay
-*/
-
-
-
-
+/* The following CSS rules are browser specific.
+Don't modify unless you're familiar with them.
+Friendly reminder from Digvijay */
 
 select {
     background-color: #2d2d2d;
     color: #fff;
-    border: none;
     padding: 15px;
     font-size: 16px;
     border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    appearance: none;
+    outline: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
-    cursor: pointer;
-    outline: none;
 }
 
 select::-ms-expand {
@@ -125,13 +114,13 @@ select::-ms-expand {
 }
 
 select:focus {
-    outline: none;
     box-shadow: 0 0 10px #007aff;
+    outline: none;
 }
 
 option {
-    background-color: #121212;
     color: #fff;
+    background-color: #121212;
 }
 
 option:checked {
