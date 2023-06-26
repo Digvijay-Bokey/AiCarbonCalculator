@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 import os
@@ -16,15 +16,18 @@ db = SQLAlchemy(app)
 # Init ma
 ma = Marshmallow(app)
 
+
 # User Class/Model
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     region = db.Column(db.String(100))
+
     # Add other columns here following the pattern above
 
     def __init__(self, region):
         self.region = region
         # Add other assignments here following the pattern above
+
 
 # User Schema
 class UserSchema(ma.SQLAlchemyAutoSchema):
@@ -32,9 +35,11 @@ class UserSchema(ma.SQLAlchemyAutoSchema):
         model = User
         sqla_session = db.session
 
+
 # Init schema
 user_schema = UserSchema()
 users_schema = UserSchema(many=True)
+
 
 # Create a User
 @app.route('/', methods=['POST'])
@@ -50,9 +55,11 @@ def add_user():
 
     return user_schema.jsonify(new_user)
 
+
 # Run server
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 @app.route('/')
 def home():
