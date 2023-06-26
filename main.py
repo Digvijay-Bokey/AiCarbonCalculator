@@ -8,28 +8,6 @@ from sklearn.neural_network import MLPRegressor
 from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 
-# Argument parser
-parser = argparse.ArgumentParser(description='Predict the carbon score.')
-parser.add_argument('--REGIONC', type=str, required=True, help='The REGIONC value')
-parser.add_argument('--DIVISION', type=str, required=True, help='The DIVISION value')
-parser.add_argument('--state_name', type=str, required=True, help='The state_name value')
-parser.add_argument('--BA_climate', type=str, required=True, help='The BA_climate value')
-parser.add_argument('--TYPEHUQ', type=int, required=True, help='The TYPEHUQ value')
-parser.add_argument('--YEARMADERANGE', type=int, required=True, help='The YEARMADERANGE value')
-parser.add_argument('--WALLTYPE', type=int, required=True, help='The WALLTYPE value')
-parser.add_argument('--SWIMPOOL', type=int, required=True, help='The SWIMPOOL value')
-parser.add_argument('--RECBATH', type=int, required=True, help='The RECBATH value')
-parser.add_argument('--FUELTUB', type=int, required=True, help='The FUELTUB value')
-parser.add_argument('--RANGEFUEL', type=int, required=True, help='The RANGEFUEL value')
-parser.add_argument('--OUTGRILLFUEL', type=int, required=True, help='The OUTGRILLFUEL value')
-parser.add_argument('--DWASHUSE', type=int, required=True, help='The DWASHUSE value')
-parser.add_argument('--DRYRFUEL', type=int, required=True, help='The DRYRFUEL value')
-parser.add_argument('--EQUIPM', type=int, required=True, help='The EQUIPM value')
-parser.add_argument('--FUELHEAT', type=int, required=True, help='The FUELHEAT value')
-parser.add_argument('--FUELH2O', type=int, required=True, help='The FUELH2O value')
-parser.add_argument('--MONEYPY', type=int, required=True, help='The MONEYPY value')
-args = parser.parse_args()
-
 # Features that we will be using to calculate "carbon score" for users
 selected_columns = ['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ', 'YEARMADERANGE',
                     'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL',
@@ -54,6 +32,7 @@ new_df['BA_climate'] = le.fit_transform(new_df['BA_climate'])
 condition = (new_df['SWIMPOOL'] == 1) | (new_df['RECBATH'] == 1)
 new_df = new_df[condition]
 
+
 # Change negative values and zeros to NaN for numeric columns
 # we arrived at better testing accuracy without imputing data and rather just left missing data as -2 as in original dataset
 # numeric_columns = new_df.select_dtypes(include=np.number).columns
@@ -62,8 +41,9 @@ new_df = new_df[condition]
 # calculates carbon footprint using features using SARIMA (moving averages)
 def calculate_carbon_footprint(row):
     # Get the values from the row
-    values = row[['TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL', 'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']]
-    
+    values = row[['TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE', 'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL',
+                  'DWASHUSE', 'DRYRFUEL', 'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY']]
+
     # Preprocess the values (handle NaNs, log transformation, etc.)
     transformed_values = []
     for value in values:
@@ -71,21 +51,22 @@ def calculate_carbon_footprint(row):
             transformed_values.append(np.nan)
         else:
             transformed_values.append(np.log1p(value))
-    
-    
+
     # Create the SARIMAX model with the desired parameters
-    model = sm.tsa.SARIMAX(transformed_values, order=(1, 0, 1), seasonal_order=(1, 0, 1, 12), enforce_stationarity=False)
-    
+    model = sm.tsa.SARIMAX(transformed_values, order=(1, 0, 1), seasonal_order=(1, 0, 1, 12),
+                           enforce_stationarity=False)
+
     # Fit the model to the values
     result = model.fit()
-    
+
     # Predict the carbpn footprint with moving average methodology
     prediction = result.predict(start=len(transformed_values), end=len(transformed_values))
-    
+
     # Calculate the total carbon footprint
     total_carbon_footprint = np.expm1(prediction)
-    
+
     return total_carbon_footprint
+
 
 # Apply the calculate_carbon_footprint function to each row in new_df
 new_df['CARBFTP'] = new_df.apply(calculate_carbon_footprint, axis=1)
@@ -129,32 +110,31 @@ print("Mean Squared Error:", mse)
 accuracy = metrics.r2_score(Y_test, pred)
 print("Accuracy Score:", accuracy)
 
-
 # create a user input as a sole data row calling it test_df
-test_df = pd.DataFrame(columns=['REGIONC','DIVISION','state_name','BA_climate', 'TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE',
-                                'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL', 'DWASHUSE', 'DRYRFUEL',
-                                'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY'], index = ['x'])
-
+test_df = pd.DataFrame(
+    columns=['REGIONC', 'DIVISION', 'state_name', 'BA_climate', 'TYPEHUQ', 'YEARMADERANGE', 'WALLTYPE',
+             'SWIMPOOL', 'RECBATH', 'FUELTUB', 'RANGEFUEL', 'OUTGRILLFUEL', 'DWASHUSE', 'DRYRFUEL',
+             'EQUIPM', 'FUELHEAT', 'FUELH2O', 'MONEYPY'], index=['x'])
 
 # input user inputs from front end to the test dataframe
-test_df['REGIONC'] = pd.Series({'x': args.REGIONC})
-test_df['DIVISION'] = pd.Series({'x': args.DIVISION})
-test_df['state_name'] = pd.Series({'x': args.state_name})
-test_df['BA_climate'] = pd.Series({'x': args.BA_climate})
-test_df['TYPEHUQ'] = pd.Series({'x': args.TYPEHUQ})
-test_df['YEARMADERANGE'] = pd.Series({'x': args.YEARMADERANGE})
-test_df['WALLTYPE'] = pd.Series({'x': args.WALLTYPE})
-test_df['SWIMPOOL'] = pd.Series({'x': args.SWIMPOOL})
-test_df['RECBATH'] = pd.Series({'x': args.RECBATH})
-test_df['FUELTUB'] = pd.Series({'x': args.FUELTUB})
-test_df['RANGEFUEL'] = pd.Series({'x': args.RANGEFUEL})
-test_df['OUTGRILLFUEL'] = pd.Series({'x': args.OUTGRILLFUEL})
-test_df['DWASHUSE'] = pd.Series({'x': args.DWASHUSE})
-test_df['DRYRFUEL'] = pd.Series({'x': args.DRYRFUEL})
-test_df['EQUIPM'] = pd.Series({'x': args.EQUIPM})
-test_df['FUELHEAT'] = pd.Series({'x': args.FUELHEAT})
-test_df['FUELH2O'] = pd.Series({'x': args.FUELH2O})
-test_df['MONEYPY'] = pd.Series({'x': args.MONEYPY})
+test_df['REGIONC'] = pd.Series({'x': 'West'})
+test_df['DIVISION'] = pd.Series({'x': 'Pacific'})
+test_df['state_name'] = pd.Series({'x': 'California'})
+test_df['BA_climate'] = pd.Series({'x': 'Hot-Dry'})
+test_df['TYPEHUQ'] = pd.Series({'x': 1})
+test_df['YEARMADERANGE'] = pd.Series({'x': 1})
+test_df['WALLTYPE'] = pd.Series({'x': 1})
+test_df['SWIMPOOL'] = pd.Series({'x': 1})
+test_df['RECBATH'] = pd.Series({'x': 0})
+test_df['FUELTUB'] = pd.Series({'x': 0})
+test_df['RANGEFUEL'] = pd.Series({'x': 1})
+test_df['OUTGRILLFUEL'] = pd.Series({'x': 1})
+test_df['DWASHUSE'] = pd.Series({'x': 1})
+test_df['DRYRFUEL'] = pd.Series({'x': 1})
+test_df['EQUIPM'] = pd.Series({'x': 1})
+test_df['FUELHEAT'] = pd.Series({'x': 1})
+test_df['FUELH2O'] = pd.Series({'x': 1})
+test_df['MONEYPY'] = pd.Series({'x': 1})
 
 # change strings to ASCII conversion as done in preprocessing stage
 le = preprocessing.LabelEncoder()
@@ -164,31 +144,33 @@ test_df['DIVISION'] = le.fit_transform(test_df['DIVISION'])
 test_df['state_name'] = le.fit_transform(test_df['state_name'])
 test_df['BA_climate'] = le.fit_transform(test_df['BA_climate'])
 
+
 def runMLP_Regressor(data):
     # Preprocess input data here, e.g. turn data into appropriate numpy array
     # Use your model to make a prediction
     # head limit used to be here
     prediction = model.predict(data)
 
-
     # Post-process prediction here, if necessary
     return prediction
 
-#truncate carbon score prediction to two three decimal places
+
+# truncate carbon score prediction to two three decimal places
 def threeDecimalPlaces(x):
-    return int(x*1000)/1000
+    return int(x * 1000) / 1000
+
+
 # find carbon score for this user using the AI model we trained (the MLPRegressor which we named model)
 preds = preprocessing.MinMaxScaler().fit_transform(test_df)
-final = runMLP_Regressor(preds)/15 * 100  # scale to 100
+final = runMLP_Regressor(preds) / 15 * 100  # scale to 100
 final = threeDecimalPlaces(final)
 
 # outputs predicted score for user (send to backend
 print("PREDICTED CARBON SCORE: " + str(final))
 
-#binVal being 1 means user is responsible
-#binVal being 0 means user is not responsible
+# binVal being 1 means user is responsible
+# binVal being 0 means user is not responsible
 binVal = 1 if final > 50 else 0
-
 
 # evaluating fairness
 fairness_df = new_df
@@ -203,6 +185,7 @@ fairness_df.loc[fairness_df["YEARMADERANGE"] < 5, "y_true"] = 0
 y_true = fairness_df["y_true"]
 y_pred = fairness_df["y_test"]
 
+
 # use confusion matrices to get false negative rates etc based on
 def find_TNR(y_true, y_pred):
     cm = confusion_matrix(y_true, y_pred)
@@ -210,15 +193,17 @@ def find_TNR(y_true, y_pred):
     fp = cm[0][1]
     fn = cm[1][0]
     tn = cm[0][0]
-    tnr = fp/(fp+tn)
+    tnr = fp / (fp + tn)
     return tnr
+
+
 def find_FPR(y_true, y_pred):
     cm = confusion_matrix(y_pred, y_true)
     tp = cm[1][1]
     fp = cm[0][1]
     fn = cm[1][0]
     tn = cm[0][0]
-    fpr = tn/ (tn+fp)
+    fpr = tn / (tn + fp)
     return fpr
 
 
@@ -227,10 +212,13 @@ tnr = find_TNR(y_true, y_pred)
 tpr = 1 - fpr
 fnr = 1 - tnr
 
+
 # make into percentages for increased reliability
 
 def makePercent(x):
-    return int(x*10000)/10000 * 100
+    return int(x * 10000) / 10000 * 100
+
+
 fpr = str(makePercent(fpr)) + "%"
 tnr = str(makePercent(tnr)) + "%"
 tpr = str(makePercent(tpr)) + "%"
@@ -243,7 +231,6 @@ print("True Negative Rate: " + str(tnr))
 print("False Negative Rate: " + str(fnr))
 print("True Positive Rate: " + str(tpr))
 
-
 # Data Analysis: differentiate fairness parameters based on income levels
 
 highIncome_df = fairness_df[fairness_df['MONEYPY'] >= 13]
@@ -254,7 +241,6 @@ lowIncome_df = fairness_df[fairness_df['MONEYPY'] < 13]
 # reset true and prediction columns
 y_true = highIncome_df["y_true"]
 y_pred = highIncome_df["y_test"]
-
 
 fpr = find_FPR(y_true, y_pred)
 tnr = find_TNR(y_true, y_pred)
@@ -273,13 +259,11 @@ print("True Negative Rate: " + str(tnr))
 print("False Negative Rate: " + str(fnr))
 print("True Positive Rate: " + str(tpr))
 
-
 # Calculate fairness indicators for low Income Families
 
 # reset true and prediction columns
 y_true = lowIncome_df["y_true"]
 y_pred = lowIncome_df["y_test"]
-
 
 fpr = find_FPR(y_true, y_pred)
 tnr = find_TNR(y_true, y_pred)
@@ -297,7 +281,6 @@ print("False Positive Rate: " + str(fpr))
 print("True Negative Rate: " + str(tnr))
 print("False Negative Rate: " + str(fnr))
 print("True Positive Rate: " + str(tpr))
-
 
 
 
