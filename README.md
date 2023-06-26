@@ -25,6 +25,10 @@ To run this project, you'll need to have Python installed on your machine. You'l
 You can install these libraries with pip:
 
 ```pip install pandas numpy statsmodels sklearn```
+or with pip3:
+```pip3 install pandas numpy statsmodels sklearn```
+or with conda:
+```conda install pandas numpy statsmodels sklearn```
 
 
 ### Running the Project
