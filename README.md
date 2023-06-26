@@ -2,6 +2,13 @@
 
 This project is designed to predict a user's carbon footprint using various features from their daily life. The model is built with Python and uses libraries such as pandas, NumPy, statsmodels, and Scikit-learn.
 
+
+## Discription
+
+The script uses a Multilayer Perceptron (MLP) Regressor trained on data from the Residential Energy Consumption Survey (RECS) dataset. The carbon score prediction is based on factors like the region of residence, division, state name, climate, house type, year of construction, wall type, presence of swimming pool or hot tub, fuel used in tub, range fuel, outdoor grill fuel, dishwasher use, dryer fuel, equipment used, heating fuel, water heating fuel, and income.
+
+The fairness of the model is evaluated based on income levels (high and low). The script also provides True Positive Rate (TPR), False Positive Rate (FPR), True Negative Rate (TNR), and False Negative Rate (FNR) for high and low-income families.
+
 ## Getting Started
 
 These instructions will help you set up the project locally.
