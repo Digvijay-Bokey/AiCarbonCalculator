@@ -4,10 +4,14 @@
     <title>Results</title>
 </head>
 <body>
-    <h1>Prediction: {{ prediction }}</h1>
-    <h2>False Positive Rate: {{ fpr }}</h2>
-    <h2>True Negative Rate: {{ tnr }}</h2>
-    <h2>False Negative Rate: {{ fnr }}</h2>
-    <h2>True Positive Rate: {{ tpr }}</h2>
+    <h1>Results</h1>
+    <p>Mean Absolute Error: {{ mae }}</p>
+    <p>Mean Squared Error: {{ mse }}</p>
+    <p>Accuracy Score: {{ accuracy }}</p>
+    <p>Predicted Carbon Score: {{ final }}</p>
+    <p>False Positive Rate: {{ fpr }}</p>
+    <p>True Negative Rate: {{ tnr }}</p>
+    <p>True Positive Rate: {{ tpr }}</p>
+    <p>False Negative Rate: {{ fnr }}</p>
 </body>
 </html>
