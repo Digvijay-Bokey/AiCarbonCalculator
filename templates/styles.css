@@ -121,7 +121,7 @@ option:checked {
 
 /* Select Styles */
 select {
-    appearance: none;
+    /*appearance: none;*/
     background-color: #2d2d2d;
     border: none;
     border-radius: 15px;
