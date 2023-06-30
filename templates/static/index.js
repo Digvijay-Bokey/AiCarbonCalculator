@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let formData = new FormData(form);
     let data = Object.fromEntries(formData);
 
-    fetch('/', {
+    fetch('/predict', {  // Changed the URL here
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
