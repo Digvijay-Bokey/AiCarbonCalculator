@@ -1,7 +1,6 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, render_template, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
-import os
 
 # Init app
 app = Flask(__name__)
@@ -34,26 +33,21 @@ class UserSchema(ma.SQLAlchemyAutoSchema):
 user_schema = UserSchema()
 users_schema = UserSchema(many=True)
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['GET', 'POST'])
 def home():
-    return render_template('index.html')
-
-# Create a User
-@app.route('/user', methods=['GET', 'POST'])
-def add_user():
     if request.method == 'POST':
-        region = request.json['region']
+        # assuming there's an input field with name="region" in your form
+        region = request.form['region']
 
         new_user = User(region)
 
         db.session.add(new_user)
         db.session.commit()
 
-        return user_schema.jsonify(new_user)
-    elif request.method == 'GET':
+        return redirect(url_for('home'))  # Redirect to home after post
+    else:
         # Handle GET request here
-        return render_template('user.html')
-
+        return render_template('index.html')
 
 # Run server
 if __name__ == '__main__':
