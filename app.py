@@ -16,18 +16,13 @@ db = SQLAlchemy(app)
 # Init ma
 ma = Marshmallow(app)
 
-
 # User Class/Model
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     region = db.Column(db.String(100))
 
-    # Add other columns here following the pattern above
-
     def __init__(self, region):
         self.region = region
-        # Add other assignments here following the pattern above
-
 
 # User Schema
 class UserSchema(ma.SQLAlchemyAutoSchema):
@@ -35,43 +30,31 @@ class UserSchema(ma.SQLAlchemyAutoSchema):
         model = User
         sqla_session = db.session
 
-
 # Init schema
 user_schema = UserSchema()
 users_schema = UserSchema(many=True)
 
+@app.route('/', methods=['GET'])
+def home():
+    return render_template('index.html')
 
 # Create a User
-@app.route('/', methods=['POST'])
+@app.route('/user', methods=['GET', 'POST'])
 def add_user():
-    region = request.json['region']
-    # Assign other variables here following the pattern above
+    if request.method == 'POST':
+        region = request.json['region']
 
-    new_user = User(region)
-    # Pass the other variables to User here following the pattern above
+        new_user = User(region)
 
-    db.session.add(new_user)
-    db.session.commit()
+        db.session.add(new_user)
+        db.session.commit()
 
-    return user_schema.jsonify(new_user)
-
-
-@app.route('/')
-def home():
-    return render_template('index.html')
+        return user_schema.jsonify(new_user)
+    elif request.method == 'GET':
+        # Handle GET request here
+        return render_template('user.html')
 
 
 # Run server
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-
-# Run server
-if __name__ == '__main__':
-    app.run(debug=True)
-
-
-@app.route('/')
-def home():
-    return render_template('index.html')
