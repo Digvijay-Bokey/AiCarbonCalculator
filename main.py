@@ -28,7 +28,7 @@ new_df['state_name'] = le.fit_transform(new_df['state_name'])
 new_df['BA_climate'] = le.fit_transform(new_df['BA_climate'])
 
 # Filter rows based on the condition (hot tub or pool)
-# if user has either we state that the house has a water unit (represented by column condition"
+# if user has either we state that the house has a water unit (represented by column condition)
 condition = (new_df['SWIMPOOL'] == 1) | (new_df['RECBATH'] == 1)
 new_df = new_df[condition]
 
@@ -52,7 +52,7 @@ def calculate_carbon_footprint(row):
         else:
             transformed_values.append(np.log1p(value))
 
-    # Create the SARIMAX model with the desired parameters
+    # Create the SARIMA model with the desired parameters
     model = sm.tsa.SARIMAX(transformed_values, order=(1, 0, 1), seasonal_order=(1, 0, 1, 12),
                            enforce_stationarity=False)
 
