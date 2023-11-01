@@ -13,10 +13,7 @@
 7. [Fairness Evaluation](#fairness-evaluation)
    - [Approach](#approach)
    - [Metrics](#metrics)
-   - [Tools Used](#tools-used)
-   - [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 
 ## Overview
@@ -80,20 +77,6 @@ In addition to traditional model performance metrics, we have implemented a fair
 - **Equalized Odds Ratio**: 1.0 to 1.1
 - **Predictive Parity**: Achieved
 
-### Tools Used
-- AI Fairness 360
-- Fairlearn
-
-### Results
-The model has been evaluated to be statistically unbiased with regard to the variables examined, falling within acceptable ranges of all fairness metrics.
-
-
-
-## Contributing
-To contribute to this project, please make sure to create a feature branch and submit a pull request for review.
-
-## License
-This project is licensed under the MIT License.
 
 
 
